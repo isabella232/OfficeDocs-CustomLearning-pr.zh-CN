@@ -1,10 +1,14 @@
 # <a name="feedback-and-support"></a>反馈和支持
 
+## <a name="get-support"></a>获取支持
+
+如果您有问题的开放源代码网站模板或 web 部件的提供自定义学习体验请输入您的问题在我们的 GitHub 问题列表。 您可以找到在此列表https://aka.ms/CustomLearningHelp社区原样使用开放源代码解决方案标准会审解决这些问题。 功能请求传送到下述我们用户语音实例。 代码的问题上报给诊断和解决的社区和服务管理员。  
+
 ## <a name="provide-us-feedback"></a>我们提供反馈
 
 如果它使您的业务产出，我们的解决方案是仅成功 ！ 请帮助我们改善通过给予我们通过[UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions)定期反馈。 我们定期查看您的注释和问题。
 
-请注意，仅在阶段 2 Beta 的现有测试期间公司都将能够提供反馈。 供货日期中的 2018 Q4，我们将打开多达所有用户论坛。请设置 UserVoice 中的用户帐户，以便您可以查看并对现有的想法，我们的论坛中提出建议或创建新的。  
+## <a name="usage-questions"></a>使用问题
 
-您还可以通过加入我们的[Office 365 拥护者](https://aka.ms/O365Champions)计划和加入 [驱动应用] 在 Microsoft 技术社区论坛提供反馈https://aka.ms/DriveAdoption。 
+疑问中使用学习门户和其内容的最佳实践[驱动应用](https://aka.ms/DriveAdoption)在 Microsoft 技术社区论坛中加入我们的https://aka.ms/DriveAdoption。 
 
