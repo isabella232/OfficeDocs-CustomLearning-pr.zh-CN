@@ -1,15 +1,15 @@
 ---
-author: karuang
+author: karuanag
 ms.author: karuanag
 title: Office 365 开放源代码解决方案的自定义学习概述
 ms.date: 02/10/2019
 description: 了解 Office 365 的自定义学习如何可以加快使用率和 Office 365 组织中的应用。我们的解决方案包括自定义 SharePoint Online web 部件和现代的 SharePoint Online communications 培训网站的轻松设置到 Office 365 租户。
-ms.openlocfilehash: 987e780cdfc86d60ddce4aede5919719127dc177
-ms.sourcegitcommit: 2d9b688171432fdf15c805f2abc415bb115d97d7
+ms.openlocfilehash: c47021a356bf9562e5f04c74f7b705f294518901
+ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "29886105"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29951226"
 ---
 # <a name="custom-learning-for-office-365"></a>自定义 Office 365 的学习
 
@@ -35,9 +35,9 @@ ms.locfileid: "29886105"
 
 ![学习 Office 365 web 部件的自定义](media/clo365customplaylist.png)
 
-## <a name="4-easy-steps"></a>4 个简单步骤
+## <a name="3-easy-steps"></a>3 个简单步骤
 
-允许[开始](getstarted.md)使用最新的 Microsoft 内容创建简单的培训解决方案。
+允许[开始](prereqs.md)使用最新的 Microsoft 内容创建简单的培训解决方案。
 
 1. 为您选择的解决方案权限
 2. 完成安装 & 自定义您的内容
