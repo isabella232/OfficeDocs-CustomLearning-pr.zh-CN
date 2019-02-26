@@ -1,46 +1,46 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: 必备组件和决策
+title: 先决条件和决策
 ms.date: 02/10/2019
-description: 决策和自定义学习安装和安装系统必备信息
-ms.openlocfilehash: 99ab08d8b18be00c3a29878ff462f9109cc9ed29
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+description: 自定义学习安装和设置的决策和预备信息
+ms.openlocfilehash: b498ba308a87cad7000a041676feeac44326d327
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29952589"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989703"
 ---
 ## <a name="service-decisions"></a>服务决策
 
-一旦满足您必备组件和安装之前您应 CLO365 您实现有关做出以下决定：
+在满足先决条件后以及在安装之前, 您应针对 CLO365 的 implemenation 做出以下决策:
 
-1. **您是否已有的培训门户公司内具有现代界面？**
+1. **您的公司中是否已有一个带有新式接口的培训门户？**
 
-- **是**如果您对这些问题的回答是操作的，则[安装 web 部件](installwebpart.md)中的现有的网站体验是操作的我们推荐。
-- **无**如果您的回答没有我们建议您[安装自定义学习网站的完整](installsitepackage.md)包。 这将准备好您与现代 SharePoint Online 的通信网站，您可以展开以存放重要向最终用户的其他信息。 自定义网站不会影响获取内容更新的 web 部件的能力。 
+- **是**如果你对这些问题的回答是肯定的, 则在现有网站体验中[安装 web 部件](installwebpart.md)是我们建议的操作过程。
+- **否**如果你回答 "否", 则建议[安装完整的自定义学习网站](installsitepackage.md)程序包。 这将为您准备好一个新式的 SharePoint Online 通信网站, 您可以扩展该网站, 以容纳对最终用户重要的其他信息。 自定义网站不会影响 web 部件获取内容更新的能力。 
 
-2. **您是 Office 365 管理员？**
+2. **您是 Office 365 管理员吗？**
 
-- **YES**： 具有适当权限的任一安装。
-- **无**： 与 Office 365 管理员联系以寻求帮助或安装在您拥有网站集的 web 部件
+- **是**: 您对这两种安装都拥有适当的权限。
+- **NO**: 联系 Office 365 管理员以获取帮助或在你拥有的网站集中安装 web 部件
 
-3. **您在组织中必须的正式培训部门？**
+3. **您是否在组织中有正式的培训部门？**
 
-- **YES**： 确保吸引他们并让他们知道如何使用这些解决方案以提供其他、 自定义培训内容。
-- **无**： 使用我们[的应用工具包自助服务](driveadoption.md)以使最终用户注意网站是可用于帮助他们。
+- **是**: 请确保将其接洽, 并让他们了解如何使用这些解决方案来提供其他自定义的培训内容。
+- **否**: 使用我们的[自助服务采用工具包](driveadoption.md), 让最终用户知道网站可提供帮助。
 
-4. **您在组织中必须用户社区？ 这是任一要详细了解技术，有时也称为超级用户，或只希望了解更多的用户正式或非正式组。**
+4. **您的组织中是否有用户社区？ 这是一组正式或非正式用户, 他们希望了解有关技术的详细信息, 有时称为 "高级用户", 或者只是那些想要了解详细信息的人。**
 
-- **是**： 您可以使用的自定义学习网站体验提供链接到任何新的或现有用户社区论坛。
-- **无**： 请考虑使用户可以共享他们的成功和相互学习启动内部用户组。 如果您没有时间培养的内部用户组您和您的员工可以加入[Microosft Office 365 冠军社区](https://aka.ms/O365Champions)每月培训、 成员资格的在线社区和及早访问工具和资源 for Office 365。
+- **是**: 您可以使用自定义学习网站体验提供指向任何新的或现有的用户社区论坛的链接。
+- **否**: 考虑启动内部用户组, 以便用户可以共享其成功并彼此了解。 如果你没有时间培养内部用户组, 并且你的员工可以加入[Microosft office 365 冠军社区](https://aka.ms/O365Champions)以进行月度培训, 在线社区中的成员资格和早期访问 Office 365 的工具和资源。
 
-5.  **您要负责网站维护或支持问题？**
+5.  **您是否负责网站维护或支持问题？**
 
-- **YES**： 建议使用 Office 365 的功能进行自定义学习网站支持更轻松。 一些方法，具体取决于服务订阅和组织的大小是：
-    1. 大型组织可以设置公用的 Yammer 社区网站上获取反馈
-    2. 最多为 2500年人员可以加入 Microsoft 团队提问并共享对话
-    3. 正式支持的票证过程可以使用窗体，流的支持和 SharePoint Online 列出或通过其他第三方工具的您可能已经具有 IT 支持您的公司。 
-- **无**： 讨论安装的网站/与您的 IT 员工提供 SharePoint Online 支持 web 部件。  
+- **是**: 建议使用 Office 365 的功能, 以简化自定义的学习网站支持。 根据您的服务订阅和组织大小, 有些想法为:
+    1. 大型组织可以预配一个公共 Yammer 社区, 以获取有关网站的反馈
+    2. 最高为2500的人员可以加入 Microsoft 团队, 以提出问题并共享对话
+    3. 正式的支持票证处理流程可以通过表单、流和 SharePoint Online 列表进行 suppored, 也可以通过您可能已在公司中支持 IT 支持的其他第三方工具来完成。 
+- **否**: 与提供 SharePoint Online 支持的 IT 员工讨论网站/web 部件的安装。  
 
-## <a name="next-steps---siteinstallsitepackagemd-or-webpartinstallwebpartmd-installation"></a>下一步步骤-[网站](installsitepackage.md)或[web 部件](installwebpart.md)的安装
+### <a name="next-steps---site-provisioninginstallsitepackagemd-or-webpartinstallwebpartmd-installation-steps"></a>后续步骤-[网站设置](installsitepackage.md)或[web 部件](installwebpart.md)安装步骤

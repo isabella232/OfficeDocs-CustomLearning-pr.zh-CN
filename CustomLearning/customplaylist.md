@@ -1,76 +1,99 @@
-# <a name="customize-the-services-and-playlists"></a>自定义的服务和播放列表
+---
+author: karuanag
+ms.author: karuanag
+title: 自定义和共享播放列表
+ms.date: 02/10/2019
+description: 从现有内容或新 SharePoint 页面创建自定义播放列表
+ms.openlocfilehash: d330b6e401c9020eb68877bc8a132350811a2f31
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989723"
+---
+# <a name="customize-and-share-playlists"></a>自定义和共享播放列表
 
-默认情况下的网站体验和 web 部件包含的所有 Office 365 服务的内容。 如果只全部或部分这些服务可在贵公司可以调整内容可供您的用户。 在本文中，我们将自定义 web 部件内容。  
+## <a name="create-a-playlist"></a>创建播放列表
 
-## <a name="customizing-the-webpart-content"></a>自定义 web 部件内容
+播放列表是 "资产" 的 compliation。"资源" 是 SharePoint 页面或 Microsoft 培训内容的现有项目。创建播放列表时, 选择的资产将一起为您的用户创建学习路径。  
 
-自定义学习 web 部件提供了两个主要功能：
-- 隐藏/显示技术
-- 创建播放列表
+添加 sharepoint 页面的好处在于, 您可以使用组织中托管的 YouTube 视频或视频创建 sharepoint 页面。您还可以使用表单或其他 Office 365 内容创建页面。  
 
-### <a name="hide-or-show-technology-categories"></a>隐藏或显示技术类别
+#### <a name="step-1-create-a-sharepoint-page-for-your-playlist"></a>步骤 1: 为播放列表创建 SharePoint 页面
+在此示例中, 我们将首先创建一个要添加到播放列表中的 SharePoint 页面。我们将创建一个包含 YouTube 视频 web 部件和文本 web 部件的页面。 这些说明假定您使用的是 SharePoint Online 服务。 
 
-若要隐藏和显示 Web 部件的内容： 
-1.  单击下拉菜单上 web 部件，然后单击隐藏/显示技术
+#### <a name="create-a-new-page"></a>创建新页面
+1.  选择 "设置" 菜单 > 网站内容 > 网站页面 > 新建 > 网站页面。
+2.  在 "标题" 区域中, 键入 "使用团队" 命令框
+3.  选择 "添加新内容" 部分, 然后选择 "两列"。
 
-![菜单选项](media/clohideshow.png)
+![两列相加](media/clo365addtwocolumn.png)
 
-2. 选择 checkox 为隐藏或显示技术并选择**应用**。
+4.  在左侧框中, 选择 "添加新 web 部件", 然后选择 "嵌入"。 
+5.  在 Web 浏览器中, 转到此https://youtu.be/wYrRCRphrp0 URL 并获取视频的嵌入代码。 
+6.  在 SharePoint Web 部件中, 选择 "添加嵌入代码", 然后将其粘贴到 "嵌入" 框中。 
+7.  在右侧的框中, 选择 "添加新 web 部件", 然后选择 "文本"。 
+8.  在 Web 浏览器中, 转到此 URL https://support.office.com/en-us/article/13c4e429-7324-4886-b377-5dbed539193b : 并复制 Try!页面中的说明, 并将其粘贴到文本 Web 部件中。页面应如下所示。 
 
-![技术选项](media/clohideshow1.png)
+![嵌入页面](media/clo365teamscommandbox.png)
 
-### <a name="create-a-playlist"></a>创建播放列表
+9.  单击 "**发布**", 然后复制页面的 URL 并将其粘贴到记事本中
 
-播放列表是"资产"compliation。"资源"是一个 SharePoint 页面或现有的 Microsoft 培训内容项。创建播放列表时您选择在一起的资产创建用户学习路径。  
+#### <a name="step-2-create-the-playlist"></a>步骤 2: 创建播放列表
 
-添加 SharePoint 页的好处是，您可以创建 SharePoint 页面与 YouTube 视频或承载您的组织中的视频。您还可以使用窗体或其他 Office 365 内容创建页面。  
+1. 导航到网站体验中的 "**自定义学习管理**" 页。![custom_admin](media/custom_admin.png)
+1. 确保选择了 "**类别**" 
+1. 单击要在其上显示新播放列表的类别
+1. 在类别名称旁边, 单击加号符号!["custom_addplay"。](media/custom_addplay.png)
 
-#### <a name="step-1-create-a-sharepoint-page-for-your-playlist"></a>步骤 1： 创建用于播放列表的 SharePoint 页面
-本示例中，我们将首先创建 SharePoint 页添加到播放列表。我们将创建具有 YouTube 视频的 web 部件和文本 web 部件的页面。 这些说明假定您使用 SharePoint Online 服务。 
+1. 填写以下示例中所示的值, 然后选择 "**创建**"。![custom_details](media/custom_details.png)
+- 播放列表的**标题**-显示名称
+- **Description** -有关将学习的内容的信息
+- **类别**-根据初始选择预先选择
+- **子类别**-根据您的初始选择预选
+- **技术**-选择 "适用"
+- **Level** -初级、Intermidate 或 Advanced
+- **受众**-这使您可以根据 Microsoft 提供的预定义角色的列表来设定内容目标。
 
-#### <a name="create-a-new-page"></a>创建新的页面
-1.  选择设置菜单 > 网站内容 > 网站页面 > 新 > 网页。
-2.  在标题区域中，键入使用团队命令框
-3.  选择添加新的部分，然后选择两列。
+6. 单击 "**保存详细信息**"
 
-![两列添加](media/clo365addtwocolumn.png)
+> [!TIP]
+> 您可以自定义播放列表图标图像。 单击图像图标并插入之前上载的图像的 URL。 请确保该图像位于自定义学习网站集内, 或者位于其他所有用户都有权访问该文件的位置。  
+![custom_image](media/custom_image.png)
 
-4.  在左侧的框中，选择添加新的 web 部件，然后选择嵌入。 
-5.  在 Web 浏览器中，转到此 URLhttps://youtu.be/wYrRCRphrp0和获取视频嵌入代码。 
-6.  在 SharePoint Web 部件中，选择添加嵌入代码，然后将其粘贴到嵌入框中。 
-7.  在右侧的框中，选择添加新的 web 部件，然后选择文本。 
-8.  在 Web 浏览器中，转到此 URL: https://support.office.com/en-us/article/13c4e429-7324-4886-b377-5dbed539193b ，并将复制 Try 它 ！从页上的说明并将它们粘贴到文本 Web 部件。网页应如下所示。 
+#### <a name="step-3-add-assets-to-the-playlist"></a>步骤 3: 将资产添加到播放列表
+在此步骤中, 您将向播放列表中添加来自 Microsoft 和您创建的 SharePoint 页面的现有资产。 
 
-![嵌入页](media/clo365teamscommandbox.png)
+1. 保存了播放列表的详细信息后, 便可使用搜索现有资产。
+1. **在任何搜索词中输入**, 以查看其他播放列表中提供的预定义资产的列表。**单击**资产的名称以将其包含在新的播放列表中。![custom_slist](media/custom_slist.png)
 
-9.  单击发布，然后将复制的页面的 URL 并将其粘贴到记事本中
+您还可以添加之前创建的 SharePoint 页面, 也可以在体验中从头开始创建它。
 
-#### <a name="step-2-create-the-playlist"></a>步骤 2： 创建播放列表
-1.  导航到您安装自定义学习 web 部件。网站的完整体验它位于上的 Office 365 培训页面。 
-2.  从下拉菜单中选择创建新的播放列表。 
+1. 单击 "播放列表资产" 对话框中的 "**新建资产**" 选项
+1. 为您的资产提供**标题**。输入后, 其他选项将显示![custom_newpage。](media/custom_newpage.png)
+1. 您现在可以在 SharePoint Online 中创建新的资产页面, 也可以在现有页面的 URL 中输入以将其添加到自定义播放列表中。 
+1. "**类别**"、"**子类别**" 和 "**技术**" 字段将根据您以前的选择, 为此播放列表预先填充。
+1. 为此单个资产的级别和受众做出适当的选择。  
+1. 单击 "**保存资产**" 以将其添加到自定义播放列表
+1. 重复这些步骤, 可以搜索或添加单个页面, 直到完成播放列表。 
+1. 单击 "**关闭播放列表**" 以保存
 
-![创建自定义播放列表](media/clo365createplaylist.png)
+包含此内容的播放列表现在将在你已安装/嵌入自定义学习 web 部件的任何位置可用。 
 
-3.  下面的示例中所示填充的值，然后选择**创建**。 
-
-#### <a name="step-3-add-assets-to-the-playlist"></a>步骤 3： 将资源添加到播放列表
-此步骤中，将从 Microsoft 和创建的 SharePoint 页中将现有资源添加到播放列表中。 
-
-1.  单击菜单按钮，然后单击添加现有资产。
-
-![添加资源](media/clo365addasset.png)
-
-2.  筛选上的 Office 365 应用程序 > Microsoft 团队培训
-3.  欢迎使用添加 Microsoft 团队、 启动并正在运行，获取您的团队和启动聊天和发起呼叫。
-4.  选择菜单按钮 > 创建资产。
-5.  资产标题框中，使用团队命令框类型。 
-6.  粘贴 SharePoint 使用的资产的内容字段中复制的团队命令框页面 URL。 
-7.  现在导航回主页 > 自定义播放列表 > 您第一天团队 > 与使用团队命令框。网页应如下所示。 
-
-![创建的页面](media/clo365createplaylist2.png)
-
-与此内容播放列表现在将可用无处不在已安装 / 嵌入自定义学习 web 部件。 
+> [!NOTE]
+> 如果您在关闭播放列表后出错了, 可以通过单击播放列表名称旁边的 X 将其从类别中删除。  
 
 #### <a name="things-to-think-about"></a>要考虑的事项
 
-自定义播放列表可用于帮助您的最终用户任务 vareity。 您必须关闭请求表单的时间？ 表单请求硬件设备？ 任何现有的培训资产可以编入体验。  
+自定义播放列表可用于帮助最终用户完成各种任务。 您是否有时间请求窗体？ 请求硬件设备的表单？ 可以将任何现有的培训资产编程到体验中。  
+
+## <a name="share-playlists"></a>共享播放列表
+
+1. 导航到 web 部件或网站体验中的任何播放列表
+1. 在左上角, 将看到三个图标
+1. 单击代表链接的图标
+1. 将 URL 复制到播放列表
+
+!["共享 .png](media/share.png) " 此 URL 现在可以在网站导航中插入或在其他通信中使用, 以将员工直接带到该播放列表。 
+
+### <a name="next-steps---drive-adoptiondriveadoptionmd"></a>后续步骤-[驱动器采用](driveadoption.md)

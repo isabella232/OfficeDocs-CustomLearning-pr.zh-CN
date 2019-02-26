@@ -1,28 +1,28 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: 安装必备组件
-ms.date: 02/10/2019
-description: 决策和自定义学习安装和安装系统必备信息
-ms.openlocfilehash: cd64f59c98163f28b452a2d01bcfba9c6fee268f
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+title: 安装的先决条件
+ms.date: 02/11/2019
+description: 自定义学习安装和设置的决策和预备信息
+ms.openlocfilehash: 1a57e8fbecfbce4608c8dcb618f4fdc007467789
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29952590"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989713"
 ---
 # <a name="getting-started"></a>入门
 
-自定义 Office 365 学习将允许您为组织提供点播培训解决方案。 下面我们将讨论必备组件和您将需要进行成功部署的决策。
+适用于 Office 365 的自定义学习将允许你为你的组织提供按需培训解决方案。 在这里, 我们将讨论为成功部署所需执行的先决条件和决策。
 
-以下说明概述了如何设置自定义学习 for Office 365 (CLO365)，包括 CLO365 通信网站模板和自定义学习 web 部件中，安装到您的租户环境。这些说明覆盖 CLO365 通过 SharePoint Online 设置服务在安装https://provisioning.sharepointpnp.com如果您感兴趣在现有 SharePoint Online 的通信网站上安装只的自定义学习 web 部件使用，请参阅[安装自定义 web 部件](installwebpart.md)的说明。 
+以下说明概述了如何为 Office 365 (CLO365) 设置自定义学习, 包括将 CLO365 通信网站模板和自定义学习 web 部件安装到租户环境中。以下说明介绍了如何通过 SharePoint online 预配服务安装 CLO365, https://provisioning.sharepointpnp.com如果您只想安装在现有 SharePoint Online 通信网站上使用的自定义学习 web 部件, 请参阅[安装自定义 web 部件](installwebpart.md)的说明。 
 
-## <a name="pre-requisites"></a>必备组件
+## <a name="prerequisites"></a>先决条件
  
-若要成功安装 CLO365 通过[SharePoint Online 设置服务](https://provisioning.sharepointpnp.com)必须满足以下先决条件： 
+若要通过[SharePoint Online 设置服务](https://provisioning.sharepointpnp.com)成功安装 CLO365, 您必须满足以下先决条件: 
  
-- 将资源调配 CLO365 个人必须安装目标租户的租户管理员。  
-- 必须在 SharePoint 管理中心的应用程序选项中的可用租户应用程序目录。如果您没有应用程序当前目录，请参阅创建应用程序目录部分有关如何创建一个权限级别的说明。  
-- 将资源调配 CLO365 个人必须安装为目标租户中应用程序目录的主要所有者。如果 CLO365 安装程序不是主要所有者的应用程序目录，请参阅应用程序目录部分以了解有关更改主要的所有者。  
-- 
-## <a name="next-steps---service-decisionsservicedecisionsmd"></a>下一步步骤-[服务决策](servicedecisions.md)
+- 将设置 CLO365 的个人必须是要安装的目标租户的租户管理员。  
+- 租户的 "应用程序目录" 必须在 SharePoint 管理中心的 "应用程序" 选项中可用。如果您当前没有应用程序目录, 请参阅[SharePoint Online 文档](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog)以设置此功能。  
+- 将设置 CLO365 的个人必须是目标租户中应用程序目录的网站集所有者才能安装。如果 CLO365 安装程序不是应用程序目录的网站集所有者, 请[完成这些说明](addappadmin.md)并继续。  
+
+### <a name="next-steps---service-decisionsservicedecisionsmd"></a>后续步骤-[服务决策](servicedecisions.md)

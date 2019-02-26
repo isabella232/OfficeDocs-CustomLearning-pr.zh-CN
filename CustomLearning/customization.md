@@ -4,16 +4,16 @@ ms.author: karuanag
 title: 自定义培训体验
 ms.date: 02/10/2019
 description: 了解适用于 Office 365 自定义学习的各种自定义项
-ms.openlocfilehash: 035b6734665da59ed912d9ebd6a3923d1b0b9108
-ms.sourcegitcommit: 0cd0c3e230e0217dfd5d050b20050ce781b5a7c6
+ms.openlocfilehash: fbb8e5861547f26a3b8419e11f89e5872aeb0b0c
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "30050623"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30059683"
 ---
 # <a name="customize-the-training-experience"></a>自定义培训体验
 
-这是一个测试3。默认情况下, 网站体验和 web 部件都包含所有 Office 365 和 Windows 10 服务的内容。 如果您的公司只提供所有或部分服务, 则可以调整对用户可用的内容。  
+这是一个测试4。默认情况下, 网站体验和 web 部件都包含所有 Office 365 和 Windows 10 服务的内容。 如果您的公司只提供所有或部分服务, 则可以调整对用户可用的内容。  
 
 有几种类型的自定义项可供此网站的所有者使用。 
 
