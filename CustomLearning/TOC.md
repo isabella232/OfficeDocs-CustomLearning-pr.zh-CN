@@ -1,5 +1,6 @@
 # [入门](index.md)
-## [预配自定义学习](installsitepackage.md)
+## [自定义学习设置选项](custom_setupoptions.md)
+## [预配自定义学习](custom_provision.md)
 ## [浏览自定义学习网站](sitecontent.md)
 ## [独立 web 部件设置](custom_manualsetup.md)
 # [自定义学习体验](custom_overview.md)
