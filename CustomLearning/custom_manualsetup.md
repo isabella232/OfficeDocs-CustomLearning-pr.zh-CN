@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 独立 web 部件设置
 ms.date: 02/10/2019
 description: 适用于 Office 365 的自定义学习手动 web 部件设置
-ms.openlocfilehash: 650e6c12ebe8ca7fedc6edc107b5822c48ead99a
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.openlocfilehash: f5d94d673f491d5b5778ef73d518914dbd4cdbb9
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411872"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30523056"
 ---
 # <a name="stand-alone-web-part-setup"></a>独立 web 部件设置
 
@@ -58,10 +58,22 @@ ms.locfileid: "30411872"
 
 如果您未执行手动安装且要关闭遥测跟踪, 则在运行将禁用遥测跟踪时`TelemetryOptOut.ps1` , 将会包含单独的脚本。
 
-## <a name="step-6---initialize-web-part-custom-configuration"></a>步骤 6-初始化 web 部件自定义配置
-成功运行 PowerShell 脚本后, 导航到`<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`。 这将初始化为其首次使用设置自定义学习的**CustomConfig**列表项。
+## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>验证设置是否成功并初始化 CustomConfig 列表
 
-现已完成配置。 若要详细了解如何为您的环境量身定制自定义的学习网站和 web 部件, 请参阅[自定义培训体验](custom_overview.md)。
+在成功运行 PowerShell 脚本之后, 您将导航到该网站, 初始化**CustomConfig**列表项, 该列表项会为首次使用设置自定义学习, 并验证网站是否正常工作。
+
+1. 转到 `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`。 打开**CustomLearningAdmin**可初始化**CustomConfig**列表项, 该列表项设置自定义学习以供首次使用。 您应该会看到如下所示的页面:
+
+![cg-adminapppage](media/cg-adminapppage.png)
+
+## <a name="add-owners-to-site"></a>将所有者添加到网站
+作为租户管理员, 您不太可能是自定义网站的人员, 因此您需要向网站分配一些所有者。 所有者具有对网站的管理权限, 以便他们可以修改网站页面并 rebrand 网站。 他们还能够隐藏和显示通过自定义学习 Web 部件传递的内容。 此外, 他们还能够构建自定义播放列表并将其分配给自定义子类别。  
+
+1. 从 "SharePoint**设置**" 菜单中, 单击 "**网站权限**"。
+2. 单击 "**高级权限设置**"。
+3. 单击 "**自定义学习 for Office 365 所有者**"。
+4. 单击 "**新建** > 向**此组添加用户**", 然后添加您希望成为所有者的人员。 
+5. 添加链接以在共享邮件中[浏览网站](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore), 然后单击 "**共享**"。
 
 ### <a name="next-steps"></a>后续步骤
 - 为你的组织[自定义](custom_overview.md)培训体验。

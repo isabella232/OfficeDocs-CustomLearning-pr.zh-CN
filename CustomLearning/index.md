@@ -1,39 +1,50 @@
 ---
-author: karuanag
-ms.author: karuanag
+author: pkrebs
+ms.author: pkrebs
 title: Office 365 的自定义学习概述开放源代码解决方案
 ms.date: 02/10/2019
-description: 了解 office 365 的自定义学习如何加快在组织中使用和采用 office 365。我们的解决方案包括自定义 sharepoint online web 部件和可轻松预配到 Office 365 租户的新式 sharepoint online 通信培训网站。
+description: 了解 office 365 的自定义学习如何加快在组织中使用和采用 office 365。 我们的解决方案包括自定义 sharepoint online web 部件和可轻松预配到 Office 365 租户的新式 sharepoint online 通信培训网站。
 ---
 
 # <a name="custom-learning-for-office-365"></a>适用于 Office 365 的自定义学习
 
-## <a name="self-service-customizable-training-solutions-from-microsoft"></a>自助服务, 来自 Microsoft 的自定义培训解决方案
+> [!NOTE]
+> 自定义学习当前处于内部测试阶段, 尚未公开提供。 
 
-适用于 office 365 的自定义学习是一组培训和旨在提高组织中的 Office 365 使用的专门的开放源代码工具。与 Microsoft 团队和 SharePoint 产品工程组以及新式协助和体验团队建立合作关系, 可以在 SharePoint Online 租户中安装和自定义这些易于使用的解决方案。 
+## <a name="on-demand-custom-training-from-microsoft"></a>来自 Microsoft 的按需自定义培训
+适用于 office 365 的自定义学习 (自定义学习) 是一种可自定义的按需培训解决方案, 旨在提高组织中的 Office 365 的使用和采用。 
 
-这些解决方案将向最终用户提供 Microsoft 必须提供的所有培训内容, 并将该内容保持为最新的需求。 可以轻松地将网站与公司中的 Microsoft 团队或其他现有 SharePoint Online 网站的安装集成在一起。
+![cg-introducing](media/cg-introducing.png)
 
-我们的自定义学习内容目前的范围是开始 Office 365 和 Windows 10 产品的内容。 如果你想要查看更多的内容, 请在在线论坛中提供我们的[建议和反馈](feedback.md)。  
+适用于 Office 365 的自定义学习提供了:
+- **一个完全可自定义的 SharePoint Online 通信网站**(正式称为 "团队合作" 的工具包) 可自定义自定义学习培训门户, 以添加组织的帮助、支持和社区内容
+- **轻松预配**-通过 SharePoint Online 设置服务预配自定义学习, 只需几个简单步骤
+- **创建您自己的培训播放列表的功能**-使用自定义学习功能, 您可以创建目标培训播放列表, 以满足您的环境的独特需求
+- **最新内容**-自定义学习通过 Microsoft 在线内容目录提供内容, 因此您的网站上的内容会定期更新
 
-## <a name="custom-learning-open-source-components"></a>自定义学习开放源代码组件
+## <a name="custom-learning-components"></a>自定义学习组件
+适用于 Office 365 的自定义学习包括三个部分: 
 
-适用于 Office 365 的自定义学习提供了两个选项: 
+![cg-howitworks](media/cg-howitworks.png)
 
-**选项 1**:[自定义学习 SharePoint Online 网站程序包](installsitepackage.md)
+- **microsoft 内容**自定义学习的联机目录已连接到 microsoft 培训内容的联机目录
+- **SharePoint Online 通信网站**-自定义学习提供了一个易于预配的培训门户, 可以针对组织的需要进行自定义。
+- **sharepoint web 部件**自定义学习提供了一个 sharepoint web 部件, 可以对其进行筛选以演示目标培训内容。 组织还可以使用 Web 部件创建自己的自定义播放列表。
 
-选择、安装和配置此 SharePoint Online 通信网站包, 为你的公司创建培训门户。以前称为 "团队合作" 的工具包, 可以自定义此培训门户, 以添加组织的帮助、支持和社区内容。您还可以删除与组织中不支持的服务相关的任何内容。自定义学习网站包还包含自定义学习 web 部件, 可向组织提供 Office 365 培训内容的最新订阅源。 
+## <a name="sharepoint-online-provisioning-service"></a>SharePoint Online 设置服务 
+可以从 SharePoint Online 设置服务中设置自定义学习。 预配自定义学习后, 组织将获取一个 SharePoint Online 通信网站, 该网站旨在作为现成的培训门户, 以及与一个在线目录的培训内容相关联的自定义学习 Web 部件。 
 
-![面向 Office 365 网站体验的自定义学习](media/clo365homepage.png)
-
-**选项 2**:[自定义学习 for Office 365 web 部件](installwebpart.md)自定义学习 web 部件选项专为希望将 Office 365 培训集成到现有 SharePoint Online 通信网站的组织而设计。可以在任何 SharePoint Online 页面上安装自定义学习 web 部件, 并提供 Microsoft Support.Office.com 网站的完整套件 Office 365 培训内容的最新订阅源。通过 web 部件交付的培训内容在易于使用的播放列表中进行组织。管理员还可以使用 web 部件生成自定义培训播放列表, 并根据 YouTube 和本地托管的内容 (如) 合并内容。pdf 和 Office 365 培训内容, 以提供根据组织的独特需求量身定制的培训体验。
-
-![适用于 Office 365 的自定义学习 web 部件](media/clo365customplaylist.png)
+![cg-provision](media/cg-provision.png)
 
 ## <a name="3-easy-steps"></a>3个简单步骤
+让我们开始为你的环境创建自定义的学习体验。
+1. 选择 "[设置" 选项](custom_setupoptions.md)并设置自定义学习。  
+2. 为您的环境量身定制自定义学习。
+3. 使用我们的[采用工具](driveadoption.md)与您的用户共享自定义学习。
 
-让我们[开始](prereqs.md)使用最新的 Microsoft 内容创建一个简单的培训解决方案。
+## <a name="feedback-and-support"></a>反馈和支持
 
-1. 选择适合你的解决方案
-2. 完成安装 & 自定义内容
-3. 使用我们的[采用工具](driveadoption.md)与你的用户共享你的网站
+适用于 Office 365 的自定义学习是通过 GitHub 上的 "[联机问题" 列表](https://aka.ms/CustomLearningHelp)支持的开放源代码项目。 适用于 Office 365 的自定义学习解决方案和 it 的组件不包含在任何现有 Microsoft 支持合同的范围内。  
+
+## <a name="additional-resources"></a>其他资源
+您可以使用自定义学习网站体验提供指向任何新的或现有的用户社区论坛的链接。 如果没有, 请考虑启动一个内部用户组 (如果尚未安装), 以使用户可以共享其成功并彼此了解。  如果没有时间培养内部用户组, 您和您的员工可以加入[microsoft office 365 冠军社区](https://aka.ms/O365Champions), 以进行月度培训、在线社区中的成员资格以及早期访问 Office 365 的工具和资源。

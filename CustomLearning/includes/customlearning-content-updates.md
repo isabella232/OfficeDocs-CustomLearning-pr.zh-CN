@@ -3,14 +3,21 @@
 
 
 
-## <a name="week-of-january-28-2019"></a>2019 年 1 月 28 日所在周
+## <a name="week-of-march-04-2019"></a>2019年3月4日一周
 
 
 | 发布日期 |主题标题 | 更改 |
 |------|------------|--------|
-| 1/28/2019 | [有关创建团队和频道的指南](/Office365/CustomLearning/embeds/adopt-teams-channels) | 相加 |
-| 1/28/2019 | [Microsoft 自定义学习解决方案概述](/Office365/CustomLearning/index) | 相加 |
-| 1/30/2019 | [Microsoft 自定义学习解决方案概述](/CustomLearning/index) | 修改时间 |
+| 3/5/2019 | [转到适用于 Office 365 网站的自定义学习](/Office365/CustomLearning/custom_addowners) | 相加 |
+| 3/5/2019 | [独立 web 部件设置](/Office365/CustomLearning/custom_manualsetup) | 相加 |
+| 3/5/2019 | [自定义学习升级](/Office365/CustomLearning/custom_upgrade) | 相加 |
+| 3/5/2019 | [Office 365 的自定义学习概述开放源代码解决方案](/Office365/CustomLearning/index) | 修改时间 |
+| 3/5/2019 | [预配自定义学习网站](/Office365/CustomLearning/installsitepackage) | 修改时间 |
+| 3/5/2019 | 安装自定义学习解决方案 web 部件 | 拆卸 |
+| 3/5/2019 | [安装的先决条件](/Office365/CustomLearning/prereqs) | 修改时间 |
+| 3/5/2019 | [先决条件和决策](/Office365/CustomLearning/servicedecisions) | 修改时间 |
+| 3/5/2019 | [浏览网站和默认内容](/Office365/CustomLearning/sitecontent) | 修改时间 |
+| 3/5/2019 | [了解 SharePoint 应用程序页面](/Office365/CustomLearning/custom_apppages) | 修改时间 |
 
 
 ## <a name="week-of-february-04-2019"></a>2019 年 2 月 4 日所在周
@@ -64,3 +71,26 @@
 | 2/14/2019 | [自定义培训体验](/Office365/CustomLearning/customization) | 修改时间 |
 | 2/15/2019 | [概述](/Office365/CustomLearning/custom_overview) | 相加 |
 | 2/15/2019 | [自定义培训体验](/Office365/CustomLearning/customization) | 修改时间 |
+
+
+## <a name="week-of-february-18-2019"></a>2019 年 2 月 18 日一周
+
+
+| 发布日期 |主题标题 | 更改 |
+|------|------------|--------|
+| 2/19/2019 | [访问 "自定义学习管理" 页](/Office365/CustomLearning/custom_accessadmin) | 相加 |
+| 2/19/2019 | [将资产添加到播放列表](/Office365/CustomLearning/custom_addassets) | 相加 |
+| 2/19/2019 | [添加和编辑自定义学习 Web 部件](/Office365/CustomLearning/custom_addwebpart) | 相加 |
+| 2/19/2019 | [了解 SharePoint 应用程序页面](/Office365/CustomLearning/custom_apppages) | 相加 |
+| 2/19/2019 | [创建新的子类别](/Office365/CustomLearning/custom_createnewcat) | 相加 |
+| 2/19/2019 | [为播放列表创建 SharePoint 页面](/Office365/CustomLearning/custom_createnewpage) | 相加 |
+| 2/19/2019 | [创建新的播放列表](/Office365/CustomLearning/custom_createnewplaylist) | 相加 |
+| 2/19/2019 | [自定义学习网站](/Office365/CustomLearning/custom_edithelp) | 相加 |
+| 2/19/2019 | [转到适用于 Office 365 网站的自定义学习](/Office365/CustomLearning/custom_goto) | 相加 |
+| 2/19/2019 | [隐藏和显示播放列表](/Office365/CustomLearning/custom_hideshowplaylists) | 相加 |
+| 2/19/2019 | [隐藏和显示子类别](/Office365/CustomLearning/custom_hideshowsub) | 相加 |
+| 2/19/2019 | [隐藏和显示技术](/Office365/CustomLearning/custom_hideshowtech) | 相加 |
+| 2/19/2019 | [链接到自定义学习资产](/Office365/CustomLearning/custom_linking) | 相加 |
+| 2/19/2019 | [概述](/Office365/CustomLearning/custom_overview) | 修改时间 |
+| 2/19/2019 | [Search](/Office365/CustomLearning/custom_search) | 相加 |
+| 2/19/2019 | [自定义学习 web 部件在哪里](/Office365/CustomLearning/custom_whereiswebpart) | 相加 |

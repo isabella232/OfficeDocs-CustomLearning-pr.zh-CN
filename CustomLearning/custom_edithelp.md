@@ -4,30 +4,30 @@ ms.author: pkrebs
 title: 自定义学习网站
 ms.date: 02/15/2019
 description: 了解适用于 Office 365 自定义学习的各种自定义项
-ms.openlocfilehash: 998c99a9154440872b40acb8c894862ca6e0e2c6
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.openlocfilehash: e6f8ad87fcdb6cf50df2de2487d5eda6c689fd03
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103807"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30522976"
 ---
 # <a name="customize-the-site"></a>自定义网站
 
-自定义学习网站基于 SharePoint 通信模板, 因此很容易修改网站以满足组织的需求。您可以更改网站名称、徽标、菜单项和页面上的内容。 
+自定义学习网站基于 SharePoint 通信模板, 因此很容易修改网站以满足组织的需求。 您可以更改网站名称、徽标、菜单项和页面上的内容。 
 
 > [!TIP]
-> 收集来自你的员工的反馈并定期完成其他自定义设置。 将播放列表、目标网页添加到特定角色, 或在启动新服务时打开新的培训内容。 
+> 收集员工反馈并定期更新网站。 例如, 可以在新事件可用时更新 "培训事件" 日历。 启动新服务时, 可以取消隐藏内容并生成专为启动新服务而设计的目标培训播放列表。 
 
-## <a name="customize-web-pages"></a>自定义网页
+## <a name="customize-the-site-and-web-pages"></a>自定义网站和网页
 
-自定义学习网站可完全自定义。如果您不熟悉在新式 SharePoint Online 网站中创建页面, 我们建议您查看 support.office.com 上的 "[自定义 SharePoint 网站](https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b)" 文章。 
+自定义学习网站可完全自定义。 如果您不熟悉如何自定义您的 sharepoint 网站或网页, 我们建议您查看 support.office.com 上的 "[自定义 sharepoint 网站](https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b)" 一文。 
 
 ### <a name="customize-ask-questions-and-get-help"></a>自定义提问和获取帮助
 
 作为自定义学习网站的管理员, 您想要做的一件事就是将 "**获取帮助和支持**" 页上的链接更改为指向组织中的资源。 
 
 1.  从自定义学习主页中, 单击 "**提问" 和 "获取帮助**" 菜单项。
-2.  单击 "**编辑**" 按钮。
+2.  Click the **Edit** button.
 3.  将鼠标悬停在 "帮助" 选项图像上, 然后单击 "**编辑 web 部件**"。
 
 ![cg-edithelp](media/cg-edithelp.png)

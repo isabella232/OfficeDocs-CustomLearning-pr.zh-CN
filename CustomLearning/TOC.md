@@ -1,7 +1,7 @@
 # [入门](index.md)
 ## [自定义学习设置选项](custom_setupoptions.md)
 ## [预配自定义学习](custom_provision.md)
-## [浏览自定义学习网站](sitecontent.md)
+## [浏览自定义学习网站](custom_exploresite.md)
 ## [独立 web 部件设置](custom_manualsetup.md)
 # [自定义学习体验](custom_overview.md)
 ## [转到自定义学习网站](custom_goto.md)
@@ -22,5 +22,6 @@
 # [推动采用](driveadoption.md)
 # [反馈和支持](feedback.md)
 # [常见问题解答](faq.md)
+# [合作伙伴常见问题](custom_partner.md)
 # [自定义学习的手动升级](custom_upgrade.md)
 

@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 自定义学习升级
 ms.date: 02/10/2019
 description: 适用于 Office 365 的自定义学习手动 web 部件设置
-ms.openlocfilehash: f9729c922b374cc6b775737fa7c7c76a4719534c
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.openlocfilehash: 72ac6f7a135697b816f2decbf010ec439562598f
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411892"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30523066"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>自定义学习的手动升级
 
@@ -102,12 +102,11 @@ ms.locfileid: "30411892"
 为了确保播放列表正常工作, 需要重新创建使用该 web 部件的早期版本创建的任何播放列表。 在删除播放列表之前, 请列出自定义播放列表和关联的资产, 以便您可以使用新的自定义学习 Web 部件轻松地重新创建它们。 创建一个播放列表副本, 然后将其删除。 您可以使用 JSONData 域在删除前复制播放列表的内容。 这将便于以后创建。
 
 
-•在自定义学习网站中, 单击 "设置" > "网站内容"。 •选择一个播放列表, 选择省略号, 选择 "编辑", 然后复制 "JSONData" 字段的内容并保存在 "记事本" 或单独的文档中, 以供以后参考。 选择 "取消"。
-•选择该播放列表, 选择省略号, 然后选择 "删除"。
-•现在您可以使用新的 Web 部件重新创建播放列表。
-有关使用新的自定义学习 for Office 365 Web 部件的说明, https://docs.microsoft.com/en-us/office365/customlearning/custom_overview请参阅。
-
-## <a name="step-8---chan"></a>步骤 8-Chan
+1. 在自定义学习网站中, 单击 "**设置** > **网站内容**"。 
+2. 选择一个播放列表, 选择省略号, 选择 "**编辑**", 然后复制 " **JSONData** " 字段的内容并保存在记事本或单独的文档中以供以后参考。 选择 "**取消**"。
+3. 选择该播放列表, 选择省略号, 然后选择 "**删除**"。
+4. 现在, 您可以使用新的 Web 部件重新创建播放列表了。
+有关使用自定义学习 for Office 365 Web 部件的说明, 请参阅 [自定义学习体验 (custom_overview)。
 
 ### <a name="next-steps"></a>后续步骤
 - 为你的组织[自定义](custom_overview.md)培训体验。

@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 浏览网站和默认内容
 ms.date: 02/10/2019
 description: 浏览自定义学习网站和默认内容
-ms.openlocfilehash: c575afbe566100f8873ce1a174b7f389019c8daf
-ms.sourcegitcommit: c358dcc2d69cc3db8fd24a1011550edebe0721fe
+ms.openlocfilehash: 1dc8a0e27cad6843799ec4dfed3c324327c20741
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 03/10/2019
-ms.locfileid: "30518149"
+ms.locfileid: "30523036"
 ---
 # <a name="explore-the-custom-learning-site"></a>浏览自定义学习网站
 
@@ -19,7 +19,7 @@ ms.locfileid: "30518149"
 
 1.  打开 Web 浏览器并导航到 office.com 或您组织的登录位置。 
 2.  使用您的用户名和密码登录。
-3.  使用租户管理员提供的 URL 导航到网站的位置, 或从 Office 365 主页中选择 "SharePoint"。 
+3.  使用租户管理员提供的 URL 导航到网站的位置, 或从 Office 365 主页中选择 "SharePoint", 然后选择 "网站"。 
 
 ![cg-introducing](media/cg-introducing.png)
 
