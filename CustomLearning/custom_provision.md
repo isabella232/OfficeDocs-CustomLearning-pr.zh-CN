@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 预配自定义学习网站
 ms.date: 02/10/2019
 description: 通过 SharePoint 预配引擎为 Office 365 网站设置自定义学习
-ms.openlocfilehash: 9b51bc284560e391b1fb81a34feb3cc2f5901bd2
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: 8fd6aa71aac7e0688e4c100c6ea40beabce5da73
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523046"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543752"
 ---
 # <a name="provision-custom-learning"></a>预配自定义学习 
 
@@ -17,9 +17,9 @@ ms.locfileid: "30523046"
 
 ## <a name="prerequisites"></a>先决条件
  
-若要使用预配服务[SharePoint Online 设置服务](https://provisioning.sharepointpnp.com)成功设置自定义学习, 进行预配的人员必须满足以下先决条件: 
+若要使用预配服务成功设置自定义学习, 进行预配的人员必须满足以下先决条件: 
  
-- 人员预配自定义学习必须是租户 Administratorof 租户, 在此租户中将预配自定义学习。  
+- 人员预配自定义学习必须是租户的租户管理员, 其中将预配自定义学习。  
 - 租户应用程序目录必须在 SharePoint 管理中心的 "应用程序" 选项中可用。 如果您的组织没有 SharePoint 租户应用程序目录, 请参阅[SharePoint Online 文档](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog)以创建一个。  
 - 人员预配自定义学习必须是租户应用程序目录的网站集所有者。 如果人员预配自定义学习不是应用程序目录的网站集所有者, 请[完成这些说明](addappadmin.md)并继续。 
 
@@ -33,11 +33,11 @@ ms.locfileid: "30523046"
 
 ![实时](media/inst_perms.png)
 
-3. 从解决方案库中选择**适用于 Office 365 的自定义学习**。
+3. 向下滚动页面, 选择 "**解决方案**" 选项卡, 然后选择 "**自定义 Office 365 的学习**"。 
 
 ![实时](media/inst_select.png)
 
-4. 从解决方案主页中选择 "**添加到你的租户**"
+4. 选择 "**添加到你的租户**"
 
 ![inst_select](media/inst_add.png)
 
@@ -50,7 +50,7 @@ ms.locfileid: "30523046"
 6. 准备好将自定义学习安装到租户环境中时, 请选择 "**设置**"。  预配过程最长需要15分钟。 当网站准备好访问时, 将通过电子邮件通知你 (到您在 "设置" 页上输入的通知电子邮件地址)。 
 
 > [!IMPORTANT]
-> 设置自定义学习网站的租户管理员必须转到网站, 然后打开 CustomLearningAdmin 以初始化自定义学习管理属性。 目前, 租户管理员还应将所有者分配给网站。 
+> 设置自定义学习网站的租户管理员必须转到网站, 然后打开**CustomLearningAdmin**以初始化自定义学习管理属性。 目前, 租户管理员还应将所有者分配给网站。 
 
 ## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>验证设置是否成功并初始化 CustomConfig 列表
 

@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 独立 web 部件设置
 ms.date: 02/10/2019
 description: 适用于 Office 365 的自定义学习手动 web 部件设置
-ms.openlocfilehash: f5d94d673f491d5b5778ef73d518914dbd4cdbb9
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: c4f5d4c006d5f890428f8c49bf70ce0d41a6874f
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523056"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543742"
 ---
 # <a name="stand-alone-web-part-setup"></a>独立 web 部件设置
 
@@ -22,7 +22,7 @@ ms.locfileid: "30523056"
 - 导航到 CustomLearningAdmin 网站页面, 以加载管理 web 部件以初始化自定义内容配置。
 
 > [!NOTE]
-> 如果你正在寻找一种快速、简便的方法来设置自定义学习, 请参阅[设置自定义学习](installsitepackage.md)。
+> 如果你正在寻找一种快速、简便的方法来设置自定义学习, 请参阅[设置自定义学习](custom_provision.md)。
 
 ## <a name="prerequisites"></a>先决条件
 为了确保成功手动设置自定义的学习 web 部件, 必须满足以下先决条件。 
@@ -44,13 +44,18 @@ ms.locfileid: "30523056"
 ## <a name="step-3---provisionidentify-a-modern-communication-site"></a>第3步-设置/确定新式通信网站
 请在 sharepoint Online 租户中标识现有的 sharepoint 通信网站或设置新的 sharepoint 通信网站。 有关如何设置通信网站的详细信息, 请参阅[在 SharePoint Online 中创建通信网站](https://support.office.com/en-us/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)和按照创建通信网站的步骤进行操作。
 
-## <a name="step-4---set-permissions-for-the-site"></a>步骤 4-设置网站的权限
+## <a name="step-4---add-the-custom-learning-for-office-365-app-to-the-site"></a>第4步-将自定义学习 for Office 365 应用添加到网站
+
+1. 在 SharePoint 网站中, 单击 "系统" 菜单, 然后单击 "**添加应用程序**"。 
+2. 在**您的应用程序**下, 单击**您的组织**, 然后单击**自定义学习 for Office 365**。 
+
+## <a name="step-5---set-permissions-for-the-site"></a>步骤 5-设置网站的权限
 确保为网站设置了以下权限:
 - **网站集管理员或所有者组的一部分**-初始化 CustomConfig 列表项以设置首次使用的自定义学习所需的权限。 
 - **Members 组**-管理自定义学习所需的 permissons, 包括隐藏和显示内容以及管理自定义播放列表
 - **访问者组**-查看网站内容所需的权限。 
 
-## <a name="step-5--execute-powershell-configuration-script"></a>第5步-执行 PowerShell 配置脚本
+## <a name="step-6--execute-powershell-configuration-script"></a>步骤 6-执行 PowerShell 配置脚本
 包含的 PowerShell `CustomLearningConfiguration.ps1`脚本将需要执行, 以创建解决方案使用的三个[租户属性](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties)。 此外, 该脚本将在网站页面库中创建两个[单独的部件应用程序页面](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages), 以在已知位置承载管理员和用户 web 部件。
 
 ### <a name="disabling-telemetry-collection"></a>禁用遥测集合
@@ -62,7 +67,7 @@ ms.locfileid: "30523056"
 
 在成功运行 PowerShell 脚本之后, 您将导航到该网站, 初始化**CustomConfig**列表项, 该列表项会为首次使用设置自定义学习, 并验证网站是否正常工作。
 
-1. 转到 `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`。 打开**CustomLearningAdmin**可初始化**CustomConfig**列表项, 该列表项设置自定义学习以供首次使用。 您应该会看到如下所示的页面:
+- 转到 `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`。 打开**CustomLearningAdmin**可初始化**CustomConfig**列表项, 该列表项设置自定义学习以供首次使用。 您应该会看到如下所示的页面:
 
 ![cg-adminapppage](media/cg-adminapppage.png)
 

@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 自定义学习升级
 ms.date: 02/10/2019
 description: 适用于 Office 365 的自定义学习手动 web 部件设置
-ms.openlocfilehash: 72ac6f7a135697b816f2decbf010ec439562598f
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: 1dd9fd47b608a20ae0b1dc1937e48524547cc938
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523066"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543772"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>自定义学习的手动升级
 
@@ -45,7 +45,12 @@ ms.locfileid: "30523066"
 5. 在保存 ZIP 文件的文件夹中, 选择 " **web 部件**" 文件夹, 然后选择 " **customlearning** " ".sppkg"。
 6. 单击“部署”****。
 
-## <a name="step-5--execute-powershell-configuration-script"></a>第5步-执行 PowerShell 配置脚本
+## <a name="step-3---add-the-custom-learning-for-office-365-app-to-the-site"></a>第3步-将自定义学习 for Office 365 应用添加到网站
+
+1. 在 SharePoint 网站中, 单击 "系统" 菜单, 然后单击 "**添加应用程序**"。 
+2. 在**您的应用程序**下, 单击**您的组织**, 然后单击**自定义学习 for Office 365**。 
+
+## <a name="step-4---execute-powershell-configuration-script"></a>步骤 4-执行 PowerShell 配置脚本
 来自 GitHub 的`CustomLearningConfiguration.ps1` ZIP 下载中包含一个 PowerShell 脚本。 您需要执行脚本以创建解决方案使用的三个[租户属性](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties)。 此外, 该脚本将在网站页面库中创建两个[单独的部件应用程序页面](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages), 以在已知位置承载管理员和用户 web 部件。 这些应用程序页面为:
 
 - CustomAdministration
@@ -57,18 +62,10 @@ ms.locfileid: "30523066"
 ### <a name="disabling-telemetry-collection"></a>禁用遥测集合
 自定义学习包括匿名遥测跟踪自愿加入, 默认情况下设置为 "开"。 如果要关闭遥测跟踪, 请更改`CustomlearningConfiguration.ps1`脚本以将`$optInTelemetry`变量设置为。 `$false`
 
-## <a name="step-6---initialize-web-part-custom-configuration"></a>步骤 6-初始化 web 部件自定义配置
+## <a name="step-5---initialize-web-part-custom-configuration"></a>步骤 5-初始化 web 部件自定义配置
 成功运行 PowerShell 脚本后, 导航到`<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`。 打开**CustomLearningAdmin**可初始化**CustomConfig**列表项, 该列表项设置自定义学习以供首次使用。 您应该会看到如下所示的页面:
 
 ![cg-adminapppage](media/cg-adminapppage.png)
-
-## <a name="add-owners-to-site"></a>将所有者添加到网站
-作为租户管理员, 您不太可能是自定义网站的人员, 因此您需要向网站分配一些所有者。 所有者具有对网站的管理权限, 以便他们可以修改网站页面并 rebrand 网站。 他们还能够隐藏和显示通过自定义学习 Web 部件传递的内容。 他们还能够构建自定义播放列表并将其分配给自定义子类别。  
-
-1. 从 "SharePoint**设置**" 菜单中, 单击 "**网站权限**"。
-2. 单击 "**高级权限设置**"。
-3. 单击 "**自定义学习 for Office 365 所有者**"。
-4. 单击 "**新建** > 向**此组添加用户**", 添加您希望成为所有者的人员, 然后单击 "**共享**"。
 
 升级现已完成。 若要详细了解如何为您的环境量身定制自定义的学习网站和 web 部件, 请参阅[自定义培训体验](custom_overview.md)。
 
