@@ -7,20 +7,18 @@ description: 了解 office 365 的自定义学习如何加快在组织中使用�
 ---
 
 # <a name="custom-learning-for-office-365"></a>适用于 Office 365 的自定义学习
-
-> [!NOTE]
-> 自定义学习当前处于内部测试阶段, 尚未公开提供。 
-
-## <a name="on-demand-custom-training-from-microsoft"></a>来自 Microsoft 的按需自定义培训
 适用于 office 365 的自定义学习 (自定义学习) 是一种可自定义的按需培训解决方案, 旨在提高组织中的 Office 365 的使用和采用。 
 
-![cg-introducing](media/cg-introducing.png)
+## <a name="on-demand-custom-training-from-microsoft"></a>来自 Microsoft 的按需自定义培训
 
 适用于 Office 365 的自定义学习提供了:
+
 - **一个完全可自定义的 SharePoint Online 通信网站**(正式称为 "团队合作" 的工具包) 可自定义自定义学习培训门户, 以添加组织的帮助、支持和社区内容
 - **轻松预配**-通过 SharePoint Online 设置服务预配自定义学习, 只需几个简单步骤
 - **创建您自己的培训播放列表的功能**-使用自定义学习功能, 您可以创建目标培训播放列表, 以满足您的环境的独特需求
 - **最新内容**-自定义学习通过 Microsoft 在线内容目录提供内容, 因此您的网站上的内容会定期更新
+
+![cg-introducing](media/cg-introducing.png)
 
 ## <a name="custom-learning-components"></a>自定义学习组件
 适用于 Office 365 的自定义学习包括三个部分: 
