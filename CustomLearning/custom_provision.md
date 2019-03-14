@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 预配自定义学习网站
 ms.date: 02/10/2019
 description: 通过 SharePoint 预配引擎为 Office 365 网站设置自定义学习
-ms.openlocfilehash: 8fd6aa71aac7e0688e4c100c6ea40beabce5da73
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 868708f9f096c84d5ebc5f9bc4e21e558da84d2b
+ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543752"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30577858"
 ---
 # <a name="provision-custom-learning"></a>预配自定义学习 
 
@@ -56,7 +56,7 @@ ms.locfileid: "30543752"
 
 设置完成后, 预配网站的租户管理员会收到来自 PnP 预配服务的电子邮件。 电子邮件包含指向该网站的链接。 在这种情况下, 租户管理员应使用电子邮件中提供的链接转到网站, 并将网站设置为首次使用:
 
-1. 转到 `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`。 打开**CustomLearningAdmin**可初始化**CustomConfig**列表项, 该列表项设置自定义学习以供首次使用。 您应该会看到如下所示的页面:
+- 转到 `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`。 打开**CustomLearningAdmin**可初始化**CustomConfig**列表项, 该列表项设置自定义学习以供首次使用。 您应该会看到如下所示的页面:
 
 ![cg-adminapppage](media/cg-adminapppage.png)
 
@@ -67,7 +67,7 @@ ms.locfileid: "30543752"
 2. 单击 "**高级权限设置**"。
 3. 单击 "**自定义学习 for Office 365 所有者**"。
 4. 单击 "**新建** > 向**此组添加用户**", 然后添加您希望成为所有者的人员。 
-5. 添加链接以在共享邮件中[浏览网站](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore), 然后单击 "**共享**"。
+5. 添加链接以在共享邮件中[浏览网站](custom_exploresite.md), 然后单击 "**共享**"。
 
 ### <a name="next-steps"></a>后续步骤
 - 浏览网站和 web 部件中提供的[默认内容](custom_exploresite.md)。

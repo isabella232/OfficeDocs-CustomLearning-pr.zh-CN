@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 独立 web 部件设置
 ms.date: 02/10/2019
 description: 适用于 Office 365 的自定义学习手动 web 部件设置
-ms.openlocfilehash: c4f5d4c006d5f890428f8c49bf70ce0d41a6874f
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 8bf6292518c36eda74a49f9968c8e0559fcf8320
+ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543742"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30577848"
 ---
 # <a name="stand-alone-web-part-setup"></a>独立 web 部件设置
 
@@ -58,10 +58,12 @@ ms.locfileid: "30543742"
 ## <a name="step-6--execute-powershell-configuration-script"></a>步骤 6-执行 PowerShell 配置脚本
 包含的 PowerShell `CustomLearningConfiguration.ps1`脚本将需要执行, 以创建解决方案使用的三个[租户属性](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties)。 此外, 该脚本将在网站页面库中创建两个[单独的部件应用程序页面](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages), 以在已知位置承载管理员和用户 web 部件。
 
-### <a name="disabling-telemetry-collection"></a>禁用遥测集合
-此解决方案的一部分包括匿名遥测跟踪自愿加入, 默认情况下设置为 "开"。 如果要执行手动安装且要关闭遥测跟踪, 请更改`CustomlearningConfiguration.ps1`脚本以将 $optInTelemetry 变量设置为 $false。
+1. 如果还未下载 SharePoint Online 命令行管理程序, 请立即下载。 请参阅[SharePoint Online 命令行管理程序下载](https://go.microsoft.com/fwlink/p/?LinkId=255251)。
+2. 您可能需要设置 PowerShell 执行策略以运行脚本。 有关详细信息, 请参阅[关于执行策略](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)。
+3. 执行`CustomLearningConfiguration.ps1`脚本。 除了租户管理员凭据之外, 该脚本还会提示你输入租户名称和站点名称。 考虑网站 URL `https://contoso.sharepoint.com/sites/O365CL`的以下示例, `contoso`是租户名称, 也`O365CL`是网站名称。 
 
-如果您未执行手动安装且要关闭遥测跟踪, 则在运行将禁用遥测跟踪时`TelemetryOptOut.ps1` , 将会包含单独的脚本。
+### <a name="disabling-telemetry-collection"></a>禁用遥测集合
+此解决方案的一部分包括匿名遥测跟踪自愿加入, 默认情况下设置为 "开"。 如果要执行手动安装且要关闭遥测跟踪, 请更改`CustomlearningConfiguration.ps1`脚本以将 $optInTelemetry 变量设置为 $false 并运行脚本。
 
 ## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>验证设置是否成功并初始化 CustomConfig 列表
 
