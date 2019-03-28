@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 自定义学习升级
 ms.date: 02/10/2019
 description: 适用于 Office 365 的自定义学习手动 web 部件设置
-ms.openlocfilehash: 1dd9fd47b608a20ae0b1dc1937e48524547cc938
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 107db753c5b235cccb48b5a2f4d036f7de9d5639
+ms.sourcegitcommit: c8c2bed48a1d3216618e7be368dda2855d1a0c14
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543772"
+ms.lasthandoff: 03/28/2019
+ms.locfileid: "30936392"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>自定义学习的手动升级
 
@@ -80,7 +80,7 @@ ms.locfileid: "30543772"
 1.  在自定义学习网站中, 单击 "**设置**", 然后单击 "***添加页面**"。
 2.  单击页面**+** 上的图标以添加 web 部件, 然后选择 "**适用于 Office 365 的自定义学习**" web 部件。 此时, 页面看起来应类似于下图:
 
-[cg-adminapppage](media/cg-adminapppage.png)
+![cg-adminapppage](media/cg-adminapppage.png)
  
 ### <a name="replace-the-old-web-part-with-the-new-web-part"></a>将旧 web 部件替换为新的 web 部件
 在替换自定义学习 web 部件或对网站进行更改之前, 我们建议您阅读[自定义学习体验](custom_overview.md)文档, 因为它说明了如何使用新的 web 部件。 
