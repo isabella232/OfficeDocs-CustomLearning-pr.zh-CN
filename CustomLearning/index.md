@@ -4,10 +4,15 @@ ms.author: pkrebs
 title: Office 365 的自定义学习概述开放源代码解决方案
 ms.date: 02/10/2019
 description: 了解 office 365 的自定义学习如何加快在组织中使用和采用 office 365。 我们的解决方案包括自定义 sharepoint online web 部件和可轻松预配到 Office 365 租户的新式 sharepoint online 通信培训网站。
+ms.openlocfilehash: 57f84e885206b622f779d20673da2dad4d1bd79b
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "31922506"
 ---
-
-# <a name="custom-learning-for-office-365"></a>适用于 Office 365 的自定义学习
-适用于 office 365 的自定义学习 (自定义学习) 是一种可自定义的按需培训解决方案, 旨在提高组织中的 Office 365 的使用和采用。 
+# <a name="custom-learning-for-office-365-beta-preview"></a>适用于 Office 365 Beta Preview 的自定义学习
+适用于 office 365 Beta Preview 的自定义学习是一种可自定义的按需培训解决方案, 旨在提高组织中的 Office 365 的使用和采用。  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>来自 Microsoft 的按需自定义培训
 
