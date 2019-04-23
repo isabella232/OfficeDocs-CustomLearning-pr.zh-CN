@@ -1,29 +1,29 @@
 ---
 标题: ''
 ms.openlocfilehash: 9e05bd63cf1f534bcb912f6d578df4ce95a4660e
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733595"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055344"
 ---
-# <a name="finding-your-champions"></a>查找您拥护者 
+# <a name="finding-your-champions"></a>查找你的拥护者 
 
-很可能您已知道您拥护者是谁，即使您当前没有正式程序。 这些是人员：
+你可能已经知道你的拥护者是谁, 即使你当前没有正式计划也是如此。  这些人:
 
-通常助人与现有技术享受教学和了解新技术可能声道有关限制的当前解决方案希望尝试新事物，即使之前其他同事看到
+通常会看到, 可帮助其他人使用现有技术体验和学习有关新技术的 vocal。若要尝试新的解决方案, 甚至在其他同事
 
 > [!NOTE]
-> 拥护者是不同人员享受测试新软件本身的技术。拥护者壮大于无论上下文**助人**。 
+> 拥护者不同于那些喜欢为技术单独测试新软件的人。 支持者在不考虑上下文的情况**帮助其他人**发展。 
 
-## <a name="start-small-and-grow"></a>启动小型和增长
+## <a name="start-small-and-grow"></a>启动小而增长
 
-如果您的组织没有当前推广人程序或您要使已发送向一小组的已知适合上面的配置文件的人员邀请的一个。 收集然后一起讨论新程序的目标和获取他们的反馈。True 拥护者希望具有听到语音并且感觉就像它们是创建内容的一部分。  
+如果您的组织没有当前的拥护者计划, 或者您想要 reinvigorate 您已向一小组已知的已知人员发送邀请, 则会向其发送邀请。  收集并讨论新计划的目标, 并获取它们的反馈。 真正的拥护者希望自己听到语音, 并感觉它们是创建东西的一部分。  
 
 ## <a name="provide-structure"></a>提供结构
 
-成功推广人计划具有主持人和定期计划，以满足并讨论当前问题。 至少每月会议是在社区中创建正区域性和鼓励增长的重要组成部分。  
+成功的拥护者计划的领导者和定期计划可满足并讨论当前问题。  每月会议最少是在社区中创建积极文化和促进发展的重要部分。  
 
-您可以使用 Microsoft 团队创建集线器团队协作拥护者的程序。 [本文](https://docs.microsoft.com/en-us/MicrosoftTeams/teams-adoption-your-first-teams)中，可以找到该团队结构的示例。
+您还可以使用 Microsoft 团队为团队成员冠军的计划创建一个中心。  可在[本文](https://docs.microsoft.com/en-us/MicrosoftTeams/teams-adoption-your-first-teams)中找到该团队结构的示例。
 
-![团队协作推广人团队选项卡](media/teams-adoption-tab-example.png)
+![团队合作冠军团队选项卡](media/teams-adoption-tab-example.png)

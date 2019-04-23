@@ -5,11 +5,11 @@ title: 适用于 Office 365 解决方案的自定义学习的常见问题
 ms.date: 02/10/2019
 description: 适用于 Office 365 的自定义学习的常见问题信息
 ms.openlocfilehash: 7da1f3da197fc298c83eac89e3455312cba7a851
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543762"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056005"
 ---
 # <a name="frequently-asked-questions"></a>常见问题解答
 

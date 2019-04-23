@@ -5,11 +5,11 @@ title: 转到适用于 Office 365 网站的自定义学习
 ms.date: 02/18/2019
 description: 转到自定义学习网站
 ms.openlocfilehash: 220d27d6f12f4edb26e0d46ac76cbcea12270e74
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411862"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055790"
 ---
 # <a name="add-owners-custom-learning-site"></a>添加所有者自定义学习网站
 

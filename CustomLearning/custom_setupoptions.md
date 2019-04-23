@@ -5,11 +5,11 @@ title: 自定义学习设置选项
 ms.date: 02/11/2019
 description: 自定义学习设置的安装选项
 ms.openlocfilehash: d2bb1d98d7eceb63e0cf2bdbf9eead1289641a20
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523006"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056035"
 ---
 # <a name="custom-learning-setup-options"></a>自定义学习设置选项
 针对 Office 365 的自定义学习可灵活地以几种不同的方式设置解决方案。 以下各节概述了可用的选项。
