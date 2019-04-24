@@ -5,11 +5,11 @@ title: 独立 web 部件设置
 ms.date: 02/10/2019
 description: 适用于 Office 365 的自定义学习手动 web 部件设置
 ms.openlocfilehash: 8bf6292518c36eda74a49f9968c8e0559fcf8320
-ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30577848"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055054"
 ---
 # <a name="stand-alone-web-part-setup"></a>独立 web 部件设置
 
