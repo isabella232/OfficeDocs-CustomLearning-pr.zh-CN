@@ -1,5 +1,5 @@
 ---
-title: office 365 的生命周期中的
+title: Office 365 的生命周期中的
 ms.openlocfilehash: 8f2351e1767de9073870e79d1111370cbe4df2cd
 ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
@@ -22,7 +22,7 @@ ms.locfileid: "32056330"
 - Office (移动)
 
 ## <a name="checklist-for-your-morning-coffee"></a>上午咖啡检查表
-- 检查 outlook 或 outlook mobile 中的邮件
+- 检查 Outlook 或 Outlook mobile 中的邮件
 - 在 Microsoft 团队 & SharePoint 新闻中获取最新项目的日期
 - 在移动设备上管理日历项目
 - 检查每天的任务
