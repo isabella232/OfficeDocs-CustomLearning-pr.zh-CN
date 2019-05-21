@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 创建新的播放列表
 ms.date: 02/18/2019
 description: 如何创建新的播放列表
-ms.openlocfilehash: b89e70fbe02e9a890759f832195037dd2ddbd8cf
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.openlocfilehash: 8b855caf2512f6ab4db103c0f28f38176f4def55
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055823"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247587"
 ---
 # <a name="create-a-custom-playlist"></a>创建自定义播放列表
 
@@ -17,7 +17,7 @@ ms.locfileid: "32055823"
 
 ## <a name="create-a-playlist"></a>创建播放列表 
 
-1. 从自定义学习**主页**中, 单击 " **Office 365 培训**", 选择 "Web 部件" 中的 "系统" 菜单, 然后选择 "**管理播放列表**"。 
+1. 在 Microsoft 365 学习途径**主页**中, 单击 " **Office 365 培训**", 从 Web 部件中选择 "系统" 菜单, 然后选择 "**管理播放列表**"。 
 2. 选择一个子类别。 在此示例中, 选择 "**第一天**"。  
 3. 单击 "+" 图标。  
 

@@ -4,16 +4,16 @@ ms.author: pkrebs
 title: 为播放列表创建 SharePoint 页面
 ms.date: 02/10/2019
 description: 为播放列表创建 SharePoint 页面
-ms.openlocfilehash: c2de66a0746260e8f6539656ad70052b209c54ba
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.openlocfilehash: 97ef3e7fd37b11011afcc0738245f364a71f5112
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055486"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247531"
 ---
 # <a name="create-sharepoint-pages-for-custom-playlists"></a>为自定义播放列表创建 SharePoint 页面
 
-自定义学习的独特功能之一是能够创建从 Microsoft 的资产和您创建的 SharePoint 资产汇编的播放列表。 在此示例中, 我们将事先创建一个 SharePoint 页来创建播放列表。 通过 SharePoint 页面构建播放列表的功能可提供多种机会, 以使用 Microsoft 或你的组织提供的 Web 部件构建页面。 例如, 播放列表可以包括 SharePoint 页面, 其中包含来自 YouTube 的嵌入式视频, 或从 Office 365 表单或嵌入的 Power BI 报表生成的表单。 在此示例中, 我们将介绍如何使用 "嵌入 web 部件" 和 "文本" web 部件生成页面。  
+学习路径的独特功能之一是能够创建从 Microsoft 的资产和您创建的 SharePoint 资产汇编的播放列表。 在此示例中, 我们将事先创建一个 SharePoint 页来创建播放列表。 通过 SharePoint 页面构建播放列表的功能可提供多种机会, 以使用 Microsoft 或你的组织提供的 Web 部件构建页面。 例如, 播放列表可以包括 SharePoint 页面, 其中包含来自 YouTube 的嵌入式视频, 或从 Office 365 表单或嵌入的 Power BI 报表生成的表单。 在此示例中, 我们将介绍如何使用 "嵌入 web 部件" 和 "文本" web 部件生成页面。  
 
 ## <a name="create-a-sharepoint-page-for-a-custom-playlist"></a>为自定义播放列表创建 SharePoint 页面
 

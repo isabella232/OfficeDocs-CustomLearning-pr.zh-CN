@@ -1,19 +1,19 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 自定义学习疑难解答
+title: Microsoft 365 学习途径故障排除
 ms.date: 02/10/2019
-description: 了解如何排除自定义学习故障
-ms.openlocfilehash: 7cbd049d4794d14f9e8cc26fd0db5f444812d688
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: 了解如何对 Microsoft 365 学习路径进行故障排除
+ms.openlocfilehash: de46b9c754dac36de230b36ec4a5542518a1dcd5
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055078"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247677"
 ---
-# <a name="troubleshoot-custom-learning"></a>自定义学习疑难解答
+# <a name="troubleshoot-microsoft-365-learning-pathways"></a>解决 Microsoft 365 学习路径问题
 
-下面是针对 Office 365 或 SharePoint Online 设置服务的自定义学习功能时可能出现的问题的故障排除提示。
+下面是在 Microsoft 365 学习通道或 SharePoint Online 设置服务中可能出现的问题的故障排除提示。
 
 ## <a name="how-to-know-if-you-have-tenant-admin-permissions"></a>如何知道你是否拥有租户管理员权限
 
@@ -41,7 +41,7 @@ ms.locfileid: "32055078"
 3. 在 "**应用程序**" 下, 应看到一个标有 "**分布 SharePoint 相关应用程序**" 的磁贴 如果您看到磁贴, 则您有租户应用程序目录。 请参阅下面的**如何确保你是网站 Colllection ...** 部分。 如果看不到磁贴, 你将需要为租户创建租户应用目录。 请参阅下面的**如何创建租户应用目录**部分。
 
 ### <a name="how-to-ensure-you-are-a-site-collection-owner-on-the-tenant-app-catalog"></a>如何确保你是租户应用程序目录上的网站集所有者 
-若要为 Office 365 预配自定义学习, 您需要是租户应用程序目录上的网站集所有者。 如果你是所有者, 下面介绍了如何 determin。
+若要设置 Microsoft 365 学习路径, 您需要是租户应用程序目录上的网站集所有者。 下面介绍如何确定你是否为所有者。
 
 1. 从 Office 365 中, 单击 "**管理**", 单击 "展开" 箭头 >, 单击 "**显示所有** > **管理中心** > **SharePoint**"。
 2. 单击 "**经典管理 SharePoint 中心**", 然后选择 "**应用程序目录**"。
