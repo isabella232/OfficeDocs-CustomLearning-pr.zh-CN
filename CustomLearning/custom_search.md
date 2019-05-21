@@ -3,22 +3,22 @@ author: pkrebs
 ms.author: pkrebs
 title: 搜索
 ms.date: 02/10/2019
-description: 自定义学习中的搜索
-ms.openlocfilehash: 0d697c8fb064db482f4eb5db4003ac91164f58ff
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: Microsoft 365 学习路径中的搜索
+ms.openlocfilehash: d6675e1df06a27813c4d83e1a95d29aa135596a2
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055034"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247698"
 ---
-# <a name="search-for-custom-learning-content"></a><span data-ttu-id="39fe0-103">搜索自定义学习内容</span><span class="sxs-lookup"><span data-stu-id="39fe0-103">Search for Custom Learning content</span></span>
+# <a name="search-for-microsoft-365-learning-pathways-content"></a><span data-ttu-id="6667e-103">搜索 Microsoft 365 学习路径内容</span><span class="sxs-lookup"><span data-stu-id="6667e-103">Search for Microsoft 365 learning pathways content</span></span>
 
-<span data-ttu-id="39fe0-104">自定义学习提供了按子类别、播放列表或资产搜索内容的功能。</span><span class="sxs-lookup"><span data-stu-id="39fe0-104">Custom Learning provides the ability to search for content by subcategory, playlist, or asset.</span></span> 
+<span data-ttu-id="6667e-104">Microsoft 365 学习途径提供按子类别、播放列表或资产搜索内容的功能。</span><span class="sxs-lookup"><span data-stu-id="6667e-104">Microsoft 365 learning pathways provides the ability to search for content by subcategory, playlist, or asset.</span></span> 
 
 > [!TIP]
-> <span data-ttu-id="39fe0-105">自定义学习搜索范围限定为自定义学习内容, 包括 Microsoft 提供的内容和添加到自定义播放列表或子类别的任何内容。</span><span class="sxs-lookup"><span data-stu-id="39fe0-105">Custom Learning Search is scoped to Custom Learning content, including the content provided by Microsoft  and any content added to custom playlists or subcategories.</span></span> <span data-ttu-id="39fe0-106">自定义学习搜索不会将 SharePoint 页面包含在其搜索结果中。</span><span class="sxs-lookup"><span data-stu-id="39fe0-106">Custom Learning Search does not include the SharePoint pages in its Search results.</span></span>     
+> <span data-ttu-id="6667e-105">Microsoft 365 学习路径的作用范围为学习路径内容, 包括 Microsoft 提供的内容以及添加到自定义播放列表或子类别的任何内容。</span><span class="sxs-lookup"><span data-stu-id="6667e-105">Microsoft 365 learning pathways Search is scoped to learning pathways content, including the content provided by Microsoft and any content added to custom playlists or subcategories.</span></span> <span data-ttu-id="6667e-106">不在学习路径播放列表中的 SharePoint 页面不包含在搜索结果中。</span><span class="sxs-lookup"><span data-stu-id="6667e-106">SharePoint pages that are not in a learning pathways playlist are not included in Search results.</span></span>     
 
-- <span data-ttu-id="39fe0-107">单击 "**搜索**" 图标并键入搜索短语。</span><span class="sxs-lookup"><span data-stu-id="39fe0-107">Click the **Search** icon and type a Search phrase.</span></span> 
+- <span data-ttu-id="6667e-107">单击 "**搜索**" 图标并键入搜索短语。</span><span class="sxs-lookup"><span data-stu-id="6667e-107">Click the **Search** icon and type a Search phrase.</span></span> 
 
 ![cg-search](media/cg-search.png)
 
