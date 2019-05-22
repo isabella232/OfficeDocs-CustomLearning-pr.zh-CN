@@ -24,5 +24,5 @@
 # [反馈和支持](feedback.md)
 # [常见问题解答](faq.md)
 # [合作伙伴常见问题](custom_partner.md)
-# [更新 Microsoft 365 学习路径](custom_upgrade.md)
+# [更新 Microsoft 365 学习路径](custom_update.md)
 # [Microsoft 365 学习途径故障排除](custom_troubleshooting.md)
