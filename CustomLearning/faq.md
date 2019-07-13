@@ -4,14 +4,18 @@ ms.author: karuanag
 title: Microsoft 365 学习途径的常见问题
 ms.date: 02/10/2019
 description: Microsoft 365 学习途径的常见问题信息
-ms.openlocfilehash: 26d6c7140b4d387e13b907033ea53b752f5e20ea
-ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
+ms.openlocfilehash: 66149439f0ca13b319bee3bea9c2773b43e98e25
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34334716"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "35636106"
 ---
 # <a name="frequently-asked-questions"></a>常见问题解答
+
+### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>我最近看到了一个博客文章, 将 Office 365 的自定义学习重命名为 Microsoft 365 学习途径。 作为重命名工作的一部分, 解决方案中是否添加了其他更改？ 我是否应更新组织中的解决方案？
+
+Microsoft 365 学习途径发布是一个重塑工作, 专门用于更改解决方案的名称以与 Microsoft 365 品牌打造一致。 如果你的组织中当前已成功运行 Office 365 的自定义学习, 则此时无需更新解决方案。  
 
 ### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>在我的租户环境中安装 Microsoft 365 学习路径的要求是什么？
 
@@ -34,7 +38,7 @@ Microsoft 365 学习途径目前处于 Beta Preview 中。 在评估、规划和
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>中提供了哪些语言的 Microsoft 365 学习途径？
 
-Microsoft 365 学习途径目前仅提供英文版本。 自动端到端预配仅适用于英语租户。 我们计划在 CY19 Q3 中推出以下九种语言的多语言支持: 
+Microsoft 365 学习途径目前仅提供英文版本。 自动端到端预配仅适用于英语租户。 我们计划在 CY19 第4季度推出以下九种语言的多语言支持: 
 
 - 中文（简体） 
 - 荷兰语（荷兰） 
