@@ -1,15 +1,15 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 访问 "自定义学习管理" 页
+title: 访问管理页
 ms.date: 02/15/2019
 description: 如何从 Web 部件或菜单访问自定义学习管理页
-ms.openlocfilehash: e08d8dfc6690d9c5d26cd03efd780bbd27d72cd6
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: f948f9c14f43f4cbb6569277a4ff27427abcbc6d
+ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34327223"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726706"
 ---
 # <a name="access-the-custom-learning-administration-page"></a>访问 "自定义学习管理" 页
 
