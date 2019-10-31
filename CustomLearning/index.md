@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Microsoft 365 学习路径概述
 ms.date: 10/23/2019
 description: 了解 Microsoft 365 的学习途径如何加快组织中的 Microsoft 365 服务的使用和采用。 学习途径包括自定义 SharePoint Online web 部件和可轻松预配到 Microsoft 365 租户的新式 SharePoint Online 通信培训网站。
-ms.openlocfilehash: 8d98269b5d0e6af369bd476e4de3be72bab78950
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.openlocfilehash: 9ac54d13ec23b3489f43dd30ead096f8f05303df
+ms.sourcegitcommit: 76c73e78038521b39b2a8e5328862f47557c8a54
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726716"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37885556"
 ---
 # <a name="microsoft-365-learning-pathways-beta-preview"></a>Microsoft 365 学习路径试用版预览
 Microsoft 365 学习途径是一个可自定义的点播学习解决方案，旨在提高组织中 Microsoft 365 服务的使用和采用。  
@@ -38,7 +38,7 @@ Microsoft 365 学习途径提供了：
 
 ## <a name="feedback-and-support"></a>反馈和支持
 
-Microsoft 365 学习途径是通过 GitHub 上的 "[联机问题" 列表](https://aka.ms/CustomLearningHelp)支持的开放源代码项目。 任何现有 Microsoft 支持合同都不包含 learnng 路径解决方案和 it 的组件。  
+Microsoft 365 学习途径是通过 GitHub 上的 "[联机问题" 列表](https://aka.ms/CustomLearningHelp)支持的开放源代码项目。 学习路径解决方案和 it 的组件不受任何现有 Microsoft 支持合同的覆盖。  
 
 ## <a name="additional-resources"></a>其他资源
-您可以使用 Microsoft 365 学习路径网站提供指向任何新的或现有的用户社区论坛的链接。 如果没有，请考虑启动一个内部用户组（如果尚未安装），以使用户可以共享其成功并彼此了解。  如果没有时间培养内部用户组，您和您的员工可以加入[Microsoft office 365 冠军社区](https://aka.ms/O365Champions)，以进行月度培训、在线社区中的成员资格以及早期访问 Office 365 的工具和资源。
+您可以使用 Microsoft 365 学习路径网站提供指向任何新的或现有的用户社区论坛的链接。 如果没有，请考虑启动一个内部用户组（如果尚未安装），以使用户可以共享其成功并彼此了解。  如果没有时间培养内部用户组，你和你的员工可以加入[Microsoft Office 365 冠军社区](https://aka.ms/O365Champions)，以进行月度培训、在线社区中的成员资格以及早期访问 Office 365 的工具和资源。

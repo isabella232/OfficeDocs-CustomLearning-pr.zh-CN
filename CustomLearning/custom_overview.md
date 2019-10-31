@@ -1,38 +1,29 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 概述
+title: 自定义学习路径
 ms.date: 02/18/2019
-description: Microsoft 365 学习路径概述
-ms.openlocfilehash: 74fac090177ad8009155e21a977b05ee2b742b3b
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+description: 自定义学习路径
+ms.openlocfilehash: 15d782455204cf043937bec03041a85abc9e4ee3
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247839"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886635"
 ---
-# <a name="customize-the-learning-experience"></a>自定义学习体验
+# <a name="customize-learning-pathways"></a>自定义学习路径
 
-Microsoft 365 学习途径简介，Microsoft 旨在加快组织内部使用和采用 Office 365 的新解决方案。 通过学习 pathwyas，您可以：
-- 为您的环境定制 Microsoft 365 学习和采用内容 
+Microsoft 365 学习途径提供了可用于为组织自定义内容的各种方法。 例如，你能够：  
+- 修改 "SharePoint 网站" 的学习路径-更改网站名称、徽标和名称。 修改 "提问" 和 "获取帮助" 页以创建您自己的帮助中心。 
 - 隐藏或显示内容以反映组织中支持的服务或功能 
-- 使用 Microsoft 提供最新的学习内容，让你的内容和用户保持最新的订阅源 
-- 专门针对用户需求构建自定义的播放列表和类别
+- 专门针对用户需求构建自定义的播放列表和子类别
+- 使用经过筛选的内容生成登录页，以支持业务结果，例如促进 Microsoft 团队的采用、Outlook 移动或与 Microsoft 365 的协同工作。
 
 ![cg-introducing](media/cg-introducing.png)
 
-## <a name="how-does-learning-pathways-work"></a>学习路径的工作原理是什么？
-
-Office 365 的学习路径（简短的学习路径）包括三个部分： 
-1. Microsoft online 目录中的内容的实时订阅源
-2. SharePoint 通信网站
-3. SharePoint web 部件 
-
-![cg-howitworks](media/cg-howitworks.png)
-
 ## <a name="requirements-and-permissions"></a>要求和权限
 
-在开始使用本指南之前，请确保已由 SharePoint 租户管理员设置了学习路径。 如果您不确定是否已设置，请与您的 SharePoint 租户管理员联系，以验证是否已设置了学习路径。 此外，请务必获取学习路径 SharePoint 网站的 URL。 如果你是租户管理员，并且学习路径尚未设置，请参阅[设置学习路径](custom_provision.md)。 
+在开始使用自定义学习路径指南之前，请确保已由 SharePoint 租户管理员设置了学习路径。 如果您不确定是否已设置，请与您的 SharePoint 租户管理员联系，以验证是否已设置了学习路径。 此外，请务必获取学习路径 SharePoint 网站的 URL。 如果你是租户管理员，并且学习路径尚未设置，请参阅[设置学习路径](custom_provision.md)。 
 
 ### <a name="permissions-to-provision-learning-pathways"></a>设置学习路径的权限
 

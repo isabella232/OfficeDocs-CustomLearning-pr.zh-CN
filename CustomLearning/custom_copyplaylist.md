@@ -1,42 +1,40 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 创建新的播放列表
+title: 复制播放列表
 ms.date: 02/18/2019
-description: 如何创建新的播放列表
-ms.openlocfilehash: 8b855caf2512f6ab4db103c0f28f38176f4def55
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+description: 如何复制播放列表
+ms.openlocfilehash: b8df82928f3162704f1a86675d28b810119e3980
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726746"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886865"
 ---
-# <a name="create-a-custom-playlist"></a>创建自定义播放列表
+# <a name="copy-a-playlist"></a>复制播放列表
+通常情况下，组织需要通过删除或替换包含组织创建的资产的资产来修改 Microsoft 提供的播放列表。 例如，您可能希望从 "开始" 中删除六个简单步骤播放列表中的某个步骤。 现在，您可以使用学习路径复制播放列表功能轻松复制六个简单的步骤播放列表，只需删除资产、更换资产或添加新资产即可。 
 
-创建播放列表时，首先使用播放列表详细信息创建播放列表，然后将资源添加到播放列表。 您可以将播放列表添加到任何子类别。 例如，可以将播放列表添加到 "**第一天**" 子类别或像**Excel**这样的**产品**子类别。 在本节中，我们将介绍如何创建播放列表，然后将资源添加到下一节中的播放列表中，[将资源添加到自定义播放列表](custom_addassets.md)。
+## <a name="to-copy-a-playlist"></a>复制播放列表
 
-## <a name="create-a-playlist"></a>创建播放列表 
-
-1. 在 Microsoft 365 学习途径**主页**中，单击 " **Office 365 培训**"，从 Web 部件中选择 "系统" 菜单，然后选择 "**管理播放列表**"。 
-2. 选择一个子类别。 在此示例中，选择 "**第一天**"。  
-3. 单击 "+" 图标。  
-
-![cg-newplaylistbtn](media/cg-newplaylistbtn.png)
-
+1. 在 Microsoft 365 学习途径**主页**中，单击**Office 365 培训**。
+2. 单击 "**管理**" 图标。
+3. 在 "**第一天**" 下，单击**六个简单步骤-欢迎使用 Office 365**播放列表，然后单击 "**复制播放列表**"。 
+4. 单击 "**编辑详细信息**"，然后填写 "**标题**" 和 "**说明**" 字段（如以下示例中所示），然后单击 "**保存详细信息**"。  
+ 
 4.  填写播放列表中的字段，如下面的示例所示。 您可以保留此示例的默认图标。 
 
-![cg-newplaylistdetails](media/cg-newplaylistdetails.png)
 
-5.  完成后，选择 "**保存详细信息**"。 
+## <a name="add-or-remove-assets-from-a-playlist"></a>在播放列表中添加或删除资产
+使用自定义播放列表，可以执行以下操作：
 
-## <a name="edit-a-playlist"></a>编辑播放列表
+- 添加和删除 Microsoft 资产，但不编辑 Microsoft 的资产
+- 添加、删除和编辑您的组织或您创建的 SharePoint 资产中的自定义现有 SharePoint 资产。 
 
-- 在 "**自定义学习管理**" 页上，单击播放列表，然后单击 "**编辑详细信息**"。  
+1. 向下滚动 "**管理**" 页，然后在 "**播放列表资源**" 下单击**步骤5的 "删除" 图标。设置移动应用**。 
 
-![cg-editplaylist](media/cg-editplaylist.png)
+## <a name="verify-the-asset-is-removed-from-the-playlist"></a>验证是否已从播放列表中删除资产
+1. 返回到使用**Microsoft 365 培训**页面的选项卡。
+2. 单击 "**第一天**"，然后单击**五个简单的步骤-"欢迎使用 Office 365**播放列表"。 
+3. 单击播放列表以验证资产是否已删除。
 
-### <a name="delete-a-playlist"></a>删除播放列表
 
-- 在 "自定义学习管理" 页上，单击播放列表的 "**删除**" 图标。  
-
-![cg-deleteplaylist](media/cg-deleteplaylist.png)

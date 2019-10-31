@@ -1,16 +1,16 @@
 ---
-title: ''
-description: ''
+title: 推动学习路径的采用
+description: 推动学习路径的采用
 author: karuanag
 ms.author: karuanag
-ms.date: 5/16/19
+ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: 33c327327239e156cf15235c2b180b7b37539f04
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.openlocfilehash: 7369e0b2911ba42b19eafe6a46ca9a639372df46
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726696"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886975"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>促进你的学习路径门户的采用
 自定义 Microsoft 365 学习途径并将最初的学习活动放在一起后，就可以思考如何让用户返回到 Microsoft 365 学习路线图，以便进行日常学习和转换。 您可以使用 Microsoft 提供的指南、采用工具包和最佳实践来帮助您运行成功的 Microsoft 365 学习路径采用活动，我们提供了指南、最佳实践和采用工具包。 
@@ -71,7 +71,6 @@ ms.locfileid: "37726696"
 2.  使用一组代表最终用户的自定义版本的 Microsoft 365 学习路径，并执行采用计划的准备运行。 根据试点项目中的反馈循环访问最终采用计划。
 3.  在持续的一段时间内运行您的采用活动。 
 4.  加入推动采用社区。 在我们的推动采用社区 online 中共享你对 Microsoft 365 学习路径的体验。 在https://aka.ms/DriveAdoption中查找我们。 
-
 
 ## <a name="join-the-driving-adoption-community"></a>加入推动采用社区
 
