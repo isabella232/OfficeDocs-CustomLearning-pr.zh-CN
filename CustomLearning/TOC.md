@@ -5,7 +5,7 @@
 ## [独立 web 部件设置](custom_manualsetup.md)
 # [管理员成功中心](custom_successcenter.md)
 ## [11月内容更新](custom_contentupdates.md)
-## [管理内容更新](custom_managecontentupdates.md)
+## [管理内容更新](custom_contentupdatesmanage.md)
 ## [11月功能更新](custom_featureupdates.md)
 ## [规划你的学习内容](custom_plancontent.md)
 ## [自定义学习路径](custom_overview.md)
