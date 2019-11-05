@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 规划你的学习路径内容
 ms.date: 10/20/2019
 description: Microsoft 365 学习通道内容更新
-ms.openlocfilehash: 90f2db3c320f23931059b12d3eb9a6a9daeada72
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.openlocfilehash: 7c9687ca7c6e8373daa6f81cf9cd9624dd667e90
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886707"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956659"
 ---
 # <a name="plan-your-learning-pathways-content"></a>规划你的学习路径内容
 在深入了解 Microsoft 365 学习途径之前，最好花些时间来调查可供您使用的学习内容、工具和功能。 我们的目标是帮助您尽可能快速高效地为组织的用户提供更快、更高效的工作效率。 在规划学习路径时，我们建议采用三个步骤的过程：
@@ -53,18 +53,21 @@ Microsoft 365 学习路径解决方案为 SharePoint 通信网站提供了与联
 - **播放列表**-是资产的容器。 Microsoft 提供了您无法修改的播放列表，但您可以创建自己的播放列表。  
 - **资源**-播放列表中的学习页面。 Microsoft 在不能修改的播放列表中提供资产，但你可以创建自己的资产并将其添加到播放列表。 est
 
-### <a name="review-the-learning-pathways-inventory-and-resources"></a>查看学习路径清单和资源
-如果管理清单没有足够的详细信息，请参阅 "资源" 页上的 Microsoft 365 学习路径清单电子表格。 它包括元数据、类别、子类别、播放列表和资产的完整列表。 "资源" 页面还提供了指向其他资产（如可自定义的快速入门指南）的链接。 有关详细信息，请参阅[学习路径资源](custom_plancontent_resources.md)。
+### <a name="review-additional-resources-from-microsoft"></a>查看来自 Microsoft 的其他资源
+Microsoft 提供了在规划学习路径内容时可以利用的帮助和培训资源。  
+
+-  [Office 帮助和培训](https://support.office.com)
+-  [Office 365 培训中心](https://support.office.com/office-training-center)
 
 ### <a name="review-the-learning-resources-in-your-organization"></a>查看组织中的学习资源
 让你的组织中已有的学习内容成为你的股票。
-例如，您的组织可能已经有自定义的快速入门指南、便笺或 SharePoint 页面专用于 Microsoft 365 的准备情况、支持人员、加入或培训。 可以将现有 SharePoint 资产合并到 Microsoft 365 门户播放列表中，也可以将其与播放列表中的 Microsoft 内容混合在一起，以生成组织的目标播放列表。 有关将组织的内容与 Microsoft 的内容混合的详细信息，请参阅管理员成功中心的自定义学习路径部分。
+例如，您的组织可能已经有自定义的快速入门指南、便笺或 SharePoint 页面专用于 Microsoft 365 的准备情况、支持人员、加入或培训。 可以将现有 SharePoint 资产合并到 Microsoft 365 门户播放列表中，也可以将其与播放列表中的 Microsoft 内容混合在一起，以生成组织的目标播放列表。 有关将组织的内容与 Microsoft 的内容混合的详细信息，请参阅[自定义学习路径](custom_overview.md)。自定义 "管理员成功中心" 的 "学习路径" 部分。
 
 ### <a name="leverage-the-adoption-resources"></a>利用采用资源
 请注意，您可以在几天内开始使用学习路径，但最好先做一些前期规划，然后再执行学习活动策略以集成新的一项技术或一组服务。 在规划整体变更管理策略时，开发内容计划和使用学习路径确实是一项更广泛的工作，因此我们提供了可用于规划总体策略的采用材料。 作为规划工作的一部分，请查看[采用资源](https://resources.techcommunity.microsoft.com/adoption/)。
 
 ### <a name="build-a-learning-plan-and-iterate"></a>构建学习计划并循环访问 
-许多已成功推出学习途径的公司都采用了侧重于特定方案或技术的学习活动。 例如，"更具协作性的团队" 或 "更多使用 Outlook mobile 的移动"。 您可以使用[可下载的采用工具包](https://resources.techcommunity.microsoft.com/adoption/)查看潜在学习活动的示例。
+许多已成功推出学习途径的公司都采用了侧重于特定方案或技术的学习活动。 例如，"更具协作性的团队" 或 "更多使用 Outlook mobile 的移动"。 您可以使用[可下载的采用工具包](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip)查看潜在学习活动的示例。
 
 
  

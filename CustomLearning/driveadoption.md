@@ -5,12 +5,12 @@ author: karuanag
 ms.author: karuanag
 ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: 7369e0b2911ba42b19eafe6a46ca9a639372df46
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.openlocfilehash: b07a7771c92ec69390e078f60e2e86ae04450cae
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886975"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956639"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>促进你的学习路径门户的采用
 自定义 Microsoft 365 学习途径并将最初的学习活动放在一起后，就可以思考如何让用户返回到 Microsoft 365 学习路线图，以便进行日常学习和转换。 您可以使用 Microsoft 提供的指南、采用工具包和最佳实践来帮助您运行成功的 Microsoft 365 学习路径采用活动，我们提供了指南、最佳实践和采用工具包。 
@@ -31,8 +31,8 @@ ms.locfileid: "37886975"
 - 共享网站和内容
 - 使用 Yammer 连接你的组织
 
-## <a name="use-the-download-adoption-kit"></a>使用下载采用套件
-若要帮助您执行 Microsoft 365 学习通道通信活动，请使用可下载的采用工具包。 它包含： 
+## <a name="use-the-downloadable-adoption-kit"></a>使用可下载的采用套件
+若要帮助您执行 Microsoft 365 学习通道通信活动，请使用[可下载的采用工具包](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip)。 它包含： 
 
 - Microsoft 365 学习路径建议的通信营销活动日历，帮助您规划市场活动
 - 最终用户启动并提示五个 Microsoft 365 方案中的每个应用场景的电子邮件模板。    
