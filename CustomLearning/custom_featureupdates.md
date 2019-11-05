@@ -4,14 +4,31 @@ ms.author: pkrebs
 title: 学习途径2019年11月功能更新
 ms.date: 10/20/2019
 description: 学习途径2019年11月功能更新
-ms.openlocfilehash: f7aa5e540b9dc34b12d425d45ad885984cc5d86a
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.openlocfilehash: fe3dc11f5e34d729d1a63f7b1ef92988f753021a
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886605"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956569"
 ---
-# <a name="november-2019-version-30-feature-updates"></a><span data-ttu-id="c6a63-103">2019年11月版本3.0 功能更新</span><span class="sxs-lookup"><span data-stu-id="c6a63-103">November 2019 Version 3.0 Feature Updates</span></span>
-<span data-ttu-id="c6a63-104">即将推出。。。。</span><span class="sxs-lookup"><span data-stu-id="c6a63-104">Coming soon....</span></span>
+# <a name="november-2019-version-30-feature-updates"></a><span data-ttu-id="257ba-103">2019年11月版本3.0 功能更新</span><span class="sxs-lookup"><span data-stu-id="257ba-103">November 2019 Version 3.0 Feature Updates</span></span>
+<span data-ttu-id="257ba-104">在很大程度上取决于客户反馈，以下新功能已添加到 Microsoft 365 学习路径版本3.0 中。</span><span class="sxs-lookup"><span data-stu-id="257ba-104">Based largely on customer feedback, the following new features have been added to Microsoft 365 learning pathways version 3.0.</span></span>
 
+## <a name="content-updates-and-editorial-calendar"></a><span data-ttu-id="257ba-105">内容更新和编辑日历</span><span class="sxs-lookup"><span data-stu-id="257ba-105">Content updates and editorial calendar</span></span>
+<span data-ttu-id="257ba-106">学习路径的承诺之一是最新内容。</span><span class="sxs-lookup"><span data-stu-id="257ba-106">One of the promises of learning pathways is up-to-date content.</span></span> <span data-ttu-id="257ba-107">为此，我们提供了第一个11月2019季度的内容更新，其中包含各种新的子类别、播放列表和资产。</span><span class="sxs-lookup"><span data-stu-id="257ba-107">To this end, we've provided our first November 2019 quarterly content update with a variety of new subcategories, playlist, and assets.</span></span> <span data-ttu-id="257ba-108">内容更新将在 "新增功能"/"更改的内容" 播放列表中的内容更新文章中进行交流。</span><span class="sxs-lookup"><span data-stu-id="257ba-108">Content updates are communicated in our Content Update articles in our What's New/What's Changed playlist.</span></span> <span data-ttu-id="257ba-109">还可以在以下位置找到学习路径季度内容更新：有关一般 Office 帮助，请参阅[11 月2019的内容更新](custom_contentupdates.md)。</span><span class="sxs-lookup"><span data-stu-id="257ba-109">Learning pathways quarterly content updates can also be found here: For general Office help, see [November 2019 content updates](custom_contentupdates.md).</span></span>
+
+## <a name="microsoft-365-success-center"></a><span data-ttu-id="257ba-110">Microsoft 365 成功中心</span><span class="sxs-lookup"><span data-stu-id="257ba-110">Microsoft 365 Success Center</span></span>
+<span data-ttu-id="257ba-111">我们已添加 Microsoft 365 学习路径管理员成功案例，以帮助管理员和网站集所有者获取学习途径。</span><span class="sxs-lookup"><span data-stu-id="257ba-111">We've added a Microsoft 365 learning pathways Admin Success Center to help admins and site collection owners get the most out of learning pathways.</span></span> <span data-ttu-id="257ba-112">Admin Success 中心提供了指向规划和采用资源的链接，并提供了有关规划、自定义、促进采用和衡量学习路径影响的指南。</span><span class="sxs-lookup"><span data-stu-id="257ba-112">The Admin Success Center provides links to planning and adoption resources and offers guidance on planning, customizing, driving adoption, and measuring impact of learning pathways.</span></span> <span data-ttu-id="257ba-113">有关详细信息，请参阅[Admin Success Center](custom_successcenter.md)。</span><span class="sxs-lookup"><span data-stu-id="257ba-113">For more information, see [Admin Success Center](custom_successcenter.md).</span></span>
+
+## <a name="playlist-navigation"></a><span data-ttu-id="257ba-114">播放列表导航</span><span class="sxs-lookup"><span data-stu-id="257ba-114">Playlist navigation</span></span>
+<span data-ttu-id="257ba-115">根据客户反馈，我们使导航更明显地了解下一个和上一个按钮。</span><span class="sxs-lookup"><span data-stu-id="257ba-115">Based on customer feedback, we've made navigation more obvious with Next and Previous buttons.</span></span> <span data-ttu-id="257ba-116">我们还在导航区域中添加了一个目录，使用户能够轻松地查看播放列表中的项目的完整列表，并直接导航到播放列表中的某个资产。</span><span class="sxs-lookup"><span data-stu-id="257ba-116">We've also added a table of contents within the navigation area to enable users to easily see the full list of items in a playlist and to navigate directly to an asset in a playlist.</span></span>
+
+## <a name="toggle-full-screen-mode"></a><span data-ttu-id="257ba-117">切换全屏模式</span><span class="sxs-lookup"><span data-stu-id="257ba-117">Toggle full-screen mode</span></span>
+<span data-ttu-id="257ba-118">在某些情况下，播放列表资源中的视频显示在窗口的显示区域的下方，因此我们在导航栏中添加了 "切换全屏模式" 功能，以便用户能够在具有足够的可见屏幕区域的播放列表中导航，以显示视频。</span><span class="sxs-lookup"><span data-stu-id="257ba-118">In some cases, the video in a playlist asset appears below the display area of a window, so we've added a Toggle full-screen mode feature in the navigation bar to enable users to navigate through a playlist with enough visible screen area to display the video.</span></span>
+
+## <a name="copy-a-playlist"></a><span data-ttu-id="257ba-119">复制播放列表</span><span class="sxs-lookup"><span data-stu-id="257ba-119">Copy a playlist</span></span>
+<span data-ttu-id="257ba-120">许多客户都只需在 Microsoft 提供的播放列表中修改几个简单的内容，而无需创建全新的播放列表。</span><span class="sxs-lookup"><span data-stu-id="257ba-120">Many customers have expressed the need to modify just a few simple things in a Microsoft-supplied playlist, without the need to create a completely new playlist.</span></span> <span data-ttu-id="257ba-121">例如，常见的客户请求是从 "开始" 中删除六个简单步骤播放列表中的一个步骤。</span><span class="sxs-lookup"><span data-stu-id="257ba-121">For example,a common customer request is to remove a step from the Start with Six Simple Steps playlist.</span></span> <span data-ttu-id="257ba-122">现在，您可以从现有的播放列表中复制播放列表，包括 Microsoft 目录中的播放列表，然后修改该播放列表。</span><span class="sxs-lookup"><span data-stu-id="257ba-122">Now you can copy a playlist from an existing playlist, including a playlist from the Microsoft catalog, and then modify that playlist.</span></span> <span data-ttu-id="257ba-123">例如，现在可以复制六个简单的步骤，删除3个步骤，然后将播放列表转换为3个简单步骤。</span><span class="sxs-lookup"><span data-stu-id="257ba-123">For example, you can now copy six simple steps, delete 3 steps, and turn the playlist into 3 simple steps.</span></span> <span data-ttu-id="257ba-124">有关详细信息，请参阅[复制播放列表](custom_copyplaylist.md)。</span><span class="sxs-lookup"><span data-stu-id="257ba-124">For more information, see [Copy a Playlist](custom_copyplaylist.md).</span></span>
+
+## <a name="multi-content-pack-support"></a><span data-ttu-id="257ba-125">多内容包支持</span><span class="sxs-lookup"><span data-stu-id="257ba-125">Multi-Content Pack support</span></span>
+<span data-ttu-id="257ba-126">为 Microsoft 365 的学习途径而设计：拥有管理 web 内容的经验的合作伙伴和管理员，多内容支持使合作伙伴或管理员能够将自定义内容集集成到 Microsoft 365 学习途径中。</span><span class="sxs-lookup"><span data-stu-id="257ba-126">Designed for Microsoft 365 learning pathways partners and administrators with experience administering web content, multi-content support enables a partner or administrator to integrate a custom content set into Microsoft 365 learning pathways.</span></span> <span data-ttu-id="257ba-127">有关详细信息，请参阅[合作伙伴指南](custom_partnerguide.md)。</span><span class="sxs-lookup"><span data-stu-id="257ba-127">For more information, see the [Partner Guide](custom_partnerguide.md).</span></span>
 
