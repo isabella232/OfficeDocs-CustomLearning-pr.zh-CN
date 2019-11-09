@@ -4,12 +4,12 @@ ms.author: karuanag
 title: 反馈和支持
 ms.date: 02/10/2019
 description: Microsoft 365 学习途径的反馈和支持信息
-ms.openlocfilehash: 429275a1a6153a1434099feebee4bce703abe045
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.openlocfilehash: f54684839086fd1cd11d5061dd34d3fe6ab8adf7
+ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956629"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38075996"
 ---
 # <a name="feedback-and-support"></a>反馈和支持
 
@@ -23,7 +23,7 @@ Microsoft 365 学习途径是由 GitHub 上的[联机问题列表](https://aka.m
 
 ## <a name="provide-us-feedback"></a>向我们提供反馈
 
-我们的解决方案仅在启用业务成果时才成功。  请通过[UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions)为我们提供定期反馈，帮助我们更好地实现。  我们会定期查看你的所有评论和问题。 
+我们的解决方案仅在启用业务成果时才成功。  请通过[UserVoice](https://go.microsoft.com/fwlink/?linkid=2109552)为我们提供定期反馈，帮助我们更好地实现。  我们会定期查看你的所有评论和问题。 
 
 ## <a name="usage-questions"></a>使用问题
 
