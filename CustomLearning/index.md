@@ -4,15 +4,15 @@ ms.author: pkrebs
 title: Microsoft 365 学习路径概述
 ms.date: 10/23/2019
 description: 了解 Microsoft 365 的学习途径如何加快组织中的 Microsoft 365 服务的使用和采用。 学习途径包括自定义 SharePoint Online web 部件和可轻松预配到 Microsoft 365 租户的新式 SharePoint Online 通信培训网站。
-ms.openlocfilehash: 4f15e8830f90564e2d0b40563e0b19e02580b0a0
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.openlocfilehash: 0881b21179c5ffd60b7784f0c3879136dcb58d29
+ms.sourcegitcommit: b3448e95f676ccc5d2b7b153df9106319752936b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38626605"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "41831888"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 学习途径 
-Microsoft 365 学习途径是一个可自定义的点播学习解决方案，旨在提高组织中 Microsoft 365 服务的使用和采用。   
+Microsoft 365 学习途径是一个可自定义的点播学习解决方案，旨在提高组织中 Microsoft 365 服务的使用和采用。    
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>来自 Microsoft 的按需自定义培训
 
