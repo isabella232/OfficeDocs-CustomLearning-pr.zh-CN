@@ -1,6 +1,6 @@
-# <a name="day-in-the-life-with-office-365"></a>Office 365 生命周期中的日
+# <a name="day-in-the-life-with-office-365"></a>在日常工作中使用 Office 365
 
-使用 Office 365 云服务改进对任何设备的团队合作。  通过这些常见方案关注, 了解如何在您的一天内简化协作、通信和内容创建。  
+使用 Office 365 云服务改进在任何设备上的团队合作能力。  跟随我们逐个看看这些常见方案，了解如何在日常工作中简化协作、通信和内容创建。  
 
-![生命可视化中的日](media/m365day.png)
+![“在日常工作中使用 Office 365”视觉图像](media/m365day.png)
 
