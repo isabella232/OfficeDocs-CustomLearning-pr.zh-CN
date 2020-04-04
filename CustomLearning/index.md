@@ -4,15 +4,18 @@ ms.author: pkrebs
 title: Microsoft 365 学习路径概述
 ms.date: 10/23/2019
 description: 了解 Microsoft 365 的学习途径如何加快组织中的 Microsoft 365 服务的使用和采用。 学习途径包括自定义 SharePoint Online web 部件和可轻松预配到 Microsoft 365 租户的新式 SharePoint Online 通信培训网站。
-ms.openlocfilehash: 0881b21179c5ffd60b7784f0c3879136dcb58d29
-ms.sourcegitcommit: b3448e95f676ccc5d2b7b153df9106319752936b
+ms.openlocfilehash: e0e05618328ea0c9ccb187d1784b37a79f5a5be9
+ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41831888"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43141393"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 学习途径 
 Microsoft 365 学习途径是一个可自定义的点播学习解决方案，旨在提高组织中 Microsoft 365 服务的使用和采用。    
+
+> [!IMPORTANT]
+> 作为对当前事件的响应，学习途径提供了一个4月2020的内容更新，重点介绍了用于在组织中启用远程工作的播放列表和资源。 我们添加了一组新的工作远程播放列表，大大更新了 Microsoft 团队内容（尤其是团队会议），并为 web 播放列表添加了一组新的 Office。 作为更新的一部分，我们还提供了适用于管理员的远程工作资源的列表。 有关更新的完整列表，请参阅[2020 年4月的内容更新中的学习路径](custom_contentupdates.md)。   
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>来自 Microsoft 的按需自定义培训
 

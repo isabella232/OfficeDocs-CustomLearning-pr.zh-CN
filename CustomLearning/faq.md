@@ -4,12 +4,12 @@ ms.author: karuanag
 title: Microsoft 365 学习途径的常见问题
 ms.date: 02/10/2019
 description: Microsoft 365 学习途径的常见问题信息
-ms.openlocfilehash: 5b90971ef6e411b4bd8d0cece2d8211f6fd5db23
-ms.sourcegitcommit: 86cfa176d50b324c964b1a8609270cc73a2468b3
+ms.openlocfilehash: 6720ab5671cb5e306a30211f272c610b502608ca
+ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068813"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43141365"
 ---
 # <a name="frequently-asked-questions"></a>常见问题解答
 
@@ -38,10 +38,9 @@ Microsoft 365 学习途径目前处于 Beta Preview 中。 在评估、规划和
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>中提供了哪些语言的 Microsoft 365 学习途径？
 
-Microsoft 365 学习途径目前仅提供英文版本。 自动端到端预配仅适用于英语租户。 我们计划在2020的第一季度推出这九种语言的多语言支持。 
+Microsoft 365 学习途径目前仅提供英文版本。 自动端到端预配仅适用于英语租户。 我们计划在2020的第二季度推出针对以下语言的多语言支持。 
 
-- 中文（简体） 
-- 荷兰语（荷兰） 
+- 中文(简体) 
 - 法语  
 - 德语 
 - 意大利语（意大利） 
@@ -49,6 +48,8 @@ Microsoft 365 学习途径目前仅提供英文版本。 自动端到端预配�
 - 葡萄牙语（巴西） 
 - 俄语（俄语）  
 - 西班牙语 
+
+> 在对学习路径的多语言支持的即将推出的版本中，不会包含对荷兰语语言的支持。 我们将继续评估将来的新语言选项。
 
 ### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>在我们的租户环境中安装网站需要多长时间？
 
@@ -69,7 +70,7 @@ Microsoft 365 的学习途径是开放源代码软件（OSS）解决方案，因
 
 ### <a name="can-we-make-the-microsoft-365-learning-pathways-a-subsite-of-our-primary-sharepoint-site-collection"></a>我们是否可以让 Microsoft 365 学习路径成为我们主要 SharePoint 网站集的子网站？
 
-否。 网站基于通信网站模板，该模板始终旨在作为根网站集。
+不是。 网站基于通信网站模板，该模板始终旨在作为根网站集。
 
 > [!NOTE]
 > 请务必考虑最终用户访问网站所需的权限。 大多数组织已定义了安全性或用户组。 准备好将适当的安全组添加到你的员工社区后，必须将其添加到新的培训门户。
