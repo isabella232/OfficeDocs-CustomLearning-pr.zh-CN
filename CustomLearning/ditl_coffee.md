@@ -1,46 +1,46 @@
 ---
-title: Office 365 的生命周期中的
+title: ''
 ms.openlocfilehash: 8f2351e1767de9073870e79d1111370cbe4df2cd
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
-ms.translationtype: MT
+ms.sourcegitcommit: 821d6b16d8ae415ae8c55d3bf0691158e2c8e7f3
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
+ms.lasthandoff: 04/02/2020
 ms.locfileid: "32056330"
 ---
-# <a name="during-morning-coffee"></a>早上咖啡
+# <a name="during-morning-coffee"></a>上午咖啡期间
 
-![早上咖啡视觉](media/ditl_coffee.png)
+![上午咖啡视觉对象](media/ditl_coffee.png)
 
-它是 7:00 AM, 甚至在打开计算机之前, 您可以在 drinking 早上咖啡时在移动设备上完成大量工作。 在本节中, 我们将向你展示如何在你的手机上使用 Office 365 应用启动你的日期。
+现在是早上 7:00，甚至在打开电脑前，你就可以在喝咖啡时在移动设备上做很多事。 在此部分中，我们将向你展示如何使用手机上的 Office 365 应用程序开始新的一天。
 
-通过 Office 365, 可以随时随地从任何设备工作。 你将发现使用移动设备阅读整夜内的最新电子邮件、检查任务、重新安排会议、查看 PowerBI 仪表板、更正演示文稿或发送邮件的好处。 
+借助 Office 365，无论身在何处，都可以从任何设备上工作。 你将发现使用移动设备的好处：阅读隔夜收到的最新电子邮件、检查任务、重新安排会议、查看 PowerBI 仪表板、更正演示文稿或发送邮件。 
 
 ## <a name="tools"></a>工具
-- Outlook (移动版)
-- Microsoft 团队 (移动版)
-- SharePoint 新闻 (移动版)
-- Office (移动)
+- Outlook（移动版）
+- Microsoft Teams（移动版）
+- SharePoint 新闻（移动版）
+- Office （移动版）
 
-## <a name="checklist-for-your-morning-coffee"></a>上午咖啡检查表
-- 检查 Outlook 或 Outlook mobile 中的邮件
-- 在 Microsoft 团队 & SharePoint 新闻中获取最新项目的日期
+## <a name="checklist-for-your-morning-coffee"></a>上午咖啡清单
+- 在 Outlook 或 Outlook mobile 中检查邮件
+- 使用 Microsoft Teams 和 SharePoint 新闻了解最新项目
 - 在移动设备上管理日历项目
-- 检查每天的任务
-- 从移动设备管理 Office 文件 
+- 查看每天任务
+- 使用移动设备管理 Office 文件 
 
-## <a name="check-mail-from-your-mobile-device"></a>检查移动设备上的邮件
-在解锁电话之前, 您可以查看从不同时区的同事向您发送的未读电子邮件。 您还可以看到, 您有两个计划为 9:00 AM 的会议, 但首先要做的事情是: 检查电子邮件以查看是否有任何重要内容已进入。
+## <a name="check-mail-from-your-mobile-device"></a>使用移动设查看邮件
+解锁电话前，可查看不同时区同事隔夜发送的未读邮件。 还可以看到，你在上午 9:00 安排了两场会议，必须对此采取措施，但首先要检查电子邮件，看看是否有其他重要的事项。
 
-不同的移动平台具有不同的通知功能。 在移动设备通知设置中设置通知。 
+不同的移动平台有不同的通知功能。 在移动设备通知设置中设置通知。 
 
-## <a name="get-up-to-date-on-projects-in-microsoft-teams"></a>了解 Microsoft 团队中的项目的最新情况
-Microsoft 团队是一种基于聊天的工作区, 可用于管理项目、客户约定或通过快速对话更高效地进行的任何类型的团队协作。 可以轻松地扫描团队及其频道以获取新活动。 通过导航到 Microsoft 团队移动应用程序中的活动源来扫描团队中的最新活动。 你可以在你关注的频道中查看通知, 或者用户已 @mentioned 你获取反馈。  
+## <a name="get-up-to-date-on-projects-in-microsoft-teams"></a>使用 Microsoft Teams 了解最新项目
+Microsoft Teams 是一个基于聊天的工作区，非常适合管理项目、客户参与或任何类型的团队合作，通过快速对话提高工作效率。 可轻松扫描团队及其频道，查找新活动。 通过导航到 Microsoft Teams 移动应用程序中的“活动源”，扫描团队的最新活动。 可在此处查看所关注频道或用户所@提及位置的通知，以便获得你的反馈。  
 
 ## <a name="manage-calendar-items-on-your-mobile-device"></a>在移动设备上管理日历项目
-滚动浏览电子邮件时, 您会看到有一个对为 9:00 AM 计划的一个会议的引用。 它表明您的经理需要更新您正在该会议中处理的项目的状态, 并且您的 SharePoint Online 团队网站文档库中的当前幻灯片卡片缺少最新的数字。 这显然是头等大事, 因此您可以转到 Outlook 中的日历, 以重新安排上午9:00 的其他会议, 并将更新发送给与会者。
+滚动浏览电子邮件，你将看到一个安排在上午 9:00 会议的引用。 它表示，经理需要更新你正在该会议中所处理项目的状态，并且你的 SharePoint 联机团队网站文档库中的当前幻灯片版面缺少最新数据。 这显然是优先任务，因此转到 Outlook 中的日历以重新安排上午9:00 的其他会议并向与会者发送更新。
 
-## <a name="check-tasks-for-the-day"></a>检查每天的任务
-在日历应用程序中, 您还可以查看天的任务。 如果您使用的是 Planner, 计划的所有者可以将此信息添加到其 Outlook 日历中。 然后, 团队的任何成员都可以在 Outlook 的日程安排视图中查看任务。 这使您可以清楚地查看优先级任务和约会。  
+## <a name="check-tasks-for-the-day"></a>查看每天任务
+在“日历”应用中，还可以查看当天任务。 如果你使用的是 Planner，计划的所有者可以将此信息添加到其 Outlook 日历中。 然后团队中的任何成员都可在 Outlook 的“计划”视图中查看任务。 这可让你清楚地查看优先任务和约会。  
 
-## <a name="manage-office-files-from-your-mobile-device"></a>从移动设备管理 Office 文件
-若要使用最新的图形更新演示文稿, 请转到移动设备上的 Office 中心, 其中团队网站的文档库已设置为同步。在此处, 找到要用于会议的幻灯片, 并直接从手机进行编辑, 并从 PowerBI 仪表板添加最新的数字。 您还可以通过 Microsoft 团队文件选项卡轻松访问文件, 这将自动在移动设备上打开 Office 中心。 
+## <a name="manage-office-files-from-your-mobile-device"></a>使用移动设备管理 Office 文件
+若要使用最新数字更新演示文稿，请转到移动设备上的 Office 中心，其中已设置团队网站的文档库以进行同步。从那里找到用于会议的幻灯片版面，然后直接从手机编辑，从 PowerBI 仪表板添加最新数字。 还可以通过 Microsoft Teams 文件选项卡轻松访问文件，此选项卡可自动打开移动设备上的 Office Hub。 
