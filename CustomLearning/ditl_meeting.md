@@ -1,12 +1,17 @@
 ---
-title: office 365 的生命周期中的第一天-会议说明: # 在 office 365 作者中准备好的快速步骤: {github-id} # karuanag ms. author: {毫秒-别名} # karuanag ms. 日期: {@date}          # 02/01/2019 毫秒。主题: 入门号码帮助
+title: ''
+ms.openlocfilehash: e59f93b61e6b9b53f214dd8815892ba8b80ec668
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056083"
 ---
-
 # <a name="meeting-at-the-office"></a>办公室会议
 
-![上下班](media/ditl_meeting.png)
+![“协作”视觉图像](media/ditl_meeting.png)
 
-会议时间为 10:00 AM 和时间。 在本节中, 我们将向您展示如何提高会议效率。  这涉及会议准备和 Office 365 工具的最佳实践。  
+现在是上午 10:00，开会时间到了。 本节将介绍如何提高会议效率。  这涉及与会议准备和 Office 365 工具相关的最佳做法。  
 
 ## <a name="tools"></a>工具
 - Outlook
@@ -14,48 +19,48 @@ title: office 365 的生命周期中的第一天-会议说明: # 在 office 365 
 - Skype for Business
 - OneNote
 
-## <a name="checklist-for-your-meeting"></a>会议的检查表
-- 规划和预订会议
+## <a name="checklist-for-your-meeting"></a>“会议”清单
+- 计划和预订会议
 - 加入会议
-- 在会议中显示信息
-- 在会议中使用 OneNote 创建共同创作和笔记
-- 在会议中使用 Planner 来跟踪该项目的交办事项
+- 在会议中展示信息
+- 在会议中使用 OneNote 实现共同创建和会议记录
+- 在会议中使用 Planner 跟踪相应项目的拟办事项
 - 结束会议
  
-## <a name="plan-and-book-your-meeting"></a>规划和预订会议
-您可以执行一些操作以确保您的会议尽可能提高工作效率:
+## <a name="plan-and-book-your-meeting"></a>计划和预订会议
+下面的措施可确保尽可能提高会议效率：
 
-1. **您是否需要会议？** 首先, 考虑与必要的审批者共享聊天中的文件。  
-1. **明确安排。**  在联机会议邀请的 "备注" 部分中加入会议议程, 以便与会者可以做好准备。
-1. **录制会议** 在 Microsoft 团队中使用会议录制功能, 与无法参加会议的人共享会议或稍后 transcribe 笔记。  
+1. **是否需要会议？** 考虑先与必要的审批者在聊天中共享文件。  
+1. **明确日程。**  在联机会议邀请的“注释”部分中添加会议日程，以便与会者做好准备。
+1. **录制会议。** 使用 Microsoft Teams 中的会议录制功能，与无法参加会议的人员共享会议，或稍后转录会议记录。  
 
-现在您已准备好预订该会议: 在 Outlook 中预订与 Microsoft 团队会议或 Skype for business 详细信息。 这样做使您能够将团队成员包括在不同的位置, 记录会议并利用视频 (如果可用) 以增强通信。 
+现在可以预订会议了：在 Outlook 中使用 Microsoft Teams 或 Skype for Business 详细信息预订会议。 这样做可以让来自不同位置的团队成员加入会议，并能录制会议，同时使用视频（若有）来加强交流。 
 
-![Outlook 中的团队 ](media/ditl_teamsoutlook.png)
+![Outlook 中的 Teams ](media/ditl_teamsoutlook.png)
 
 ## <a name="join-a-meeting"></a>加入会议
-从任意位置加入。 通过在会议详细信息或使用移动应用程序中调用拨入号码, 可以从任何位置使用移动设备加入 Microsoft 团队或 Skype for business 会议。 在使用移动应用程序时, 请注意适用于您或您所在国家/地区的移动数据使用限制。
+随时随地加入会议。 可以随时随地使用移动设备加入 Microsoft Teams 或 Skype for Business 会议，具体方法是拨打会议详细信息中的拨入号码，或使用移动应用。 使用移动应用时，请注意适用于你或你所在国家/地区的移动数据使用限制。
 
-![团队会议加入通知](media/ditl_teamsjoin.png)
-
-> [!TIP]
-> **使用耳机。** 如果是从你的办公桌上的计算机连接, 请使用耳机 (而不是计算机的内置麦克风和扬声器), 以确保更好的呼叫质量。
+![Teams 会议加入通知](media/ditl_teamsjoin.png)
 
 > [!TIP]
-> 打开视频! 当相机可用时, 可以使用它们, 因为面对面通信提供了在使用语音时可能会丢失的非口头提示。 别担心, 你的头发看起来很棒。 
+> **使用耳机。** 若要从办公桌上的计算机进行连接，请使用耳机（而不是计算机内置的麦克风和扬声器），以确保更优质的通话质量。
 
-## <a name="present-information-in-a-meeting"></a>在会议中显示信息
-从你的设备共享内容是重点关注会议并为讨论提供上下文的绝佳方式。 通常情况下, 共享整个屏幕可能是一个不好的想法。 这意味着, 屏幕上显示的所有内容都将显示在参加会议的每个人的屏幕上。 只需选择要在 Microsoft 团队中共享的内容, 即可避免这种情况。 
+> [!TIP]
+> 启用视频！ 使用摄像头（若有）是值得的，因为面对面交流会提供一些非言语暗示，而只使用语音可能会漏掉这些。 别担心，你的发型看起来很不错。 
+
+## <a name="present-information-in-a-meeting"></a>在会议中展示信息
+通过共享设备中的内容，可以有效专注于会议，并提供上下文以供讨论使用。 一般来说，不建议共享整个屏幕。 共享整个屏幕意味着，屏幕上出现的所有内容都会显示在每个与会者的屏幕上。 为了避免这种情况，只需在 Microsoft Teams 中选择要共享的内容。 
 
 ## <a name="use-onenote-in-a-meeting"></a>在会议中使用 OneNote
-OneNote 可以实现实时协作和共同创建, 使其成为灵感触发的理想工具和会议中的笔记记录。 只要每个人都有权访问 OneNote 的共享位置, 您就可以发布指向该笔记本的链接并立即启动灵感触发。
+OneNote 可实现实时协作和共同创建，因此成为头脑风暴和会议记录的理想工具。 只要每个人都有权访问 OneNote 的共享位置，你就可以发布笔记本链接，并立即开始头脑风暴。
 
-你可以在团队笔记本中为会议笔记创建特定分区。 您还可以使用 OneNote 中的 "会议详细信息" 功能创建包含会议详细信息摘要的页面。
+可以在团队笔记本中创建特定的会议记录部分。 还可以使用 OneNote 中的“会议详细信息”功能，以创建包含会议详细信息摘要的页面。
 
 ## <a name="use-planner-in-a-meeting"></a>在会议中使用 Planner
-将交办事项直接添加到项目的计划中可使您在事实之后将其转录。 在大型项目会议中, 最佳做法是将某人分配到行动跟踪 &, 以进行笔记记录。 这通常与运行会议的个人不同。 操作项提醒将直接发送给其被分配为的个人, 如果项目通过其到期日期, 则为提醒。 
+将拟办事项直接添加到项目计划中，可以避免事后转录它们。 最佳做法是，在大型项目会议中，指定某人来跟踪拟办事项和完成会议记录。 这通常是主持会议人以外的其他人。 如果拟办事项过了截止日期，拟办事项提醒就会直接发送给提醒指定对象。 
 
 ![Planner 任务](media/ditl_task.png)
 
 ## <a name="end-a-meeting"></a>结束会议
-如果讨论了议程上的所有内容, 请结束会议, 而不考虑时间。 向所有参与者分配操作项并向其发送操作项。 如果要在 Microsoft 团队中进行协作, 可以轻松地在相应的频道中共享交办事项。 还可以在会议期间在 Planner 中输入和分配操作项目, 从而提供了跟踪完成的快速方法,[在 Microsoft 团队中](https://support.office.com/en-us/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0)也可以进行访问。 
+在日程中的所有内容都经过讨论后，可以随时结束会议。 向所有与会者分配并发送拟办事项。 如果是在 Microsoft Teams 中开展协作，可以轻松地在相应渠道中共享拟办事项。 也可以在会议期间在 Planner 中输入和分配拟办事项，这样可以快速跟踪完成情况（也可以[在 Microsoft Teams 中访问](https://support.office.com/zh-CN/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0)）。 

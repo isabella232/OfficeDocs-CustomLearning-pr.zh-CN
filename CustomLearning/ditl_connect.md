@@ -1,17 +1,17 @@
 ---
-title: Office 365 在生命周期中的
+title: ''
 ms.openlocfilehash: 78115ccf91fbbd76d4b30a17ba72307a658fceed
 ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "32055130"
 ---
-# <a name="connecting-across-the-company"></a>在公司之间连接
+# <a name="connecting-across-the-company"></a>公司内部联系
 
-![连接视觉对象](media/ditl_crosscompany.png)
+![联系视觉图像](media/ditl_crosscompany.png)
 
-这是一天繁忙的一天, 但在离开 office 之前, 你想要确保对你的工作感兴趣的所有人都知道发生了什么。 确保所有利益干系人--在团队内部和外部--了解您的目标、进度和结果是您所执行操作的重要部分。  
+忙碌的一天结束了，但在离开办公室之前，你要确保与你工作相关的所有人都已收到工作动态通知。 确保团队内外的所有利益干系人都了解你的目标、进度和结果是你工作的重要组成部分。  
 
 ## <a name="tools"></a>工具
 - SharePoint
@@ -19,34 +19,34 @@ ms.locfileid: "32055130"
 - Outlook
 - Microsoft Teams 
 
-## <a name="checklist-for-communicating-across-the-company"></a>有关在公司之间进行通信的清单
-- 了解你的受众及其现有的通信方法
-- 按角色 (例如项目利益干系人、团队成员或员工) 定位关键消息
-- 选择相互补充的通信工具, 例如, 在 Yammer 社区中创作帖子并通过电子邮件发送通知 
-- 与团队中的其他人共同创作你的信息
-- 发布信息并向所有感兴趣的方发送通知 
+## <a name="checklist-for-communicating-across-the-company"></a>“公司内部通信”清单
+- 了解你的受众及其现有通信方法
+- 按角色（如项目利益干系人、团队成员或员工）定位关键消息
+- 选择相辅相成的通信工具（例如，在 Yammer 社区中创作帖子，并通过电子邮件方式发送提醒） 
+- 与团队中的其他人共同创作信息
+- 发布信息，并向所有相关方发送通知 
  
-## <a name="select-your-communication-method"></a>选择您的通信方法
-使用下面的信息来决定与您的团队进行沟通的最佳方式。 将新技术与传统电子邮件公告结合使用, 同时将人员转换为新的通信方法。 采用一致的通信方法是促进意识和组织更改的有效方式。 
+## <a name="select-your-communication-method"></a>选择通信方法
+请参考下面的信息，以确定与团队通信的最佳方式。 在过渡到新通信方法的同时，平衡使用新技术与传统电子邮件公告。 保持一致的通信方法是推动认知和组织变革的有效方法。 
 
-**Yammer**: 通过使用 yammer 共享更新, 可以在广泛的用户组中推动对话。 发布标准更新或使用通知功能, 以确保更新副本转到每个成员的邮箱。 
+**Yammer**：可以使用 Yammer 来共享最新动态，从而推动一大群人对话。 发布标准的最新动态或使用“公告”功能，可以确保将最新动态的副本发送到每个成员的邮箱。 
 
 ![社交媒体帖子](media/ditl_IT-Service-News.png)
 
-**SharePoint**: 如果你想要与你的工作组外部的人员联系, 请考虑撰写有关你的章程的简要新闻文章以及你在 SharePoint online 中的项目生命周期内可随时使用和保留的进展。 使用 sharepoint 团队网站中的新式页面或大型程序, 请考虑创建 sharepoint 通信网站。 
+**SharePoint**：若要联系工作组以外的人，不妨编写关于章程和进度的简短新闻文章，可供在项目生命周期内从 SharePoint Online 中随时获取和保存。 使用 SharePoint 团队网站中的新式页面；或对于更大型的计划，不妨创建 SharePoint 通信网站。 
 
-SharePoint 通信网站提供直观和灵活的新闻文章, 使您可以将图像、仪表板和文本嵌入在一起。 然后通过任何浏览器或 SharePoint 移动应用程序提供信息。 此视频提供了这些功能强大的网站可执行的操作的快速概述。 若要确保最佳可见性, 请将通信网站固定为 Microsoft 团队中的工作组的选项卡。
+SharePoint 通信网站提供了直观、灵活的新闻文章，可便于同时嵌入图像、仪表板和文本。 然后，可通过任意浏览器或 SharePoint 移动应用获取信息。 下面的视频快速概览了这些功能强大的网站的用途。 为了确保最佳视觉效果，请为 Microsoft Teams 中的工作组将通信网站固定为标签页。
 
-![SharePoint online 中的示例通信网站](media/ditl_Comm-Site.png)
+![SharePoint Online 中的示例通信网站](media/ditl_Comm-Site.png)
 
-**microsoft 团队**: 如果此广泛的人员组已在 Microsoft 团队中已成为工作组的一部分, 为什么不在一般频道中发布笔记, 并提供用于较长更新的 Wiki 页面的链接。  Wiki 页面可由多人共同创作, 并在该团队的生命周期内保持不变。 
+**Microsoft Teams**：如果 Microsoft Teams 中的工作组已包含这一大群人，为何不在常规频道中发布注释，其中包含关键事实和长期提供最新动态的 Wiki 网页链接？  Wiki 网页可以由多人共同创作，并在此团队的整个生命周期内暂留。 
 
-![Microsoft 团队中 Wiki 页面的屏幕截图](media/ditl_Teams-Wiki.png)
+![Microsoft Teams 中的 Wiki 网页的屏幕截图](media/ditl_Teams-Wiki.png)
 
-## <a name="tip-to-modernize-your-communication"></a>将通信现代化的提示
+## <a name="tip-to-modernize-your-communication"></a>实现新式通信的提示与技巧
 
-**对于以电子邮件为中心的同事**: 订阅来自 Yammer 组或 SharePoint 新闻源的通知。  这样, 他们将在其电子邮件中收到通知, 告知您已发布了新信息, 然后可以通过在源信息中单击, 而无需创建单独的电子邮件。  想要获取 snazzy？  使用 Microsoft Flow 或 PowerApps 自定义通知。 请考虑拥有 brownbag, 以向这些用户显示如何在其移动设备上使用 Microsoft 团队、SharePoint 或 Yammer。 
+**对于以电子邮件为中心的同事**：为他们订阅来自 Yammer 组或 SharePoint 新闻源的提醒。  这样，他们会在电子邮件中收到你已发布新信息的通知，然后可以单击进入源信息，你无需创建单独的电子邮件。  想新潮一点吗？  请使用 Microsoft Flow 或 PowerApps 自定义通知。 不妨通过午餐研讨会向这些用户演示如何在移动设备上使用 Microsoft Teams、SharePoint 或 Yammer。 
 
-**让人们说话!** 通过为你的 SharePoint 通信网站页面启用注释来鼓励接洽。  如果您使用的是 Yammer, 请确保用户通过定期监视你的社区了解你可以回答的问题。 
+**让成员参与对话！** 通过为 SharePoint 通信网站页面启用评论功能，鼓励成员参与。  如果使用的是 Yammer，请务必定期监视你的社区中是否有你可回答的问题，从而确保成员参与社区。 
 
-**外部共享**: 如果你的管理员在 Office 365 实例中允许, 则 Microsoft 团队、SharePoint 和 Yammer 都支持外部共享。  通过使用外部共享, 可以与为合作伙伴、供应商和客户合作的人员共享更新。
+**外部共享**：Microsoft Teams、SharePoint 和 Yammer 都支持外部共享，但前提是管理员允许在 Office 365 实例中进行外部共享。  使用外部共享，可以与合作伙伴、供应商和（当然也包括）客户的员工共享你的最新动态。
