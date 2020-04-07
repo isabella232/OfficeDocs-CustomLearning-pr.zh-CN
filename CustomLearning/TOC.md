@@ -3,11 +3,14 @@
 ## [预配 Microsoft 365 学习路径](custom_provision.md)
 ## [浏览 Microsoft 365 学习路径网站](custom_exploresite.md)
 ## [独立的 Web 部件设置](custom_manualsetup.md)
-# [管理员成功中心](custom_successcenter.md)
-## [11 月内容更新](custom_contentupdates.md)
+# 最近更新 
+## [内容更新](custom_contentupdates.md) 
 ## [管理内容更新](custom_contentupdatesmanage.md)
-## [11 月功能更新](custom_featureupdates.md)
-## [规划学习内容](custom_plancontent.md)
+## [功能更新](custom_featureupdates.md)
+# [管理员成功中心](custom_successcenter.md)
+## 规划学习内容 
+### [规划学习内容](custom_plancontent.md)
+### [用于支持远程员工的资源](custom_plancontent_remoteresources.md)
 ## [自定义学习路径](custom_overview.md)
 ### [转到 M365 学习路径网站](custom_goto.md)
 ### [自定义网站](custom_edithelp.md)
