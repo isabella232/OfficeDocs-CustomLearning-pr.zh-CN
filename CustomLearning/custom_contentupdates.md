@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 学习路径内容更新
 ms.date: 3/30/2020
 description: 学习2020年4月内容更新的路径
-ms.openlocfilehash: 21b44cd09a4c8170c7b5740d25733c7b0af0792a
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.openlocfilehash: 8e30e3803d4b6a309cf5ddd8028cf8b3425b1e6e
+ms.sourcegitcommit: dbe293e5690223b5ca3862fe50cfec8ca641eb65
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141376"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43191345"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 学习通道内容更新
 学习途径努力遵守季度内容更新周期。 下面列出了2020年4月的内容更新。
@@ -109,9 +109,9 @@ Office for web 为用户要在 web 上创建、共享和协作使用 Office 的�
 - 共享文档
 - 创建可共享的链接
 - 仅将文档保护给特定人员
-- 与组织外部的人员共享
+- 与组织外部的人员共享 
 
-###<a name="microsoft-forms"></a>Microsoft Forms 
+### <a name="microsoft-forms"></a>Microsoft Forms 
 根据请求，还提供了一些新的窗体资产。 
 #### <a name="forms-4-new-assets"></a>表单（4个新资产） 
 - 创建窗体 
@@ -119,7 +119,7 @@ Office for web 为用户要在 web 上创建、共享和协作使用 Office 的�
 - 查看表单结果 
 - 有关 Microsoft 表单的常见问题 
 
-### <a name="resources-for-supporting-your-remote-workforce"></a>用于支持远程劳动力的资源
+### <a name="resources-for-supporting-your-remote-workforce"></a>用于支持远程员工的资源
 您可以使用学习路径在你的学习路径网站中构建用于支持远程工作人员的登陆页面。 或者，您可以将 "学习路径" web 部件添加到学习路径网站上的现有支持页面，并筛选 web 部件以显示远程播放列表。 以下是 Microsoft 提供的用于支持组织中的远程工作的一些顶级资源的列表。 
 - [如何推出 Microsoft 团队](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
 - [Microsoft Teams 中的会议](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
@@ -130,7 +130,7 @@ Office for web 为用户要在 web 上创建、共享和协作使用 Office 的�
 - [教育版： Microsoft 教育中心](https://education.microsoft.com) 
 - [教育：远程学习入门](https://education.microsoft.com/resource/4c0c02c0)
 
-有关如何自定义学习路径的详细信息，请参阅 [自定义学习路径] （（custom_overview md）。 
+有关如何自定义学习路径的详细信息，请参阅[自定义学习路径](custom_overview.md)。 
 
 ## <a name="november-2019-content-updates"></a>2019年11月内容更新
 欢迎使用 Microsoft 365 学习通道内容更新。 从我们的2019年11月更新开始，我们将按季度提供对学习途径目录的更新清单。 对于11月2019更新，已将以下新的内容子类别和播放列表添加到学习路径目录中。 若要了解有关如何应用内容更新以及如何管理内容更新的详细信息，请参阅[Manage Content updates](custom_contentupdatesmanage.md)。    
