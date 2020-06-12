@@ -5,12 +5,12 @@ title: 概述
 ms.date: 06/06/2020
 description: 对学习路径的多语言支持
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 72159b9525368c6f9744913aea023f496d353091
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: a576c94b48af9336ffc7f035de7377e7bf57c84c
+ms.sourcegitcommit: a50efd8bc3719dbb4f5630e8fceec185599e33a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699008"
+ms.locfileid: "44704618"
 ---
 # <a name="multilingual-support-for-learning-pathways"></a>对学习路径的多语言支持
 
@@ -24,9 +24,9 @@ ms.locfileid: "44699008"
 - 日语（日本）
 - 葡萄牙语（巴西）
 - 俄语（俄语）
-- Spanish
+- 西班牙语
 
-Sharepoint online 通信网站的 SharePoint Online 多语言功能支持对学习路径的多语言支持。 
+Sharepoint online 通信网站的 SharePoint Online 多语言功能支持对学习路径的多语言支持。  
 
 ## <a name="get-familiar-with-the-sharepoint-online-multilingual-feature"></a>了解 SharePoint Online 多语言功能
 通过 SharePoint Online 多语言支持，您可以使用用户的首选语言提供翻译的页面、新闻帖子和用户界面元素。 在开始之前，请花些时间了解多语言支持的工作方式。 
