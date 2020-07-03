@@ -2,19 +2,54 @@
 author: pkrebs
 ms.author: pkrebs
 title: 多语言学习路径的安装选项
-ms.date: 02/11/2019
+ms.date: 07/6/2020
 description: 多语言学习路径的安装选项
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: a1d9e94de21259955c503fa108eb54397632f42a
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: e9e2c74f366dedf8e0010a01797aedb3c3316fa4
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699004"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031688"
 ---
-# <a name="setup-options-for-multiligual-learning-pathways"></a>Multiligual 学习路径的设置选项
-学习路径提供了用于设置多语言支持的以下选项。
-- **设置新的多语言学习路径网站**–如果您的租户中尚未预配 SharePoint 网站的学习路径，则这是最佳选择。 使用此选项，可以在9种语言中预配 SharePoint 模板和 Web 部件的完全翻译的学习路径。 请注意，如果在已预配的租户中设置新的学习路径网站，则可能会丢失对以前设置的网站所做的任何自定义。 有关设置新的学习路径网站的说明，请参阅[设置新的学习路径多语言网站](custom_provision_ml.md)。
-- **更新现有的学习路径网站以实现多语言支持**–如果已有现有的学习路径网站在使用中，则可以对其进行更新以实现多语言支持，然后翻译要支持的语言的网站。 若要开始使用此选项，请参阅[更新多语言支持的学习路径](custom_update_ml.md)。 
-- **手动将 "学习路径" Web 部件安装到 SharePoint 通信网站**-使用手动安装，可以使用 PowerShell 脚本在 SharePoint 通信网站（而不是 "学习路径" 网站）中设置学习路径。 此路径为 TBD。   
+# <a name="setup-options-for-multilingual-learning-pathways"></a>多语言学习路径的安装选项
+通过发布 SharePoint Online 通信网站的多语言功能，学习途径现在可支持多种语言。 设置多语言支持的学习路径的方式取决于您的组织的需求。 为了帮助您确定组织的最佳路径，我们介绍了可能的方案。
+
+## <a name="new-install-scenarios"></a>新安装方案
+下面概括了使用 SharePoint 设置服务安装学习路径的新实例的方案，现在可以从 SharePoint 的 "查找簿" 中获取。
+
+### <a name="scenario-1-we-have-not-installed-learning-pathways-and-need-learning-pathways-multilingual-support"></a>方案1：我们尚未安装学习路径，需要学习路径多语言支持 
+如果尚未安装学习路径，并且需要使用多种语言，则可以使用 SharePoint 设置服务以九种语言创建新的学习路径网站。 英语将成为默认语言，无法更改。 
+- 若要设置新的学习路径解决方案，将英语用作网站的默认语言，请参阅[设置新的学习路径解决方案](custom_provision_ml.md)。
+
+### <a name="scenario-2-we-installed-learning-pathways-but-arent-currently-using-it-andor-havent-made-any-customization-to-the-site-or-playlists"></a>方案2：我们已安装了学习路径，但当前未使用它，并且/或者尚未对网站或播放列表进行任何自定义 
+如果你已安装了学习路径，但未主动使用它，或者尚未对网站或播放列表进行任何自定义，则可以使用 SharePoint 设置服务以九种语言创建新网站。 英语将成为默认语言，无法更改。 
+- 若要设置新的学习路径解决方案，将英语用作网站的默认语言，请参阅[设置新的学习路径解决方案](custom_provision_ml.md)。
+
+### <a name="scenario-3-we-have-not-installed-learning-pathways-and-dont-need-multilingual-support"></a>方案3：尚未安装学习路径，也不需要多语言支持 
+如果以前未安装过学习路径且不需要多语言支持，则可以设置 SharePoint 设置服务中的学习路径。 英语将成为默认语言。 安装完成后，你将需要关闭多语言支持。 
+- 若要设置新的学习路径解决方案而不支持多语言支持，请参阅[设置新的学习路径解决方案](custom_provision_ml.md)。
+
+## <a name="update-learning-pathways-with-web-part-upload-scenarios"></a>使用 web 部件上载方案更新学习路径
+下面概述了将现有的学习路径实例更新到多语言4.0 版本的方案。 在这种情况下，将 "学习路径" web 部件上载到 SharePoint 应用程序目录。
+
+### <a name="scenario-1-we-need-to-upgrade-an-existing-version-of-learning-pathways-but-do-not-need-multilingual-support"></a>方案1：我们需要升级现有版本的学习路径，但不需要多语言支持
+您可以更新为学习路径版本4.0，而无需多语言支持。 通过更新，你可以获取一些可能对你有用的新功能，包括用于选择自定义播放列表和自定义的子类别的图像的图像选择器。 
+
+- 若要更新没有多语言支持的现有学习路径网站，请参阅[更新多语言支持的学习路径](custom_update_ml.md)。 无多语言支持的升级过程与多语言支持相同，但步骤较少。 
+
+### <a name="scenario-2-we-need-to-upgrade-to-multilingual-support-and-the-default-language-of-the-site-collection-is-our-default-language"></a>方案2：我们需要升级到多语言支持，网站集的默认语言是我们的默认语言
+学习路径版本 4. O 将支持网站集中的多语言页面功能。 除了多语言支持之外，您还可以获取几种可能对您有用的更新，如用于为自定义播放列表选择图像的图像选择器 UI 和添加将默认图像更改为自定义子类别的 UI。 
+- 若要更新现有学习路径网站的多语言支持，请参阅[更新多语言支持的学习路径](custom_update_ml.md)。 
+
+## <a name="update-learning-pathways-for-multilingual-support-with-manual-install"></a>使用手动安装更新多语言支持的学习途径 
+下面概述了将现有的学习路径实例更新为版本4.0 多语言版本的方案，具体方法是手动安装 "学习路径" web 部件。 
+
+### <a name="scenario-1-we-need-multilingual-support-and-the-default-language-of-the-site-collection-is-not-our-default-language--no-custom-content"></a>方案1：我们需要多语言支持，并且网站集的默认语言不是我们的默认语言–无自定义内容 
+学习路径版本4.0 将支持此方案。 但是，此方案假定您在现有网站上没有自定义内容或播放列表。 在这种情况下，您可以使用默认语言创建新的 SharePoint Online 通信网站，上载 web 部件，然后使用 PowerShell 脚本手动设置学习路径。 
+- 若要使用默认语言更新多语言支持的学习路径，请参阅**手动安装多语言支持的学习路径**。
+
+### <a name="scenario-2-we-need-multilingual-support-and-the-default-language-of-the-site-collection-is-not-our-default-language--plus-we-have-custom-content"></a>方案2：我们需要多语言支持，并且网站集的默认语言不是我们的默认语言–此外还包含自定义内容 
+在这种情况下，您可以使用默认语言创建新的 SharePoint Online 通信网站，上载 web 部件，然后使用 PowerShell 脚本手动设置学习路径。 在您按照上述步骤重新建立学习路径网站后，您需要移动**CustomPlaylists**列表和**CustomAssets**列表的内容。 此外，您还可以在现有的学习路径网站中，移动构成自定义资产的实际自定义页面，并且您的意图是将其删除。 任务可能很困难，因为对于**CustomPlaylists**列表中的所有项， **CustomAssets**列表中的列表项的 ID 将隐藏在每个播放列表项的 JSONData 字段中。 因此，只需将**CustomPlaylists**列表中的内容从一个网站移到另一个网站即可。 此外， **CustomAssets**列表包含列表项的 JSONData 字段中自定义资产页面的绝对 URL。 如果资产未移动，并且网站未重命名（从而将绝对 URL 更改为资产页面），则**CustomAssets**可以保留。 但您需要手动更正这些条目。 考虑到这种类型的迁移的复杂性，我们建议您考虑登记我们的一个学习路径合作伙伴，以帮助您进行此转换。
+- 若要使用默认语言更新多语言支持的学习路径，请参阅**手动安装多语言支持的学习路径**。
 

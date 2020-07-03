@@ -4,19 +4,21 @@ ms.author: pkrebs
 title: 翻译网站页面
 ms.date: 02/10/2019
 description: 翻译网站页面
-ms.openlocfilehash: 32dc0928d12074575c8608cef38e4b4d0e5e5cf3
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: e26ec272641dc9ce9476e25c56007c76499b626a
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699007"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031780"
 ---
 # <a name="translate-site-pages"></a>翻译网站页面
-无论您是否已将现有版本的学习路径更新到版本4.0 或您已设置新网站，转换网站页面的过程都是相同的。 但是，有几个事项需要注意。 
-- 在设置新的学习路径多语言4.0 版本时，网站页面将转换为9种语言。 
-- 将学习路径解决方案更新为多语言4.0 版本时，SharePoint 网站页面的学习路径保持不变。 必须手动完成翻译。 
+在开始翻译学习路径网站之前，请务必了解多语言功能如何与学习路径配合使用的几个关键概念。 
+- 网站信息导航、徽标和网站名称转换要求在用户的语言配置文件中查看网站。  
+- 必须使用用户的语言配置文件查看 "学习路径" Web 部件，以使其以非英语语言显示。 Web 部件和 Microsoft 提供的内容已为你进行了翻译。
+- 您用于设置学习路径的方法将决定您是否已翻译页面可用，或者是否需要手动翻译页面。 
 
-默认情况下，"学习路径" 网站提供以下页面：
+## <a name="working-with-a-newly-provisioned-site"></a>使用新预配的网站
+如果您从 SharePoint 设置服务中设置了新的学习路径网站，则已翻译的页面已可用。 默认情况下，网站提供以下页面：
 
 - 主页 .aspx
 - Start-with-Six-Simple-Steps
@@ -30,30 +32,58 @@ ms.locfileid: "44699007"
 - Recommended-Playlists
 - 学习路径管理成功中心
 
+## <a name="view-translated-pages-from-the-newly-provisioned-site"></a>从新设置的网站查看翻译的页面
+若要熟悉已翻译的学习路径网站，我们来看看几个翻译页面。
+
+### <a name="view-the-translated-home-page"></a>查看翻译的主页
+从 "学习路径" 主页中，从语言下拉列表中选择一种语言，如下例中所示。 在本示例中，您将看到在右上角选择了 "意大利语"。
+
+![custom_ml_pages_home.png](media/custom_ml_pages_home.png)
+
+### <a name="view-the-translated-microsoft-365-training-page"></a>查看翻译后的 Microsoft 365 培训页面
+为了帮助演示一些重要概念，我们来看看 Microsoft 365 培训页面。 
+
+1. 从 "学习路径" 网站**主页**中，单击 " **Microsoft 365 培训**"。
+2. 在页面的右上角，选择一种语言。 在此示例中，选择 "意大利语"。
+
+![custom_ml_pages_training.png](media/custom_ml_pages_training.png)
+
+在选择语言时哪些翻译是可见的？
+- 将转换 SharePoint 页面，如上面的图形所示。 请注意，页面横幅的文本现在用意大利语表示。
+
+哪些翻译不可见？
+- 网站名称为英语
+- 网站导航为英文版
+- "学习路径" web 部件是英文的
+
+## <a name="view-the-fully-translated-site"></a>查看完全翻译的网站 
+若要以特定语言（包括网站页面、导航和 web 部件）查看完全翻译的网站，必须为该语言设置用户的个人语言和区域设置。 有关设置语言和区域设置的详细信息，请参阅[更改您的个人语言和区域设置](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7)。 请注意，最好使用单独的帐户或让另一个具有不同语言设置的用户查看已翻译的页面。 
+
+## <a name="working-with-an-updated-or-manually-installed-learning-pathways-site"></a>使用已更新或手动安装的学习路径网站
+如果已更新现有学习路径网站或将 web 部件手动安装到现有网站，则需要手动转换网站页面。 "学习路径" web 部件和内容已翻译，并将以用户的首选语言显示。 若要翻译页面，请参阅以下说明 "创建所需语言的页面"。 
+
 ## <a name="create-pages-for-the-languages-you-want"></a>创建所需语言的页面
-一旦为您的网站启用了多语言功能，并选择了要使其可用的语言后，就可以创建所需的翻译页面。 为了帮助演示一些重要概念，我们将使用 Microsoft 365 培训页面作为示例。 若要执行此操作：
+一旦为您的网站启用了多语言功能，并选择了要使其可用的语言后，就可以创建所需的翻译页面。 
 
-1.  从 "学习路径"**主页**中，单击 " **Microsoft 365 培训**"。  
-2.  在顶部栏上，选择 "**翻译**"。
-![custom_update_ml_transbutton.png](media/custom_update_ml_transbutton.png)
-3. 如果要创建可用于网站的所有语言翻译的页面，请选择 "**为所有语言创建**"。 否则，请为所需的语言选择 "仅**创建**"。 在此示例中，我们将选择 "意大利语"。
-4.  单击 "**查看**"。 现在，页面已准备好进行翻译。 
-
-### <a name="an-important-concept-to-know"></a>要了解的重要概念
-请注意，在下面的示例中，页面已转换为意大利语。 但网站标题、导航和 web 部件仍以英语显示。 
-
-![custom_update_ml_transpgconcept.png](media/custom_update_ml_transpgconcept.png)
-
- 在使用英文设置网站后，使用西班牙语的用户作为其首选的个人语言，手动编辑标题、导航和页脚内容并将其转换为西班牙语。 以德语作为首选个人语言的用户对德语而言是一样的。 翻译完内容后，它将显示这些首选语言的所有用户。 Web 部件将选取用户的首选语言，并显示用该语言翻译的内容。 
+1. 转到要使其可用于其他语言的默认语言页面。
+2. 在顶部栏上，选择 "翻译"。
+3. 为所需的语言选择 "创建"。
 
 > [!IMPORTANT]
-> 重要说明：创建翻译页面后，必须发布（或重新发布）默认的英语语言页面，以确保：
-- 翻译页面显示在相应的语言网站中
-- 在新闻 web 部件和突出显示的内容 web 部件中正确显示翻译页面
-- 网站顶部的语言下拉列表包含已启用的所有语言
-- 翻译者将收到有关翻译请求的通知。
+> 创建翻译页面后，必须发布（或重新发布）默认语言页面，以确保：
+>- 翻译页面显示在相应的语言网站中
+>- 在新闻 web 部件和突出显示的内容 web 部件中正确显示翻译页面
+>- 网站顶部的语言下拉列表包含已启用的所有语言
+>- 翻译者将收到有关翻译请求的通知。
+
+创建页面后，页面的状态（"草稿"、"已发布"、"已发布" 等）将显示在每种语言旁边的 "转换" 窗格中。 此外，还将通过电子邮件通知你分配的翻译人员请求翻译。
+
+### <a name="view-the-fully-translated-site-in-a-specific-language"></a>以特定语言查看完全翻译的网站
+若要以特定语言（包括网站页面、导航和 web 部件）查看完全翻译的网站，必须为该语言设置用户的个人语言和区域设置。 有关设置语言和区域设置的详细信息，请参阅[更改您的个人语言和区域设置](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7)。 请注意，最好使用单独的帐户或让另一个具有不同语言设置的用户查看已翻译的页面。
 
 ## <a name="what-does-a-translator-do"></a>翻译工具有什么用途？
+ 在使用英文设置网站后，使用西班牙语的用户作为其首选的个人语言，手动编辑标题、导航和页脚内容并将其转换为西班牙语。 以德语作为首选个人语言的用户对德语而言是一样的。 翻译完内容后，它将显示这些首选语言的所有用户。 Web 部件将选取用户的首选语言，并显示用该语言翻译的内容。 
+
 翻译人员将默认语言页面的副本手动转换为指定的语言。 在创建页面副本时，会在电子邮件中通知翻译人员。 该电子邮件包含指向默认语言页面和新创建的翻译页面的链接。 转换器将：
 1. 选择电子邮件中的 "**开始翻译**" 按钮。
 2. 在页面右上部选择 "**编辑**"，然后翻译内容。
@@ -64,6 +94,20 @@ ms.locfileid: "44699007"
 ## <a name="updating-the-default-language-page"></a>更新默认语言页面
 更新 "默认语言" 页面后，必须重新发布页面。 然后，在电子邮件中通知翻译页面的转换器，以电子邮件的形式通知您已进行更新，以便可以对各个翻译页面进行更新。
 
-## <a name="next-steps"></a>后续步骤
-- [翻译自定义播放列表](custom_translate_pl_ml.md)
-- [隐藏和显示 multiligual 内容](custom_translate_pl_ml.md)
+## <a name="set-up-a-multilingual-site-name-navigation-and-footer"></a>设置多语言网站名称、导航和页脚
+若要以您所提供的不同语言显示网站的名称、导航和页脚，必须手动翻译每个网站名称。
+
+例如，假设您使用英语默认语言创建了一个通信网站，并且您为西班牙语和德语的语言启用了该网站。 创建网站时，将使用默认语言（在此示例中为 "英语"）设置网站名称和说明。 您还可以在创建网站后更新网站名称和说明。 然后，用英语创建导航节点和页脚内容。
+
+在使用英语设置网站后，以西班牙语作为首选个人语言的用户将手动编辑标题、说明、导航和页脚内容并将其转换为西班牙语。 以德语作为首选个人语言的用户对德语而言是一样的。 翻译完内容后，它将显示这些首选语言的所有用户。 
+
+> [!NOTES
+>- 翻译首选语言的网站内容的用户应是网站的 "所有者" 组的成员，或者具有同等的网站权限。
+>- 如果对网站名称进行更改，使用默认语言的导航或页脚，则其他语言的相应翻译项不会自动更新，除非您选择覆盖现有网站翻译。 如果这样做，则已翻译的项目将替换为默认语言的更新，并且必须再次手动翻译。 若要覆盖翻译，请转到默认语言的 "网站语言" 页面，然后选择 "显示高级设置"。 然后，将切换为 "覆盖转换为打开"。 此选项不适用于 "页面" 或 "新闻" 内容。
+
+### <a name="to-view-the-fully-translated-site-in-a-specific-language"></a>以特定语言查看完全翻译的网站
+若要以特定语言（包括网站页面、导航和 web 部件）查看完全翻译的网站，必须为该语言设置用户的个人语言和区域设置。 有关设置语言和区域设置的详细信息，请参阅[更改您的个人语言和区域设置](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7)。 请注意，最好使用单独的帐户或让另一个具有不同语言设置的用户查看已翻译的页面。
+
+## <a name="for-more-information"></a>详细信息
+- 有关转换 SharePoint 通信网站页面的详细信息，请参阅[创建多语言通信网站、页面和新闻](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)。
+- 有关自定义学习路径的详细信息，请参阅[自定义学习路径](custom_overview.md)。  

@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 更新 Microsoft 365 学习路径
+title: 更新多语言支持的学习路径
 ms.date: 05/20/2019
-description: 更新 Microsoft 365 学习路径
+description: 更新多语言支持的学习路径
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: cf058d0b8953f39a8243ffc91ab31fc5941c5674
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: 37a9b77ee45b8ae1ae4973f171c32de11fb530e1
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699006"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031698"
 ---
-# <a name="update-microsoft-365-learning-pathways"></a>更新 Microsoft 365 学习路径
+# <a name="update-learning-pathways-for-multilingual-support"></a>更新多语言支持的学习路径
 如果您有现有的学习路径网站，则可以更新它以实现多语言支持。 若要更新到多语言4.0 版本的学习路径，请将 web 部件包 customlearning （.sppkg）上传到 SharePoint 租户应用程序目录。 更新学习路径时：  
 
 - 任何以前创建的自定义播放列表和资产都将保留
@@ -41,7 +41,7 @@ ms.locfileid: "44699006"
 - 在 "**添加或删除网站语言**" 下，开始在 "**选择" 或 "键入语言**" 中键入语言名称，或从下拉列表中选择一种语言。 您可以重复此步骤以添加多种语言。 您可以通过返回到此页随时在网站中添加或删除语言。
  
 ### <a name="assign-translators"></a>分配翻译人员
-在为学习路径定义语言设置时，您可以分配翻译者。 翻译人员应设置外部语言配置文件。 有关外部语言配置文件的详细信息，请参阅[创建多语言通信网站、页面和新闻](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)。  
+在为学习路径定义语言设置时，您可以分配翻译者。 翻译人员应设置外部语言配置文件。 有关外部语言配置文件的详细信息，请参阅[创建多语言通信网站、页面和新闻](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)。  
 - 对于受支持的语言，请单击 "**选择或键入翻译人员**"，然后选择一个转换器。 
 
 ## <a name="update-the-learning-pathways-web-part-package"></a>更新 "学习路径" web 部件包

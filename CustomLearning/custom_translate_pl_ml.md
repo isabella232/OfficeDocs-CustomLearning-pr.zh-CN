@@ -1,57 +1,122 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 翻译新的播放列表
+title: 翻译学习路径自定义播放列表
 ms.date: 06/8/2020
-description: 翻译新的播放列表
+description: 翻译学习路径自定义播放列表
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 120193f55599b22e5bb46cdd352213871c209012
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: b57bf6d32a645f4ddf26429bb56f547c994d453a
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699002"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031722"
 ---
-# <a name="translate-a-learning-pathways-custom-playlist"></a>翻译学习路径自定义播放列表
-如果您已为您的网站创建了学习路径自定义播放列表，则可以将这些播放列表转换为此网站启用的语言。
+# <a name="translate-learning-pathways-custom-playlists"></a>翻译学习路径自定义播放列表
+借助学习途径，使用自定义播放列表的方式取决于您设置的学习路径网站的方式。 
+
+- 如果您设置了新的学习路径多语言网站，则可以复制或创建新的播放列表，并将播放列表转换为网站支持的语言。
+- 如果您已升级现有的学习路径网站（具有预先存在的自定义播放列表），则可以将现有播放列表转换为您的网站支持的语言。 您还可以复制并创建新的播放列表。 
+
+> [!IMPORTANT]
+> - Microsoft 提供的播放列表已翻译，不能修改，除非您创建播放列表的副本。 
+
+## <a name="create-or-copy-a-playlist-and-have-it-translated"></a>创建或复制播放列表并将其翻译
+如果您已设置新的学习路径多语言网站或已使用多语言 web 部件升级网站，则可以复制或创建自定义播放列表，并将播放列表和播放列表资源转换为网站支持的语言。 
+
+### <a name="copy-a-playlist-and-have-it-translated"></a>复制播放列表并将其翻译
+若要演示如何创建新的自定义播放列表并将其翻译，我们将使用学习路径的复制播放列表功能。
 
 1.  从 "学习路径"**主页**菜单中，单击 "**学习路径管理**"。 
-2.  单击 "自定义播放列表"。 在此示例中，我们将使用**5 个简单的步骤-欢迎访问 Contoso**。 
-3.  单击 "**编辑详细信息**"，然后在 "**添加语言**" 框中选择一种语言。 在此示例中，我们将使用**意大利语–意大利**。 
-5.  单击 "**保存详细信息**"。 
+2.  在 " **Microsoft 365 学习途径**" 下，选择 "**第一天**"，然后选择**六个简单步骤-欢迎使用 Microsoft 365**。 
+3. 单击 "**复制播放列表**"，向下滚动页面，然后单击 "**编辑详细信息**"。   
+4. 更改播放列表的标题。 在此示例中，我们将把播放列表标题更改为**五个简单步骤**。 请注意，可用的语言将取决于为网站选择的受支持语言。 若要添加其他语言，您需要向网站中添加其他支持的语言。   
+5. 单击 "**保存详细信息**"。 
+6. 单击默认语言右侧的语言（在本例中为英语）以查看复制的播放列表详细信息。 新语言的详细信息反映了原始复制的播放列表并需要翻译。
+7. 记下要翻译的播放列表详细信息的提示。  
 
 ![custom_update_ml_pldetail.png](media/custom_update_ml_pldetail.png)
 
 > [!IMPORTANT]
-> 转换器通知不内置在自定义播放列表中。 将需要手动通知翻译人员。 
+> 转换器通知不内置在自定义播放列表中。 将需要手动通知翻译人员。 翻译人员将默认语言详细信息的副本手动转换为指定的语言。 您需要将播放列表详细信息所需的翻译通知翻译人员。 建议您完成所有的播放列表更改，包括添加、编辑或删除播放列表资源，然后将所需翻译的翻译人员通知给播放列表的详细信息和资产。
 
-## <a name="what-does-a-translator-do"></a>翻译工具有什么用途？
-翻译人员将默认语言页面的副本手动转换为指定的语言。 您需要将播放列表详细信息所需的翻译通知翻译人员。 建议您完成所有的播放列表更改，包括添加、编辑或删除播放列表资源，然后通知翻译人员所需的翻译。
+## <a name="create-multilingual-assets-in-a-custom-playlist"></a>在自定义播放列表中创建多语言资源
+由 Microsoft 提供的播放列表中的任何资产都不可编辑且无需翻译。 Microsoft 提供的资产将以网站支持的语言提供。 对于您创建的自定义资产或现有的自定义资产，您可以添加该网站支持的语言。  我们来看看如何为播放列表中的新的和现有的自定义资源添加语言。 
 
-## <a name="translate-the-assets-in-the-custom-playlist"></a>翻译自定义播放列表中的资产
-由 Microsoft 提供的播放列表中的任何资产都不可编辑且无需翻译。 如果您已从租户的 SharePoint 网站添加了自定义资产，这些资产将需要翻译。 我们来看看如何翻译播放列表中的自定义资源。
+### <a name="create-a-new-multilingual-asset-for-a-playlist"></a>为播放列表创建新的多语言资产
+这些说明假定您正在使用本主题的示例中的五个简单步骤播放列表。 
 
-### <a name="add-a-language-for-an-existing-asset"></a>为现有资产添加语言
-1. 在 "**资源**" 下，选择 "自定义资产" 旁边的 "**编辑**" 图标。 
-2. 从 "**添加语言**" 框中选择一种语言，然后选择 "**保存资产**"。
+**创建资产**
+1. 对于五个简单的步骤播放列表，在 "**资产**" 下，选择 " **+ 新资源**"，然后填写资产的详细信息。 
+- 对于 "**标题**"，输入 "欢迎使用 Microsoft 365 at Contoso"。 
+- 对于 "**技术**"，选择 " **Microsoft 365**"。
+![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+2. 选择 "**创建资产**"，然后选择 "**保存资产**"。
 
-### <a name="add-a-language-page-for-an-existing-asset"></a>为现有资产添加语言页面
-1. 在 "资产" 列表中，单击英语资产，然后单击 "**打开**"。
-2. 在顶部栏上，选择 "**翻译**"。
-3. 从 "语言" 下拉列表中，选择资产的语言，选择 "**创建**"，然后单击 "**查看**"。 您的页面现在应类似于下面的内容。 
-![custom_update_ml_transcusplpage.png](media/custom_update_ml_transcusplpage.png)
-4. 单击 "**发布**"，然后复制页面的 URL。 它的外观应与 URL 中的语言代码类似。
-https://tenantname.sharepoint.com/sites/M365LP/SitePages/it/Welcome-to-Contoso.aspx.
-5. 返回到 "SharePoint 管理" 页，添加资产的语言 URL，然后单击 "**保存**"。 
-![custom_update_ml_transcusplurl.png](media/custom_update_ml_transcusplurl.png)
-6.  向上滚动页面，然后单击 "**关闭播放列表**"。
+**打开资产**
+1. 选择您刚创建的资产，然后单击 "**打开**"。  
+2. 根据需要对页面进行更改。 现在，您可以更改页面的标题并向页面添加一些文本，如以下示例中所示，然后单击 "**发布**"。 
+3. 单击 "**翻译**"。
+4. 为您需要的语言选择 "**创建**"。 在此示例中，我们将选择 "意大利语"。
+5. 选择 "**查看**"。 您现在应该会看到类似于以下示例的页面，具体取决于所支持的语言。
+![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+6. 单击“**发布**”。
+7. 对于创建的翻译页面，从浏览器复制 URL 并返回到 "学习路径管理" 页面。
 
-## <a name="what-the-translator-does"></a>翻译工具的用途是什么？
-转换器将：
+**为您创建的翻译资产添加语言** 
+1. 返回到 "学习路径管理" 页，并为您打开的 "五个简单步骤" 资源选择 "编辑" 图标（铅笔）。 
+2. 单击 "**添加语言**"，然后选择一种语言。 在此示例中，我们选择了 "意大利语"。 
+3. 输入您创建的已翻译页面的 URL。 您应该会看到类似于以下示例的页面。 
+![custom_ml_pl_translateasseturl.png](media/custom_ml_pl_translateasseturl.png)
+4. 单击 "**保存资产**"。
+
+## <a name="add-languages-for-existing-custom-playlists-and-assets"></a>为现有的自定义播放列表和资产添加语言
+如果您已升级多语言支持的学习路径，并且具有现有的自定义播放列表和资产，则可以为播放列表和资产添加支持的语言。 这些说明假定您有一个可向其添加语言的自定义播放列表。 如果没有自定义播放列表，请参阅本主题前面的 "创建或复制播放列表"。 
+
+> [!IMPORTANT]
+> - Microsoft 提供的播放列表已翻译，不能修改，除非您创建播放列表的副本。 只能为自定义播放列表添加语言。 
+> - 若要添加自定义播放列表和资产的语言，必须启用多语言支持和语言。 有关启用多语言支持和选项的更多详细信息，请参阅[设置语言设置](https://docs.microsoft.com/office365/customlearning/custom_update_ml#set-language-settings)。 
+
+### <a name="to-add-languages-for-an-existing-playlist"></a>为现有播放列表添加语言
+1.  从 "学习路径"**主页**菜单中，单击 "**学习路径管理**"。 
+2.  选择自定义播放列表。 自定义播放列表由人员图标和复选标记标识，如下面的示例所示。
+![custom_ml_pl_customselect.png](media/custom_ml_pl_customselect.png) 
+3. 选择 "**编辑详细信息**"。 您可能需要向下滚动才能找到 "**编辑详细信息**" 按钮。   
+4. 选择 "**添加语言**"，然后选择一种语言。 
+5. 选择 "**保存详细信息**"。
+ 请注意，可用的语言将取决于为网站选择的受支持语言。 若要添加其他语言，您需要向网站中添加其他支持的语言。   
+5. 单击默认语言右侧的语言（在本例中为英语）以查看复制的播放列表详细信息。 新语言的详细信息反映了原始复制的播放列表并需要翻译。
+![custom_ml_pl_editdetailit.png](media/custom_ml_pl_editdetailit.png) 
+7. 记下要翻译的播放列表详细信息的提示。  
+
+**打开资产**
+1. 选择您刚创建的资产，然后单击 "**打开**"。  
+2. 根据需要对页面进行更改。 现在，您可以更改页面的标题并向页面添加一些文本，如以下示例中所示，然后单击 "**发布**"。 
+3. 单击 "**翻译**"。
+4. 为您需要的语言选择 "**创建**"。 在此示例中，我们将选择 "意大利语"。
+5. 选择 "**查看**"。 您现在应该会看到类似于以下示例的页面，具体取决于所支持的语言。
+![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+6. 单击“**发布**”。
+7. 对于创建的翻译页面，从浏览器复制 URL 并返回到 "学习路径管理" 页面。
+
+## <a name="notify-the-translator"></a>通知转换器
+完成翻译资产的创建后，请通知翻译人员所需的翻译。 转换器将：
 - 转换播放列表详细信息。
 - 转换资产详细信息。
-- 翻译为资产添加的语言页面。
+- 翻译资产的已添加语言页面。
 - 通知请求者翻译已准备好审阅
+
+## <a name="add-languages-for-an-existing-custom-playlist"></a>为现有自定义播放列表添加语言
+如果您已升级多语言支持的学习路径，并且具有现有的自定义播放列表和资产，则可以为播放列表和资产添加支持的语言。 
+
+> [!IMPORTANT]
+> - Microsoft 提供的播放列表已翻译，不能修改，除非您创建播放列表的副本。 只能为自定义播放列表添加语言。 
+> - 若要添加自定义播放列表和资产的语言，必须启用多语言支持和语言。 有关启用多语言支持和选项的更多详细信息，请参阅[设置语言设置](https://docs.microsoft.com/office365/customlearning/custom_update_ml#set-language-settings)。 
+
+
+
+
+## <a name="instructions-for-the-translator"></a>翻译说明
 
 ### <a name="translate-playlist-details"></a>转换播放列表详细信息
 从 "学习路径"**主页**菜单中，单击 "**学习路径管理**"。 
@@ -66,11 +131,9 @@ https://tenantname.sharepoint.com/sites/M365LP/SitePages/it/Welcome-to-Contoso.a
 2. 向下滚动页面，然后在 "资源" 下，为要编辑的资产选择 "编辑"，然后选择语言。 
 3. 为该资产进行翻译，然后单击 "**保存资产**"。  
 
-## <a name="translate-the-added-language-page-for-the-asset"></a>翻译资产的 "添加的语言" 页面
+### <a name="translate-the-added-language-page-for-the-asset"></a>翻译资产的 "添加的语言" 页面
 从 "学习路径"**主页**菜单中，单击 "**学习路径管理**"。 
 1. 单击需要翻译的自定义播放列表。 
 2. 向下滚动页面，然后在 "资源" 下，选择 "资产"，选择 "语言"，然后单击 "打开"。 
-3. 创建页面的翻译，然后单击 "**发布**"。  
+3. 创建页面的翻译，然后单击 "**发布**"。   
 
-## <a name="create-a-new-multilangual-playlist"></a>创建新的 multilangual 播放列表
-有关如何为网站创建新的播放列表的说明，请参阅[创建自定义播放列表](custom_createnewplaylist.md)。 在创建了播放列表和资产之后，请参阅本文档以了解有关如何翻译播放列表和资产的说明。 
