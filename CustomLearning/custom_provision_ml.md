@@ -5,15 +5,15 @@ title: 设置新的学习路径多语言解决方案
 ms.date: 02/10/2019
 description: 通过 SharePoint 设置服务设置 Microsoft 365 学习路径网站
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 380063b92713bf571438a0e2be21f0638dde0cfb
-ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
+ms.openlocfilehash: 6948162d8a96c9a6582484c5f4fc8acad18405a7
+ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45031708"
+ms.lasthandoff: 07/05/2020
+ms.locfileid: "45038992"
 ---
 # <a name="provision-a-new-learning-pathways-multilingual-solution"></a>设置新的学习路径多语言解决方案
-如果组织中没有已在其租户中设置的学习路径，则可以将多语言学习路径解决方案添加到其租户。 使用此选项，可将 "学习路径" SharePoint 模板转换为九种语言，并且可以使用至少修改。 
+如果组织没有在其租户中预配的学习路径，则可以使用 SharePoint 设置服务添加多语言学习路径解决方案。 使用此选项，可将 "学习路径" SharePoint 模板转换为九种语言，并且可以使用至少修改。 
 
 > [!IMPORTANT]
 > 如果你已在租户中预配了学习路径，建议你遵循学习路径的[更新路径](custom_update_ml.md)。 如果您在租户中通过现有实例安装学习路径，则对 "学习路径" 网站模板或播放列表所做的任何更改都将丢失。
@@ -73,12 +73,12 @@ ms.locfileid: "45031708"
 5. 添加链接以在共享邮件中[浏览网站](custom_exploresite.md)，然后单击 "**共享**"。
 
 ## <a name="add-translators-to-the-site"></a>将翻译者添加到网站
-翻译人员需要网站上的成员权限或更高的权限。 
+如果要使用网站的翻译人员，可以为其分配权限。 翻译人员需要成员权限或更高版本。 
 
 ## <a name="choose-options-for-using-multiple-languages-on-the-site"></a>选择用于在网站上使用多种语言的选项
 SharePoint 设置服务创建了九种语言的学习路径网站。 以下建议适用：
 - 关闭不希望支持的语言
-- 如果不支持多语言网站，请关闭多语言功能。 
+- 如果不支持多语言网站，请关闭多语言功能。 请参阅本主题后面的 "关闭多语言支持" 部分。
 
 ### <a name="remove-languages-you-dont-want-to-support"></a>删除不希望支持的语言
 对于选择仅支持一种语言的组织，除了默认的英语语言外，我们建议删除不受支持的语言。 
@@ -102,6 +102,11 @@ SharePoint 设置服务创建了九种语言的学习路径网站。 以下建�
 
 ## <a name="turn-off-multilingual-support"></a>关闭多语言支持
 例如，如果您不希望使用多语言网站，则建议您关闭多语言的网站。 
+
+1. 从 "学习路径" 网站中，从页面的右上方选择 "**设置**"，然后选择 "**网站信息**"。
+2. 在 "网站信息" 窗格的底部，选择 "**查看所有网站设置**"。
+3. 在 "**网站管理**" 下，选择 "**语言设置**"。
+4. 在 "**允许将页面和新闻转换为多种语言**" 下，将切换滑到 **"打开**"。 默认情况下，它应处于打开状态。
 - 在 "**启用要翻译的页面和新闻**" 下，选择 "**关闭**"。 
 
 ### <a name="add-languages"></a>添加语言

@@ -5,12 +5,12 @@ title: 概述
 ms.date: 07/06/2020
 description: 对学习路径的多语言支持
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 9b6dec283f4ab79be5f0024e3340aacf43c87e97
-ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
+ms.openlocfilehash: d3b123d3e10794f7415526c07001171b9c08fbd6
+ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45031668"
+ms.lasthandoff: 07/05/2020
+ms.locfileid: "45038962"
 ---
 # <a name="multilingual-support-for-learning-pathways"></a>对学习路径的多语言支持
 
@@ -27,8 +27,8 @@ ms.locfileid: "45031668"
 - 西班牙语
 
 ## <a name="get-familiar-with-the-sharepoint-online-multilingual-features"></a>了解 SharePoint Online 多语言功能
-针对 SharePoint Online 通信网站的 SharePoint Online 多语言功能启用了对学习路径的多语言支持。
-通过 SharePoint Online 多语言支持，您可以使用用户的首选语言提供翻译的页面、新闻帖子和用户界面元素。 在开始之前，请花些时间了解多语言支持的工作方式。 
+针对通信网站的 SharePoint Online 多语言功能启用了对学习路径的多语言支持。
+通过 SharePoint Online 多语言支持，您可以使用用户的首选语言提供翻译的页面、新闻帖子和用户界面元素。 在开始使用学习路径之前，请花些时间了解如何对 SharePoint Online 通信网站使用多语言支持。 
 - 若要了解 SharePoint Online 多语言功能，请参阅[创建多语言通信网站、页面和新闻](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)。 
 
 ### <a name="what-you-should-know-before-getting-started"></a>开始之前应了解的内容 
@@ -39,9 +39,9 @@ ms.locfileid: "45031668"
 - 如果从 SharePoint 设置服务设置新的学习路径网站，将使用英语作为默认语言创建网站。 无法更改默认语言。 有关详细信息，请参阅[多语言支持的安装程序选项](https://docs.microsoft.com/office365/customlearning/custom_setupoptions_ml)。
 - 早期版本的学习路径（如果安装在租户中）是使用英语作为默认语言进行设置。 无法更改默认语言。 有关详细信息，请参阅[多语言支持的安装程序选项](https://docs.microsoft.com/office365/customlearning/custom_setupoptions_ml)。
 - 如果您设置新的学习路径网站，该网站将设置为9种语言。 您可以关闭不希望支持的语言。 有关详细信息，请参阅[设置新的学习路径多语言网站](https://docs.microsoft.com/office365/customlearning/custom_provision_ml)。  
-- 如果将学习路径从以前的版本更新为4.0 多语言版本，则不会自动自动翻译网站页面。 以默认语言创建的每个页面都可以包含所选目标语言的相应页面，您或您分配的任何人都可以手动转换。 在翻译并发布页面后，将自动以其配置文件中指定的语言向用户显示该页面。 有关详细信息，请参阅[更新多语言支持的学习路径](https://docs.microsoft.com/office365/customlearning/custom_update_ml)。 
+- 如果将学习路径从以前的版本更新为4.0 多语言版本，则不会自动翻译网站的页面。 以默认语言创建的每个页面都可以包含所选目标语言的相应页面，您或您分配的任何人都可以手动转换。 在翻译并发布页面后，将自动以其配置文件中指定的语言向用户显示该页面。 有关详细信息，请参阅[更新多语言支持的学习路径](https://docs.microsoft.com/office365/customlearning/custom_update_ml)。 
 - "学习路径" web 部件中显示的语言将取决于其用户的个人语言和区域设置。 有关设置语言和区域的用户配置文件的详细信息，请参阅[创建多语言通信网站、页面和新闻](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)。 
-- 网站导航、标题、页脚必须由具有要翻译的语言的用户配置文件的人员翻译。 有关翻译网站导航、标题和页脚的详细信息，请参阅[创建多语言通信网站、页面和新闻](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)。
+- 网站导航、标题和页脚必须由具有要翻译的语言的用户配置文件的人员翻译。 有关翻译网站导航、标题和页脚的详细信息，请参阅[创建多语言通信网站、页面和新闻](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)。
 
 ## <a name="next-steps"></a>后续步骤
-- 若要开始，请参阅[用于学习路径多语言支持的安装选项](https://docs.microsoft.com/office365/customlearning/custom_setupoptions_ml)。
+- 若要开始学习路径多语言支持，请参阅[用于学习路径多语言支持的安装程序选项](https://docs.microsoft.com/office365/customlearning/custom_setupoptions_ml)。

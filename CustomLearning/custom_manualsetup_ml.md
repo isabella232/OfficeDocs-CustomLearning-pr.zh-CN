@@ -5,12 +5,12 @@ title: 学习路径手动设置
 ms.date: 02/10/2019
 description: 学习路径手动设置
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 42e7aeeff7639f7fe77b12d60371ad6efe67f782
-ms.sourcegitcommit: 1e6e31d2bd43971b62322c7d2db352961c554d71
+ms.openlocfilehash: c524ebae73cb928a8e77567d4ea2c5e8d5032ccd
+ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/04/2020
-ms.locfileid: "45037225"
+ms.lasthandoff: 07/05/2020
+ms.locfileid: "45038972"
 ---
 # <a name="learning-pathways-manual-setup"></a>学习路径手动设置
 
@@ -18,7 +18,7 @@ Microsoft 365 学习通道为需要支持下列方案之一的组织提供手动
 
 - 您的组织具有专用于培训的 SharePoint Online 新式通信网站，您想要添加到该网站的学习途径。 在这种情况下，尚未在网站上设置 "学习路径" web 部件。
 
-- 您想要在某个组织的 SharePoint 通信网站中安装多语言支持的学习路径。 该网站具有或将具有非英语的默认语言，但它是学习路径支持的语言之一。 以下是学习途径支持的语言：
+- 您想要在某个组织的 SharePoint 通信网站中安装多语言支持的学习路径。 该网站具有或将具有非英语的默认语言，并且是学习路径支持的语言之一。 以下是学习途径支持的语言：
 
 - English
 - 中文(简体)
@@ -30,23 +30,20 @@ Microsoft 365 学习通道为需要支持下列方案之一的组织提供手动
 - 俄语（俄语）
 - 西班牙语
 
-手动设置学习路径需要使用 Windows PowerShell 和 SharePoint Online 命令行管理程序。 以下是手动设置学习路径的步骤： 
+手动设置学习路径需要使用 Windows PowerShell 和 SharePoint Online 命令行管理程序。 下面概述了手动设置学习路径的步骤： 
 
 - 验证是否已满足所有先决条件。
 - 检查网站的默认语言设置。 如果确定，请继续手动安装。 如果需要不同的默认语言设置，则需要创建新网站。 
 - 在您的 SharePoint 租户应用程序目录中安装 customlearning 文件。
 - 设置/确定要充当 Microsoft 365 学习路径主网站的新式通信网站。
-- 执行 PowerShell 脚本，将您的租户配置为学习路径所依赖的相应项目。
+- 执行 PowerShell 脚本，将您的租户配置为学习路径所依赖的项目。
 - 导航到 CustomLearningAdmin 网站页面，以加载管理 web 部件以初始化自定义内容配置。
-
-> [!NOTE]
-> 如果你正在寻找一种快速、简便的方法来设置学习路径，请参阅[设置 Microsoft 365 学习路径](custom_provision.md)。
 
 ## <a name="prerequisites"></a>先决条件
 为确保成功手动设置学习路径 web 部件，必须满足以下先决条件。 
 
-- 您必须已设置和配置租户范围内的应用程序目录。 请参阅[设置 Office 365 租户](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site)和遵循创建应用程序目录网站部分。 
-- 如果已预配租户范围内的应用程序目录，则需要访问有权将程序包上载到该帐户的帐户，才能完成此设置过程。 通常，此帐户具有 SharePoint 管理员角色。 
+- 您必须已设置和配置租户范围内的应用程序目录。 请参阅[设置 Office 365 租户](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site)和跟踪 "创建应用程序目录" 网站部分。 
+- 如果你的租户范围内的应用程序目录已预配，你将需要访问有权将程序包上载到其中的帐户。 通常，此帐户具有 SharePoint 管理员角色。 
 - 如果具有该角色的帐户不起作用，请转到 SharePoint 管理中心，并查找应用程序目录网站集的网站集管理员，然后以网站集管理员身份登录，或添加 SharePoint 管理员帐户，以使网站集管理员失败。 
 - 你还需要具有对 SharePoint 租户管理员帐户的访问权限。
 
@@ -76,7 +73,7 @@ SharePoint 通信网站具有默认语言。 默认语言确定查看学习路�
 3. 如有必要，添加其他语言，然后单击 "**保存**"。 
 4. 继续执行步骤2。 
 
->!便笺如果需要将自定义内容从网站迁移到新创建的网站，请参阅[迁移自定义内容](Migrate custom content)。 
+>!便笺如果需要将自定义内容从网站迁移到新创建的网站，请参阅本文档后面的 "迁移自定义内容" 一节。 
 
 ## <a name="step-2---get-the-web-part-package-and-setup-script-from-github"></a>第2步-获取 GitHub 中的 web 部件包和安装脚本
 作为安装过程的一部分，你将需要 Microsoft 365 学习路径 Web 部件包和 PowerShell 安装脚本。
@@ -129,8 +126,9 @@ SharePoint 通信网站具有默认语言。 默认语言确定查看学习路�
 5. 添加链接以在共享邮件中[浏览网站](https://docs.microsoft.com/Office365/CustomLearning/custom_explore)，然后单击 "**共享**"。
 
 ## <a name="migrate-custom-content"></a>迁移自定义内容
-在您按照上述步骤重新建立学习路径网站后，您需要移动**CustomPlaylists**列表和**CustomAssets**列表的内容。 此外，您还可以在现有的学习路径网站中，移动构成自定义资产的实际自定义页面，并且您的意图是将其删除。 任务可能很困难，因为对于**CustomPlaylists**列表中的所有项， **CustomAssets**列表中的列表项的 ID 将隐藏在每个播放列表项的 JSONData 字段中。 因此，只需将**CustomPlaylists**列表中的内容从一个网站移到另一个网站即可。 此外， **CustomAssets**列表包含列表项的 JSONData 字段中自定义资产页面的绝对 URL。 如果资产未移动，并且网站未重命名（从而将绝对 URL 更改为资产页面），则**CustomAssets**可以保留。 但您需要手动更正这些条目。 考虑到这种类型的迁移的复杂性，我们建议您考虑登记我们的一个学习路径合作伙伴，以帮助您进行此转换。
+在您按照上述步骤重新建立学习路径网站后，您需要移动**CustomPlaylists**列表和**CustomAssets**列表的内容。 此外，您还可以在现有的学习路径网站中，移动构成自定义资产的实际自定义页面，并且您的意图是将其删除。 任务可能很困难，因为对于**CustomPlaylists**列表中的所有项， **CustomAssets**列表中的列表项的 ID 将隐藏在每个播放列表项的 JSONData 字段中。 因此，只需将**CustomPlaylists**列表中的内容从一个网站移到另一个网站即可。 此外， **CustomAssets**列表包含列表项的 JSONData 字段中自定义资产页面的绝对 URL。 如果资产未移动，并且网站未重命名（从而将绝对 URL 更改为资产页面），则**CustomAssets**可以保留。 但您需要手动更正这些条目。 考虑到这种类型的迁移的复杂性，我们建议您考虑登记我们的一个学习路径合作伙伴，以帮助您进行此转换。 
 
 ### <a name="next-steps"></a>后续步骤
-- 为你的组织[自定义](custom_overview.md)培训体验。
+- 请参阅[自定义学习路径](custom_overview.md)。 
+- 请参阅[翻译网站页面](custom_translate_page_ml.md)。
 
