@@ -1,34 +1,54 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Microsoft 365 学习通道安装选项
-ms.date: 02/11/2019
-description: 自定义学习设置的安装选项
-ms.openlocfilehash: 6906b5e70b186c106b3a9969b5bce1cbe87d7021
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
-ms.translationtype: MT
+title: 用于学习路径的安装程序选项
+ms.date: 07/16/2020
+description: 用于学习路径的安装程序选项
+ms.openlocfilehash: 1434a06fbe5f374de7b2f2e4fa471a8eda5ac871
+ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956649"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043214"
 ---
-# <a name="learning-pathways-setup-options"></a>学习路径安装选项
-通过学习路径，可以灵活地以几种不同的方式设置解决方案。 以下各节概述了可用的选项。
+# <a name="setup-options-for-multilingual-learning-pathways"></a>多语言学习路径的安装选项
+通过发布 SharePoint Online 通信网站的多语言功能，学习途径现在可支持多种语言。 您可以采用不同类型的方式设置学习路径，以满足组织的需求。 为了帮助您确定组织的最佳路径，我们概述了设置选项。 
 
-> [!IMPORTANT]
-> 如果已为组织中的 Office 365 设置了自定义学习，并且想要更新解决方案，请按照[Microsoft 365 学习途径自述文件](https://github.com/pnp/custom-learning-office-365)中的 "更新解决方案" 说明操作。 如果您是首次预配 Microsoft 365 学习路径，请参阅 Microsoft 365 学习通道文档中的[预配 microsoft 365 学习通道说明]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision)。  
+## <a name="new-install-scenarios"></a>新安装方案
+"新安装方案" 说明了使用 Microsoft 365 "查看书籍" 服务安装新的学习路径实例的选项。 
 
+### <a name="scenario-1-we-have-not-installed-learning-pathways-and-need-learning-pathways-multilingual-support"></a>方案1：我们尚未安装学习路径，需要学习路径多语言支持 
+如果尚未安装学习路径，并且需要使用多种语言，则可以使用 Microsoft 365 的 "查看书籍服务" 安装新的学习路径解决方案，其中支持九种语言。 英语将成为默认语言，无法更改。 
+- 若要设置新的学习路径解决方案，将英语用作网站的默认语言，请参阅[设置新的学习路径解决方案](custom_provision.md)。
 
-## <a name="recommended---sharepoint-online-provisioning-service-setup"></a>推荐-SharePoint Online 设置服务设置 
-SharePoint Online 设置服务提供了设置自定义学习的最快、最方便和推荐方法。 使用 SharePoint Online 设置服务，Office 365 租户管理员登录到服务，进行几个选择，然后单击 "**添加到租户**" 以设置自定义学习网站和自定义学习 Web 部件。 设置完成后，租户管理员会收到一封电子邮件，指明网站已准备就绪。 
+### <a name="scenario-2-we-installed-learning-pathways-but-arent-currently-using-it-andor-havent-made-any-customization-to-the-site-or-playlists"></a>方案2：我们已安装了学习路径，但当前未使用它，并且/或者尚未对网站或播放列表进行任何自定义 
+如果你已安装了学习路径，但未主动使用它，或者尚未对网站或播放列表进行任何自定义，则可以使用 Microsoft 365 的 "查看书籍" 服务来安装支持九种语言的新解决方案。 英语将成为默认语言，无法更改。 
+- 若要设置新的学习路径解决方案，将英语用作网站的默认语言，请参阅[设置新的学习路径解决方案](custom_provision.md)。
 
-- 若要开始使用 SharePoint 设置服务，请转到[PnP 预配服务](custom_provision.md)的 "预配"   
+### <a name="scenario-3-we-havent-installed-learning-pathways-and-dont-need-multilingual-support"></a>方案3：我们尚未安装学习路径，也不需要多语言支持 
+如果尚未安装学习路径，也不需要多语言支持，可以从 Microsoft 365 的 "查看书籍" 服务进行安装。 英语将成为默认语言。 安装完成后，需要关闭多语言支持。 
+- 若要设置新的学习路径解决方案而不支持多语言支持，请参阅[设置新的学习路径解决方案](custom_provision.md)。
 
-## <a name="stand-alone-learning-pathways-web-part-setup"></a>独立的学习路径 web 部件设置
-对于已经建立了 SharePoint Online 新式通信培训门户的组织，学习途径提供了将 Microsoft 365 学习路径 web 部件手动安装到现有 SharePoint Online 网站的选项。 请注意，该网站必须是新式 SharePoint Online 网站。 此方法需要租户管理权限和 Windows PowerShell 或 SharePoint Online 命令行管理程序的体验。 请注意，此方法需要更多的技术专业知识，然后 SharePoint Online 设置服务设置。
+## <a name="update-learning-pathways-with-a-web-part-upload-scenarios"></a>更新学习路径（使用 web 部件上传）方案
+如果已安装学习路径的现有版本，则可以将 "学习路径" web 部件上传到 SharePoint 应用程序目录，以启用多语言支持。 
 
-- 有关手动 web 部件安装说明，请参阅请参阅[手动安装 web 部件](custom_manualsetup.md)。 
+### <a name="scenario-1-we-need-to-upgrade-an-existing-version-of-learning-pathways-but-dont-need-multilingual-support"></a>方案1：我们需要升级现有版本的学习路径，但不需要多语言支持
+您可以更新不带多语言支持的学习路径版本4.0。 通过更新，您可以获得一些新功能，包括自定义播放列表和子类别的图像选择器。 
 
-## <a name="update-learning-pathways"></a>更新学习路径
-已使用 SharePoint Online 设置服务安装早期版本的 Microsoft 365 学习路径的组织可以将解决方案更新到最新版本。 有关如何检查根据解决方案的最新版本部署的版本的说明，以及有关如何更新解决方案的说明，请参阅[自述文件](https://github.com/pnp/custom-learning-office-365/blob/master/README.md)的 "更新解决方案" 部分。
+- 若要更新没有多语言支持的现有学习路径解决方案，请参阅[更新多语言支持的学习路径](custom_update.md)。 无多语言支持的升级过程与多语言支持相同，但步骤较少。 
 
-### <a name="next-steps---provision-microsoft-365-learning-pathwayscustom_provisionmd"></a>后续步骤-[预配 Microsoft 365 学习路径](custom_provision.md)
+### <a name="scenario-2-we-need-to-upgrade-to-multilingual-support-and-the-default-language-of-the-site-collection-is-our-default-language"></a>方案2：我们需要升级到多语言支持，网站集的默认语言是我们的默认语言
+学习路径版本 4. O 将支持网站集中的多语言页面。 除了多语言支持之外，还可以获取一些新功能，包括用于自定义播放列表和子类别的图像选择器。 
+- 若要更新现有学习路径网站的多语言支持，请参阅[更新多语言支持的学习路径](custom_update.md)。 
+
+## <a name="update-learning-pathways-for-multilingual-support-with-manual-install"></a>使用手动安装更新多语言支持的学习途径 
+下面概述了将现有的学习路径实例更新为版本4.0 多语言版本的方案，具体方法是手动安装 "学习路径" web 部件。 
+
+### <a name="scenario-1-we-need-multilingual-support-and-the-default-language-of-the-site-collection-is-not-our-default-language--no-custom-content"></a>方案1：我们需要多语言支持，并且网站集的默认语言不是我们的默认语言–无自定义内容 
+学习路径版本4.0 将支持此方案。 但是，此方案假定您在现有网站上没有自定义内容或播放列表。 在这种情况下，您可以使用默认语言创建新的 SharePoint Online 通信网站，上载 web 部件，然后使用 PowerShell 脚本手动设置学习路径。 
+- 若要设置使用默认语言的多语言支持的学习路径，请参阅[手动安装多语言支持的学习路径](custom_manualsetup.md)。
+
+### <a name="scenario-2-we-need-multilingual-support-and-the-default-language-of-the-site-collection-is-not-our-default-language--plus-we-have-custom-content"></a>方案2：我们需要多语言支持，并且网站集的默认语言不是我们的默认语言–此外还包含自定义内容 
+在这种情况下，您可以使用默认语言创建新的 SharePoint Online 通信网站，上载 web 部件，然后使用 PowerShell 脚本手动设置学习路径。 
+
+在您按照上述步骤重新建立学习路径网站后，您需要移动**CustomPlaylists**列表和**CustomAssets**列表的内容。 此外，您还可以在现有的学习路径网站中，移动构成自定义资产的实际自定义页面，并且您的意图是将其删除。 任务可能很困难，因为对于**CustomPlaylists**列表中的所有项， **CustomAssets**列表中的列表项的 ID 将隐藏在每个播放列表项的 JSONData 字段中。 因此，只需将**CustomPlaylists**列表中的内容从一个网站移到另一个网站即可。 此外， **CustomAssets**列表包含列表项的 JSONData 字段中自定义资产页面的绝对 URL。 如果资产未移动，并且网站未重命名（从而将绝对 URL 更改为资产页面），则**CustomAssets**可以保留。 但您需要手动更正这些条目。 考虑到这种类型的迁移的复杂性，我们建议您考虑登记我们的一个学习路径合作伙伴，以帮助您进行此转换。
+- 若要设置使用默认语言的多语言支持的学习路径，请参阅[手动安装多语言支持的学习路径](custom_manualsetup.md)。

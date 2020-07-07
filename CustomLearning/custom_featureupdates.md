@@ -4,29 +4,36 @@ ms.author: pkrebs
 title: 学习路径功能更新
 ms.date: 10/20/2019
 description: 学习路径功能更新
-ms.openlocfilehash: 636be2078a87bee2ef9f406f76239e2d4ea94e11
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
-ms.translationtype: MT
+ms.openlocfilehash: e7becc7b6026e38eef349f1c5c0b2bd380b11cbc
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141355"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048090"
 ---
-# <a name="learning-pathways-feature-updates"></a>学习路径功能更新
-学习路径团队倾听客户反馈意见，以帮助提供所需的功能。 下面提供了有关计划在第2季度2020的功能的更新。 
+# <a name="july-2020-version-40-feature-updates"></a>2020年7月版本4.0 功能更新 
 
-## <a name="upcoming-feature-updates-for-q2-2020"></a>即将推出的针对 Q2 2020 的功能更新
-将对学习路径的多语言支持安排在2020的第二季度发布。 多语言支持将依赖于 "新式 SharePoint 的 Multiligual page 发布" 功能，并将同时提供适用于 SharePoint 多语言支持的常规可用性。 有关详细信息，请参阅[Microsoft 365 路线图](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=50217)。  
-  
-对于学习路径，将支持以下语言：   
+已将以下新功能添加到 Microsoft 365 学习路径版本4.0。 
 
+## <a name="multilingual-support-for-learning-pathways"></a>对学习路径的多语言支持 
+对学习途径的多语言支持现已推出九种语言。  
+- English     
 - 中文(简体) 
-- 法语  
+- 法语 
 - 德语 
 - 意大利语（意大利） 
-- 日语（日本）  
+- 日语（日本） 
 - 葡萄牙语（巴西） 
-- 俄语（俄语）  
+- 俄语（俄语） 
 - 西班牙语 
+
+有关详细信息，请参阅[学习路径多语言概述](custom_overview.md)。 
+
+## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>用于学习路径自定义子类别的图像选取器 
+学习途径现在为自定义播放列表和子类别提供了易于使用的图像选取器。  在过去的版本中，可以更改播放列表的图像，但不能更改子类别的图像。  
+
+有关详细信息，请参阅：
+- [创建自定义播放列表](custom_createnewplaylist.md)。 
+- [创建子类别](custom_createnewcat.md)
 
 > [!NOTE]
 > 在对学习路径的多语言支持的即将推出的版本中，不会包含对荷兰语语言的支持。 我们将继续评估将来的新语言选项。

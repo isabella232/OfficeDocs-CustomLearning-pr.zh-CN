@@ -2,24 +2,23 @@
 author: pkrebs
 ms.author: pkrebs
 title: 翻译网站页面
-ms.date: 02/10/2019
+ms.date: 07/06/2020
 description: 翻译网站页面
-ms.openlocfilehash: cf397250ceab826efb8b82522c0560c2109d24bb
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: c712ff624f37efa54120a8567e2a6b3a79d54bcd
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038982"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048110"
 ---
 # <a name="translate-site-pages"></a>翻译网站页面
 在开始翻译学习路径网站之前，请务必了解多语言功能如何与学习路径配合使用的几个关键概念。 
 - 网站信息导航、徽标和网站名称转换要求在用户的语言配置文件中查看和翻译网站。  
 - 必须使用用户的语言配置文件查看 "学习路径" Web 部件，以使其以非英语语言显示。 Web 部件和 Microsoft 提供的内容已为你进行了翻译。 有关语言配置文件的详细信息，请参阅[更改您的个人语言和区域设置](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7)。
-- 设置学习路径的方式决定了是否有已翻译的页面可用。 使用 SharePoint 设置服务预配的新网站将具有九种可用九种语言的翻译页面。 您创建的更新的网站或网站需要手动翻译。 有关[多语言学习路径，请参阅安装程序选项](custom_setupoptions_ml.md)。
+- 设置学习路径的方式决定了是否有已翻译的页面可用。 使用 Microsoft 365 "查看书籍" 服务预配的新网站将使用九种语言翻译的页面。 您创建的更新的网站或网站需要手动翻译。 有关[多语言学习路径，请参阅安装程序选项](custom_setupoptions_ml.md)。
 - 针对通信网站的 SharePoint Online 多语言功能启用了对学习路径的多语言支持。 若要了解 SharePoint Online 多语言功能，请参阅[创建多语言通信网站、页面和新闻](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)。 
 
 ## <a name="working-with-a-newly-provisioned-site"></a>使用新预配的网站
-如果您从 SharePoint 设置服务中设置了新的学习路径网站，则已翻译的页面已可用。 默认情况下，网站提供以下页面：
+如果您从 Microsoft 365 的 "查阅" 书籍服务中设置了新的学习路径网站，则已为您提供已翻译的页面。 默认情况下，网站提供以下页面：
 
 - 主页 .aspx
 - Start-with-Six-Simple-Steps

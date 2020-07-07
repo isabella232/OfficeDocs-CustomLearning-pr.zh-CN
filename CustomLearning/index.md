@@ -2,20 +2,21 @@
 author: pkrebs
 ms.author: pkrebs
 title: Microsoft 365 学习路径概述
-ms.date: 10/23/2019
+ms.date: 7/6/2020
 description: 了解 Microsoft 365 的学习途径如何加快组织中的 Microsoft 365 服务的使用和采用。 学习途径包括自定义 SharePoint Online web 部件和可轻松预配到 Microsoft 365 租户的新式 SharePoint Online 通信培训网站。
-ms.openlocfilehash: e0e05618328ea0c9ccb187d1784b37a79f5a5be9
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
-ms.translationtype: MT
+ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
+ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141393"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043234"
 ---
-# <a name="microsoft-365-learning-pathways"></a>Microsoft 365 学习途径 
+# <a name="microsoft-365-learning-pathways"></a>Microsoft 365 学习路径 
 Microsoft 365 学习途径是一个可自定义的点播学习解决方案，旨在提高组织中 Microsoft 365 服务的使用和采用。    
 
 > [!IMPORTANT]
-> 作为对当前事件的响应，学习途径提供了一个4月2020的内容更新，重点介绍了用于在组织中启用远程工作的播放列表和资源。 我们添加了一组新的工作远程播放列表，大大更新了 Microsoft 团队内容（尤其是团队会议），并为 web 播放列表添加了一组新的 Office。 作为更新的一部分，我们还提供了适用于管理员的远程工作资源的列表。 有关更新的完整列表，请参阅[2020 年4月的内容更新中的学习路径](custom_contentupdates.md)。   
+> 为响应客户反馈，现在学习途径提供了对九种语言的多语言支持。 有关如何对学习路径启用多语言支持的信息和说明，请阅读下列主题： 
+>- [学习路径的多语言支持概述](custom_overview_ml.md) 
+>- [学习路径的设置选项](custom_setupoptions.md)  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>来自 Microsoft 的按需自定义培训
 
@@ -31,13 +32,14 @@ Microsoft 365 学习途径提供了：
 ## <a name="sharepoint-online-provisioning-service"></a>SharePoint Online 设置服务 
 可以通过 SharePoint Online 设置服务设置学习路径。 预配 Microsoft 365 的学习途径后，组织将获取一个 SharePoint Online 通信网站，该网站旨在作为现成培训门户，以及与 "培训内容" 联机目录相关的学习路径 Web 部件。 
 
-![cg-provision](media/cg-provision.png)
+![cg-provision.png](media/cg-provision.png)
 
-## <a name="3-easy-steps"></a>3个简单步骤
+## <a name="4-easy-steps"></a>4个简单步骤
 让我们开始为你的环境创建学习路径体验。
-1. 选择 "[设置" 选项](custom_setupoptions.md)并设置 Microsoft 365 学习路径。  
-2. 为您的环境定制学习路径。
-3. 使用我们的[采用工具](driveadoption.md)共享与您的用户的学习途径。
+1. 阅读[对学习路径的多语言支持概述](custom_overview_ml.md)。 
+2. 选择 "[设置" 选项](custom_setupoptions.md)并设置 Microsoft 365 学习路径。  
+3. 为您的环境定制学习路径。
+4. 使用我们的[采用工具](driveadoption.md)共享与您的用户的学习途径。
 
 ## <a name="feedback-and-support"></a>反馈和支持
 

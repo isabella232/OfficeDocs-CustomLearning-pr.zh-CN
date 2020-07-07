@@ -1,18 +1,17 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 学习路径手动设置
+title: 学习路径手动设置用于 ml
 ms.date: 02/10/2019
 description: 学习路径手动设置
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: c524ebae73cb928a8e77567d4ea2c5e8d5032ccd
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: 44bd47f0a49634a2f6ac6aca2d221fb8e6f15980
+ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038972"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043274"
 ---
-# <a name="learning-pathways-manual-setup"></a>学习路径手动设置
+# <a name="learning-pathways-manual-setup-for-multilingual"></a>了解多语言手动设置的学习路径
 
 Microsoft 365 学习通道为需要支持下列方案之一的组织提供手动设置：
 
