@@ -1,12 +1,18 @@
-# [入门](index.md)
-## [Microsoft 365 学习路径设置选项](custom_setupoptions.md)
-## [预配 Microsoft 365 学习路径](custom_provision.md)
+# [入门](index.md)  
+## [学习路径的设置选项](custom_setupoptions.md)
+## [预配学习路径](custom_provision.md)
+## [更新学习路径](custom_update.md)
+## [手动设置](custom_manualsetup.md)
 ## [浏览 Microsoft 365 学习路径网站](custom_exploresite.md)
-## [独立的 Web 部件设置](custom_manualsetup.md)
 # 最近更新 
 ## [内容更新](custom_contentupdates.md) 
 ## [管理内容更新](custom_contentupdatesmanage.md)
 ## [功能更新](custom_featureupdates.md)
+# 多语言支持
+## [针对学习路径的多语言支持](custom_overview_ml.md)
+## [翻译网站页面](custom_translate_page_ml.md)
+## [翻译学习路径自定义播放列表](custom_translate_pl_ml.md)
+## [翻译网站名称、导航和页脚](custom_sitenamenav_ml.md)
 # [管理员成功中心](custom_successcenter.md)
 ## 规划学习内容 
 ### [规划学习内容](custom_plancontent.md)
