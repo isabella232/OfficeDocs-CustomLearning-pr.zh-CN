@@ -4,11 +4,12 @@ ms.author: pkrebs
 title: 设置新的学习路径解决方案
 ms.date: 02/10/2019
 description: 使用 Microsoft 365 look book service 预配 Microsoft 365 学习路径网站
-ms.openlocfilehash: 2ab7ca9c7c66ce86be09fcfd95d3ccfd18682777
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.openlocfilehash: 40b298406ee5f9f5acc3f4cc471429063430f856
+ms.sourcegitcommit: 22fd931116be1a39836f7f5429b96483bf7860ef
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048120"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45146533"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>设置新的学习路径解决方案 
 如果组织没有在其租户中预配的学习路径，则可以使用 SharePoint 的 "查看书籍" 服务来添加多语言学习路径解决方案。 使用此选项，可将 "学习路径" SharePoint 模板转换为九种语言，并且可以使用至少修改。
@@ -39,6 +40,8 @@ ms.locfileid: "45048120"
 1. 转到 " [Microsoft 365 学习路径解决方案" 页面](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239)。
 2. 单击 "**添加到你的租户**"。 如果你未登录到你的租户，设置服务将要求你提供租户管理员凭据。 
 3. 从 "请求的权限" 对话框中，选择**代表你的组织同意**的，然后选择 "**接受**"。
+
+![应用程序 catologue 同意的图像](media/app-catologue-consent.png)
 
 "书籍" 服务需要这些权限才能创建租户应用程序目录，将应用程序安装到租户应用程序目录中并预配网站模板。 对租户没有整体影响。 这些权限将显式用于解决方案安装的目的。 您必须接受这些权限才能继续安装。
 
