@@ -7,7 +7,7 @@ description: 通过 SharePoint 设置服务设置 Microsoft 365 学习路径网�
 ROBOTS: NOINDEX, NOFOLLOW
 ms.openlocfilehash: 6948162d8a96c9a6582484c5f4fc8acad18405a7
 ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.translationtype: Auto
 ms.contentlocale: zh-CN
 ms.lasthandoff: 07/05/2020
 ms.locfileid: "45038992"

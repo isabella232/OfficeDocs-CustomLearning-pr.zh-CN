@@ -6,6 +6,7 @@ ms.date: 7/6/2020
 description: 翻译网站名称、导航和页脚
 ms.openlocfilehash: c6ff6c94f18cdf83f39e366fa5245d846c39eccc
 ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.translationtype: Auto
 ms.contentlocale: zh-CN
 ms.lasthandoff: 07/06/2020
 ms.locfileid: "45048100"
