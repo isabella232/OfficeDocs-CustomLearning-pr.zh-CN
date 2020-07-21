@@ -4,22 +4,22 @@ ms.author: pkrebs
 title: 设置新的学习路径解决方案
 ms.date: 02/10/2019
 description: 使用 Microsoft 365 look book service 预配 Microsoft 365 学习路径网站
-ms.openlocfilehash: 40b298406ee5f9f5acc3f4cc471429063430f856
-ms.sourcegitcommit: 22fd931116be1a39836f7f5429b96483bf7860ef
+ms.openlocfilehash: ba71b79497a01c2f0c0d51c12c2760adbb4e24c5
+ms.sourcegitcommit: e88aaa3c8b6afcb5a7c19dfaf144a676a6859229
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45146533"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45196780"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>设置新的学习路径解决方案 
-如果组织没有在其租户中预配的学习路径，则可以使用 SharePoint 的 "查看书籍" 服务来添加多语言学习路径解决方案。 使用此选项，可将 "学习路径" SharePoint 模板转换为九种语言，并且可以使用至少修改。
+如果组织没有在其租户中预配的学习路径，则可以使用 SharePoint 的 "查看书籍" 服务来添加多语言学习路径解决方案。 使用此选项，可将 "学习路径" SharePoint 模板转换为九种语言，并且可以使用至少修改。 
 
 > [!IMPORTANT]
 > 如果你已在租户中预配了学习路径，则建议您[更新](custom_update.md)学习路径。 如果您安装了新的学习路径实例，则需要手动将任何自定义项从现有网站转移到新网站。 
 
 ## <a name="prerequisites-for-multilingual-support"></a>多语言支持的先决条件
  
-若要成功设置与 "外观簿" 服务的 Microsoft 365 学习路径，执行预配的人员必须满足以下先决条件： 
+若要成功设置与 "外观簿" 服务的 Microsoft 365 学习路径，执行预配的人员必须满足以下先决条件：   
  
 - 人员预配学习路径必须是租户的租户管理员，其中将预配学习路径。  
 - 租户应用程序目录必须在 SharePoint 管理中心的 "应用程序" 选项中可用。 如果您的组织没有 SharePoint 租户应用程序目录，请参阅[SharePoint Online 文档](https://docs.microsoft.com/sharepoint/use-app-catalog)以创建一个。 在设置学习路径之前，创建应用程序目录后，必须等待至少两小时。  
@@ -40,8 +40,6 @@ ms.locfileid: "45146533"
 1. 转到 " [Microsoft 365 学习路径解决方案" 页面](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239)。
 2. 单击 "**添加到你的租户**"。 如果你未登录到你的租户，设置服务将要求你提供租户管理员凭据。 
 3. 从 "请求的权限" 对话框中，选择**代表你的组织同意**的，然后选择 "**接受**"。
-
-![应用程序 catologue 同意的图像](media/app-catologue-consent.png)
 
 "书籍" 服务需要这些权限才能创建租户应用程序目录，将应用程序安装到租户应用程序目录中并预配网站模板。 对租户没有整体影响。 这些权限将显式用于解决方案安装的目的。 您必须接受这些权限才能继续安装。
 

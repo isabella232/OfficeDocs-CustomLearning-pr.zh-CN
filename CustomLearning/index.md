@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Microsoft 365 学习路径概述
 ms.date: 7/6/2020
 description: 了解 Microsoft 365 的学习途径如何加快组织中的 Microsoft 365 服务的使用和采用。 学习途径包括自定义 SharePoint Online web 部件和可轻松预配到 Microsoft 365 租户的新式 SharePoint Online 通信培训网站。
-ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
-ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.openlocfilehash: 81a456dc0234aaa84f497538db8198efaefd3e26
+ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043234"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45199342"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 学习路径 
 Microsoft 365 学习途径是一个可自定义的点播学习解决方案，旨在提高组织中 Microsoft 365 服务的使用和采用。    
@@ -30,8 +30,8 @@ Microsoft 365 学习途径提供了：
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE42hMy]
 
-## <a name="sharepoint-online-provisioning-service"></a>SharePoint Online 设置服务 
-可以通过 SharePoint Online 设置服务设置学习路径。 预配 Microsoft 365 的学习途径后，组织将获取一个 SharePoint Online 通信网站，该网站旨在作为现成培训门户，以及与 "培训内容" 联机目录相关的学习路径 Web 部件。 
+## <a name="sharepoint-look-book-service"></a>SharePoint 搜索簿服务
+可以通过 SharePoint 的 "查阅书籍" 服务设置学习路径。 预配 Microsoft 365 的学习途径后，组织将获取一个 SharePoint Online 通信网站，该网站旨在作为现成培训门户，以及与 "培训内容" 联机目录相关的学习路径 Web 部件。 
 
 ![cg-provision.png](media/cg-provision.png)
 

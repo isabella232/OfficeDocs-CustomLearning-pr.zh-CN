@@ -4,18 +4,18 @@ ms.author: pkrebs
 title: 学习路径功能更新
 ms.date: 10/20/2019
 description: 学习路径功能更新
-ms.openlocfilehash: e7becc7b6026e38eef349f1c5c0b2bd380b11cbc
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.openlocfilehash: 7765de3e2f08b70003842086bc5f910ddc5fd987
+ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048090"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45199332"
 ---
 # <a name="july-2020-version-40-feature-updates"></a>2020年7月版本4.0 功能更新 
 
 已将以下新功能添加到 Microsoft 365 学习路径版本4.0。 
 
-## <a name="multilingual-support-for-learning-pathways"></a>对学习路径的多语言支持 
+## <a name="multilingual-support-for-learning-pathways"></a>针对学习路径的多语言支持 
 对学习途径的多语言支持现已推出九种语言。  
 - English     
 - 中文(简体) 
@@ -28,6 +28,12 @@ ms.locfileid: "45048090"
 - 西班牙语 
 
 有关详细信息，请参阅[学习路径多语言概述](custom_overview.md)。 
+
+## <a name="sort-subcategories-and-playlists"></a>对子类别和播放列表排序
+
+现在，您可以在学习路径中对子类别和播放列表进行排序。 例如，如果将自定义播放列表添加到子类别中，则可以对播放列表进行排序，以便自定义播放列表在排序顺序中先出现。 
+
+有关详细信息，请参阅[排序子类别和播放列表](custom_sortsubplay.md)。 
 
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>用于学习路径自定义子类别的图像选取器 
 学习途径现在为自定义播放列表和子类别提供了易于使用的图像选取器。  在过去的版本中，可以更改播放列表的图像，但不能更改子类别的图像。  
