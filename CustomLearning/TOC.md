@@ -32,6 +32,7 @@
 ### [将资产添加到自定义播放列表](custom_addassets.md)
 ### [创建子类别](custom_createnewcat.md)
 ### [添加并编辑 Microsoft 365 学习路径 Web 部件](custom_addwebpart.md)
+### [对子类别和播放列表排序](custom_sortsubplay.md)
 ### [学习路径内容的链接](custom_linking.md)
 ### [搜索学习路径内容](custom_search.md)
 ## [推动采纳](driveadoption.md)
