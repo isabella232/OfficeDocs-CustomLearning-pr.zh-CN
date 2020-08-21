@@ -3,51 +3,52 @@ author: pkrebs
 ms.author: pkrebs
 title: Microsoft 365 学习路径概述
 ms.date: 7/6/2020
-description: 了解 Microsoft 365 的学习途径如何加快组织中的 Microsoft 365 服务的使用和采用。 学习途径包括自定义 SharePoint Online web 部件和可轻松预配到 Microsoft 365 租户的新式 SharePoint Online 通信培训网站。
-ms.openlocfilehash: f44f183abde3341cb8e176a15120d0f5b2390e56
-ms.sourcegitcommit: e44f60be18f4bc8faf58788ae4f131f0b066619d
+description: 了解 Microsoft 365 学习路径如何在组织中加速如何使用和采用 Microsoft 365 服务。 学习路径包括自定义 SharePoint Online Web 部件和可轻松预配到 Microsoft 365 租户的新式 SharePoint Online 通信培训网站。
+ms.openlocfilehash: 16197850e6ee14e4de77fb19fb96acbbcd530004
+ms.sourcegitcommit: c47986107ce45d89ba7f093c85f664f03033eb99
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46798756"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "46845544"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 学习路径 
-Microsoft 365 学习途径是一个可自定义的点播学习解决方案，旨在提高组织中 Microsoft 365 服务的使用和采用。    
+Microsoft 365 学习路径是一种可自定义的按需学习解决方案，旨在提高 Microsoft 365 服务在你的组织中用于的使用和采用率。    
 
 > [!IMPORTANT]
-> 为响应客户反馈，现在学习途径提供了对九种语言的多语言支持。 有关如何对学习路径启用多语言支持的信息和说明，请阅读下列主题： 
->- [学习路径的多语言支持概述](custom_overview_ml.md) 
+> 为响应客户反馈，学习路径现在为 9 种语言提供多语言支持。 有关如何为学习路径启用多语言支持的信息和说明，请阅读以下主题： 
+>- [针对学习路径的多语言支持概述](custom_overview_ml.md) 
 >- [学习路径的设置选项](custom_setupoptions.md)  
 
-## <a name="on-demand-custom-training-from-microsoft"></a>来自 Microsoft 的按需自定义培训
+## <a name="on-demand-custom-training-from-microsoft"></a>根据需要，Microsoft 的自定义培训
 
-Microsoft 365 学习途径提供了：
+Microsoft 365 学习路径提供：
 
-- 可**完全自定义的 SharePoint Online 通信网站**-可自定义 "学习路径" 培训门户，以添加组织的帮助、支持和社区内容
-- **轻松预配** -预配来自 SharePoint Online 设置服务的学习路径，只需几个简单步骤
-- **创建您自己的培训播放列表的能力** -使用学习路径，您可以创建目标培训播放列表，以满足您的环境的独特需求
-- **最新的内容** 学习途径通过 Microsoft online 内容目录提供内容，因此您的网站上的内容会定期更新
+- **完全自定义的 SharePoint Online 通信网站** - 可以自定义学习路径培训门户，以添加组织的帮助、支持和社区内容
+- **简单预配** - 只需几个简单步骤，即可从 SharePoint Online 预配服务预配学习路径
+- **创建你自己的培训播放列表的能力** - 借助学习路径，你可以创建目标培训播放列表以满足环境的独特需求
+- **最新内容 - 学** 习路径通过 Microsoft 在线内容目录提供内容，以便定期更新网站中的内容
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE42hMy]
 
-## <a name="sharepoint-look-book-service"></a>SharePoint 搜索簿服务
-可以通过 SharePoint 的 "查阅书籍" 服务设置学习路径。 预配 Microsoft 365 的学习途径后，组织将获取一个 SharePoint Online 通信网站，该网站旨在作为现成培训门户，以及与 "培训内容" 联机目录相关的学习路径 Web 部件。 
+## <a name="sharepoint-look-book-service"></a>SharePoint Look Book Service
+可从 SharePoint Look Book 服务设置学习路径。 预配 Microsoft 365 学习路径后，组织就会获得一个 SharePoint Online 通信网站，该网站旨在作为开箱即用的培训门户，以及连接到培训内容在线目录的学习路径 Web 部件。 
 
 ![cg-provision.png](media/cg-provision.png)
 
-## <a name="4-easy-steps"></a>4个简单步骤
+## <a name="4-easy-steps"></a>4 个简单的步骤
 让我们开始为你的环境创建学习路径体验。
-1. 阅读 [对学习路径的多语言支持概述](custom_overview_ml.md)。 
-2. 选择 " [设置" 选项](custom_setupoptions.md) 并设置 Microsoft 365 学习路径。  
-3. 为您的环境定制学习路径。
-4. 使用我们的 [采用工具](driveadoption.md)共享与您的用户的学习途径。
+1. 阅读 [学习路径多语言支持的概述](custom_overview_ml.md)。 
+2. 选择 [设置选项](custom_setupoptions.md) 并预配 Microsoft 365 学习路径。  
+3. 定制环境的学习路径。
+4. 使用我们的采用工具与用户共享 [学习路径](driveadoption.md)。
 
 ## <a name="feedback-and-support"></a>反馈和支持
 
-Microsoft 365 学习途径是通过 GitHub 上的 " [联机问题" 列表](https://aka.ms/CustomLearningHelp) 支持的开放源代码项目。 学习路径解决方案和 it 的组件不受任何现有 Microsoft 支持合同的覆盖。  
+Microsoft 365 学习路径是 GitHub 通过我们的联机问题 [列表支持的开源](https://aka.ms/CustomLearningHelp) 项目。 任何现有的 Microsoft 支持合同都不涵盖学习路径解决方案及其组件。  
 ## <a name="link-test"></a>链接测试
-这是一个 [内部链接测试](custom_setupoptions.md)。 这是一个 [外部链接测试](https://adoption.microsoft.com/)。
-这是一个 [重定向链接测试](https://aka.ms/CustomLearningHelp)。
+这是内部 [链接测试](custom_setupoptions.md)。 这是一个 [外部链接测试](https://adoption.microsoft.com/)。
+这是重定向 [链接测试](https://aka.ms/CustomLearningHelp)。
+这是一个新的链接 [，请转到](http://stackoverflow.com){：target="_blank" rel="noopener"}。
 
 ## <a name="additional-resources"></a>其他资源
-您可以使用 Microsoft 365 学习路径网站提供指向任何新的或现有的用户社区论坛的链接。 如果没有，请考虑启动一个内部用户组（如果尚未安装），以使用户可以共享其成功并彼此了解。  如果没有时间培养内部用户组，你和你的员工可以加入 [Microsoft Office 365 冠军社区](https://aka.ms/O365Champions) ，以进行月度培训、在线社区中的成员资格以及早期访问 Office 365 的工具和资源。
+可使用 Microsoft 365 学习路径网站提供指向任何新的或现有用户社区论坛的链接。 如果还没有小组，可考虑启动内部用户组，让用户可以相连他们的成功信息并进行学习。  如果你没有时间来培训内部用户组，你可以加入 [Microsoft Office 365 Champion 社区](https://aka.ms/O365Champions) ，以实现每月培训、在线社区中的成员身份以及早期访问 Office 365 的工具和资源。  
