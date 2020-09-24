@@ -1,11 +1,17 @@
 ---
-title: ''
-ms.openlocfilehash: 2ba1045a3c8a74c8769b61647cdfeeba74efd357
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
-ms.translationtype: HT
+title: Office 365 生命周期中的日-与同事协作
+description: 在与 Office 365 的一天内准备好的快速步骤
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: 029901ea81be9b649ee9e928591b929f8e1f462e
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055754"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233714"
 ---
 # <a name="collaborating-with-colleagues"></a>与同事协作
 

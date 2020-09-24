@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 浏览网站和默认内容
 ms.date: 02/10/2019
 description: 浏览 "学习路径" 网站和默认内容
-ms.openlocfilehash: a7218cb09d23d553f50a09ace9b14e9522d8716f
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 11a6fc8c68f1aaab6d36e1369147a97c4433e166
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956539"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234444"
 ---
 # <a name="explore-the-learning-pathways-site"></a>浏览 "学习路径" 网站
 
@@ -17,11 +18,11 @@ ms.locfileid: "37956539"
 
 ## <a name="sign-in-to-office-365"></a>登录 Office 365 
 
-1.  打开 Web 浏览器并导航到 office.com 或您组织的登录位置。 
-2.  使用您的用户名和密码登录。
+1.  打开你的网络浏览器，然后导航至 office.com 或你组织的登录位置。 
+2.  使用你的用户名和密码登录。
 3.  使用租户管理员提供的 URL 导航到网站的位置，或从 Office 365 主页中选择 "SharePoint"，然后选择 "网站"。 
 
-![cg-exploresite](media/cg-introducing.png)
+![cg-exploresite.png](media/cg-introducing.png)
 
 ## <a name="explore-microsoft-365-learning-pathways"></a>探索 Microsoft 365 学习途径
 
@@ -31,6 +32,6 @@ ms.locfileid: "37956539"
 
 管理员成功中心提供了指导和资源，可帮助您规划、自定义、推动采用和衡量您的学习路径部署的影响。 
 
-- 从 "Microsoft 365 学习路径"**主页**中，单击 **"管理员成功中心" 开始**。
+- 从 "Microsoft 365 学习路径" **主页** 中，单击 **"管理员成功中心" 开始**。
 
-学习途径在解决方案中的管理员成功中心内提供指导。 本文档集中也提供了管理员成功中心的文档。 请参阅[学习路径管理员成功中心](custom_successcenter.md)。
+学习途径在解决方案中的管理员成功中心内提供指导。 本文档集中也提供了管理员成功中心的文档。 请参阅 [学习路径管理员成功中心](custom_successcenter.md)。

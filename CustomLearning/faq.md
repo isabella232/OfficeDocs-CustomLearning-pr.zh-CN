@@ -4,12 +4,13 @@ ms.author: karuanag
 title: Microsoft 365 学习途径的常见问题
 ms.date: 02/10/2019
 description: Microsoft 365 学习途径的常见问题信息
-ms.openlocfilehash: 6720ab5671cb5e306a30211f272c610b502608ca
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.service: sharepoint online
+ms.openlocfilehash: 56ea4d5ff50cf42009627af23eab9313853ace2b
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141365"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233534"
 ---
 # <a name="frequently-asked-questions"></a>常见问题解答
 
@@ -19,7 +20,7 @@ Microsoft 365 学习途径发布是一个重塑工作，专门用于更改解决
 
 ### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>在我的租户环境中安装 Microsoft 365 学习路径的要求是什么？
 
-- 已启用 SharePoint Online 和通信网站。
+- 启用了 SharePoint Online 和通信网站。
 - 将设置 CLO365 的个人必须是要安装的目标租户的租户管理员。
 - 租户的 "应用程序目录" 必须在 SharePoint 管理中心的 "应用程序" 选项中可用。
 - 如果创建了新的应用程序目录，则完全预配应用程序目录需要等待时间为30分钟或更多。 在创建租户应用程序目录后，尝试直接预配 Microsoft 365 学习路径将导致学习路径解决方案的设置错误。 
@@ -34,7 +35,7 @@ Microsoft 365 学习途径发布是一个重塑工作，专门用于更改解决
 Microsoft 365 学习途径目前处于 Beta Preview 中。 在评估、规划和实施 Microsoft 365 学习路径时，请考虑以下事项：
 
 - 与任何 Beta 解决方案一样，我们的服务管理团队保留对服务及其组件进行更改的权利。 在我们主动解决 bug 和 UX 问题时，您可能需要更新 Web 部件。
-- 若要更新 web 部件，你需要从 GitHub 存储库中下载它，并将其上传到租户应用目录中。 请参阅 Microsoft 365 学习路径[自述](https://github.com/pnp/custom-learning-office-365/blob/master/README.md)文件中的 "更新解决方案" 部分。 
+- 若要更新 web 部件，你需要从 GitHub 存储库中下载它，并将其上传到租户应用目录中。 请参阅 Microsoft 365 学习路径 [自述](https://github.com/pnp/custom-learning-office-365/blob/master/README.md) 文件中的 "更新解决方案" 部分。 
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>中提供了哪些语言的 Microsoft 365 学习途径？
 
@@ -46,22 +47,22 @@ Microsoft 365 学习途径目前仅提供英文版本。 自动端到端预配�
 - 意大利语（意大利） 
 - 日语（日本）  
 - 葡萄牙语（巴西） 
-- 俄语（俄语）  
+- 俄语 (俄语)   
 - 西班牙语 
 
 > 在对学习路径的多语言支持的即将推出的版本中，不会包含对荷兰语语言的支持。 我们将继续评估将来的新语言选项。
 
 ### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>在我们的租户环境中安装网站需要多长时间？
 
-根据我们的安装测试，应花费不到15分钟的时间。 这不包括自定义网站满足您的要求所需的时间。
+根据我们的安装测试，应花费不到15分钟的时间。 这不包括根据你的要求自定义网站所需的时间。
 
 ### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Microsoft 365 学习与开放源代码解决方案的路径以及有什么影响？
 
-Microsoft 365 的学习途径是开放源代码软件（OSS）解决方案，因此在 OSS 中附带了一组优点和注意事项 germane：
+Microsoft 365 学习途径是一种开放源代码软件 (OSS) 解决方案，因此会将一组优点和注意事项 germane 给 OSS：
 
 #### <a name="benefits"></a>优点 
 - **Microsoft 365 学习途径是一个免费的解决方案：** 客户可以在其租户中安装解决方案，对其进行自定义并使其可供最终用户使用
-- **OSS 支持快速开发和协作：** 所有开放源代码解决方案都可供广泛的参与者社区使用。  Microsoft 致力于促进创新的这一方法。  为确保我们提供的体验能够受益于我们最广泛的客户集，我们的核心服务管理团队将保留用于确定将哪些内容合并到官方内部版本的权利。  
+- **OSS 支持快速开发和协作：**  所有开放源代码解决方案都可供广泛的参与者社区使用。  Microsoft 致力于促进创新的这一方法。  为确保我们提供的体验能够受益于我们最广泛的客户集，我们的核心服务管理团队将保留用于确定将哪些内容合并到官方内部版本的权利。  
 - **OSS 实现与合作伙伴的协作：** Microsoft 正在与多个学习合作伙伴合作，以支持其未来扩展和对 Microsoft 365 学习途径的贡献。 我们将提供详细信息，因为这些计划将成为最终完成。 
     
 #### <a name="implications"></a>方面
@@ -70,18 +71,18 @@ Microsoft 365 的学习途径是开放源代码软件（OSS）解决方案，因
 
 ### <a name="can-we-make-the-microsoft-365-learning-pathways-a-subsite-of-our-primary-sharepoint-site-collection"></a>我们是否可以让 Microsoft 365 学习路径成为我们主要 SharePoint 网站集的子网站？
 
-不是。 网站基于通信网站模板，该模板始终旨在作为根网站集。
+不正确。 网站基于通信网站模板，该模板始终旨在作为根网站集。
 
 > [!NOTE]
 > 请务必考虑最终用户访问网站所需的权限。 大多数组织已定义了安全性或用户组。 准备好将适当的安全组添加到你的员工社区后，必须将其添加到新的培训门户。
 
 ### <a name="i-need-to-reinstall-the-site-what-should-i-do"></a>我需要重新安装网站;我该怎么办？
 
-按照[此处](custom_provision.md)发布的安装说明进行操作。
+按照 [此处](custom_provision.md)发布的安装说明进行操作。
 
 > [!NOTE]
 > 如果你已在之前的安装中禁用遥测，并且要继续禁用遥测，则需要遵循在此处禁用遥测的说明。
 
-### <a name="we-made-updates-to-our-implementation-of-microsoft-365-learning-pathways-will-we-lose-these-updates-made-to-site-template-playlists-if-we-reinstall-the-site"></a>我们已对 Microsoft 365 学习途径的实施进行了更新。 如果重新安装网站，我们会丢失这些更新（对网站模板，播放列表）？
+### <a name="we-made-updates-to-our-implementation-of-microsoft-365-learning-pathways-will-we-lose-these-updates-made-to-site-template-playlists-if-we-reinstall-the-site"></a>我们已对 Microsoft 365 学习途径的实施进行了更新。 如果重新安装网站，我们将不会再 (对网站模板（播放列表) ）进行这些更新吗？
 
 如果通过当前安装重新安装网站，则对单个页面和自定义播放列表的自定义将会丢失。  

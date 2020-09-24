@@ -10,7 +10,7 @@ ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234634"
+ms.locfileid: "48234792"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 学习通道内容更新
 学习途径努力遵守季度内容更新周期。 下面列出了2020年4月的内容更新。

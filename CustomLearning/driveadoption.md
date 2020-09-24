@@ -5,12 +5,13 @@ author: karuanag
 ms.author: karuanag
 ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: b07a7771c92ec69390e078f60e2e86ae04450cae
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: d19b3f25455e07efd8325899e0adb2f0a0c4adc2
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956639"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233564"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>促进你的学习路径门户的采用
 自定义 Microsoft 365 学习途径并将最初的学习活动放在一起后，就可以思考如何让用户返回到 Microsoft 365 学习路线图，以便进行日常学习和转换。 您可以使用 Microsoft 提供的指南、采用工具包和最佳实践来帮助您运行成功的 Microsoft 365 学习路径采用活动，我们提供了指南、最佳实践和采用工具包。 
@@ -32,7 +33,7 @@ ms.locfileid: "37956639"
 - 使用 Yammer 连接你的组织
 
 ## <a name="use-the-downloadable-adoption-kit"></a>使用可下载的采用套件
-若要帮助您执行 Microsoft 365 学习通道通信活动，请使用[可下载的采用工具包](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip)。 它包含： 
+若要帮助您执行 Microsoft 365 学习通道通信活动，请使用 [可下载的采用工具包](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip)。 它包含： 
 
 - Microsoft 365 学习路径建议的通信营销活动日历，帮助您规划市场活动
 - 最终用户启动并提示五个 Microsoft 365 方案中的每个应用场景的电子邮件模板。    
@@ -41,7 +42,7 @@ ms.locfileid: "37956639"
 若要实现您的通信市场活动，我们建议您执行以下操作： 
 1. 自定义市场活动日历以满足您的需求。 我们建议您在计划中每隔两周 "启动" 一种方案。
 2. 根据你的需求、样式和品牌自定义电子邮件模板。
-3. 在您的电子邮件通信中包括对 Microsoft 365 学习路径网站的呼叫操作（CTA）。 该链接应指向 Microsoft 365 学习路径网站中相关的方案播放列表。
+3. 在您的电子邮件通信中加入 Microsoft 365 学习路径网站的呼叫操作 (CTA) 。 该链接应指向 Microsoft 365 学习路径网站中相关的方案播放列表。
 
 ## <a name="microsoft-365-learning-pathways-adoption-best-practices"></a>Microsoft 365 学习路径采用最佳做法
 为确保成功，我们建议您至少执行以下操作：
@@ -70,12 +71,12 @@ ms.locfileid: "37956639"
 1.  为你的组织中的 Microsoft 365 学习路径的首展创建采用计划。
 2.  使用一组代表最终用户的自定义版本的 Microsoft 365 学习路径，并执行采用计划的准备运行。 根据试点项目中的反馈循环访问最终采用计划。
 3.  在持续的一段时间内运行您的采用活动。 
-4.  加入推动采用社区。 在我们的推动采用社区 online 中共享你对 Microsoft 365 学习路径的体验。 在https://aka.ms/DriveAdoption中查找我们。 
+4.  加入推动采用社区。 在我们的推动采用社区 online 中共享你对 Microsoft 365 学习路径的体验。 在中查找我们 https://aka.ms/DriveAdoption 。 
 
 ## <a name="join-the-driving-adoption-community"></a>加入推动采用社区
 
-在我们的推动采用社区 online 中共享你对 Microsoft 365 学习路径的体验。  在https://aka.ms/DriveAdoption中查找我们。
+在我们的推动采用社区 online 中共享你对 Microsoft 365 学习路径的体验。  在中查找我们 https://aka.ms/DriveAdoption 。
 
 ## <a name="give-us-feedback"></a>向我们提供反馈
 
-您是否有在自定义学习门户中获取新功能或内容的请求？  请访问我们的在线 UserVoice，你可以在其中投票现有建议或添加你自己的加入。  请在处https://aka.ms/AdoptionTools查找 UserVoice 实例。
+您是否有在自定义学习门户中获取新功能或内容的请求？  请访问我们的在线 UserVoice，你可以在其中投票现有建议或添加你自己的加入。  请在处查找 UserVoice 实例 https://aka.ms/AdoptionTools 。

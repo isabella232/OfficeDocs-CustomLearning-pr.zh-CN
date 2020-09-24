@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 更新 Microsoft 365 学习路径
 ms.date: 07/06/2020
 description: 更新 Microsoft 365 学习路径
-ms.openlocfilehash: 6880e49f925f18b961790ec9eff2fbca55a741b7
-ms.sourcegitcommit: a34d166d01e0a0a0f7d36593ad69b93e923d778b
+ms.service: sharepoint online
+ms.openlocfilehash: 3f1874849832224726e452912c9228411ecd0820
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46895580"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233844"
 ---
 # <a name="update-learning-pathways"></a>更新学习路径
 如果您有现有的学习路径网站，则可以更新它以实现多语言支持。 若要更新到多语言4.0 版本的学习路径，请将 web 部件包 customlearning （.sppkg）上传到 SharePoint 租户应用程序目录。 更新学习路径时：  
@@ -48,7 +49,7 @@ ms.locfileid: "46895580"
 
 ### <a name="upload-the-web-part-package"></a>上载 web 部件包
 1.  转到 [GitHub 自定义学习存储库](https://github.com/pnp/custom-learning-office-365/tree/master/webpart)，选择 " **customlearning** "，然后将其下载到电脑上的本地驱动器。
-2.  如果您尚未登录，请使用租户管理员或网站集管理员帐户登录到你的租户。 
+2.  如果你尚未登录，请使用租户管理员或网站集管理员帐户登录租户。 
 3.  单击 "**管理**  >  **显示所有**  >  **SharePoint**  >  **更多功能**"。 
 4.  在 " **应用**" 下，单击 " **打开**"。 
 5.  单击 "**应用程序目录**  >  **分发 SharePoint 相关应用**程序"。 
@@ -59,7 +60,7 @@ ms.locfileid: "46895580"
 1.  从 "学习路径" 网站中，从 "**主页**" 菜单中选择 "**学习路径管理**"。 
 2.  你将看到一条提示，询问你是否要更新。 
 ![custom_update_adminprompt_ml.png](media/custom_update_adminprompt_ml.png)
-3.  单击“**开始**”。 
+3.  单击“开始”****。 
 4. 更新完成后，单击 " **关闭**"。 
 
 ### <a name="next-steps"></a>后续步骤

@@ -5,12 +5,13 @@ title: 更新多语言支持的学习路径
 ms.date: 05/20/2019
 description: 更新多语言支持的学习路径
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 917b1cea9144349dd40ed93f05cb0f850828fd28
-ms.sourcegitcommit: 519a52618ce8dd2f800dc55897526e4541dddb50
+ms.service: sharepoint online
+ms.openlocfilehash: 32870a21dfc1e012f140ffdbd33d69bd0f149880
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "46874973"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233824"
 ---
 # <a name="update-learning-pathways-for-multilingual-support"></a>更新多语言支持的学习路径
 如果您有现有的学习路径网站，则可以更新它以实现多语言支持。 若要更新到多语言4.0 版本的学习路径，请将 web 部件包 customlearning （.sppkg）上传到 SharePoint 租户应用程序目录。 更新学习路径时：  
@@ -49,7 +50,7 @@ ms.locfileid: "46874973"
 
 ### <a name="upload-the-web-part-package"></a>上载 web 部件包
 1.  转到 [GitHub 自定义学习存储库](https://github.com/pnp/custom-learning-office-365/tree/master/webpart)，选择 " **customlearning** "，然后将其下载到电脑上的本地驱动器。 
-2.  如果您尚未登录，请使用租户管理员或网站集管理员帐户登录到你的租户。 
+2.  如果你尚未登录，请使用租户管理员或网站集管理员帐户登录租户。 
 3.  单击 "**管理**  >  **显示所有**  >  **SharePoint**  >  **更多功能**"。 
 4.  在 " **应用**" 下，单击 " **打开**"。 
 5.  单击 "**应用程序目录**  >  **分发 SharePoint 相关应用**程序"。 
@@ -60,7 +61,7 @@ ms.locfileid: "46874973"
 1.  从 "学习路径" 网站中，从 "**主页**" 菜单中选择 "**学习路径管理**"。 
 2.  你将看到一条提示，询问你是否要更新。 
 ![custom_update_adminprompt_ml.png](media/custom_update_adminprompt_ml.png)
-3.  单击“**开始**”。 
+3.  单击“开始”****。 
 4. 更新完成后，单击 " **关闭**"。 
 
 ### <a name="next-steps"></a>后续步骤

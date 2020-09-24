@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 隐藏和显示技术
 ms.date: 05/20/2019
 description: 如何隐藏和显示技术
-ms.openlocfilehash: e1e19bc29c84be9471939ab4c20a85207a828b61
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.service: sharepoint online
+ms.openlocfilehash: 7644e4ee3c0f990cb31ccf30af261c0e137bf596
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37886677"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234294"
 ---
 # <a name="hide-and-show-technology"></a>隐藏和显示技术
 
@@ -17,18 +18,18 @@ ms.locfileid: "37886677"
 
 ## <a name="hide-a-technology"></a>隐藏技术
 
-1. 在 Microsoft 365 学习路径**主页**中，单击推荐的**播放列表**磁贴。
+1. 在 Microsoft 365 学习路径 **主页** 中，单击推荐的 **播放列表** 磁贴。
 2. 从自定义学习 Web 部件中，选择 " **Aministration** " 图标。
-3. 在 "**管理**" 页面右上方的下拉列表框中，选择 "**技术**"。
+3. 在 " **管理** " 页面右上方的下拉列表框中，选择 " **技术**"。
 在此示例中，在页面的左窗格中单击 " **Yammer** "，然后单击 Yammer 旁边的 "eyeball"。  
 
-![cg-hidetech](media/cg-hidetech.png)
+![cg-hidetech.png](media/cg-hidetech.png)
 
 ### <a name="verify-the-playlist-is-hidden"></a>验证是否隐藏了播放列表
-- 若要验证**Yammer**技术是否处于隐藏状态，请选择 "浏览器" 选项卡，并加载**建议的播放列表**页，然后刷新页面。 您会注意到，"**使用 Yammer 连接组织**" 播放列表处于隐藏状态。 
+- 若要验证 **Yammer** 技术是否处于隐藏状态，请选择 "浏览器" 选项卡，并加载 **建议的播放列表** 页，然后刷新页面。 您会注意到，" **使用 Yammer 连接组织** " 播放列表处于隐藏状态。 
 
-![cg-hidetechrefresh](media/cg-hidetechrefresh.png)
+![cg-hidetechrefresh.png](media/cg-hidetechrefresh.png)
 
 ## <a name="unhide-a-technology"></a>取消隐藏技术
 
-- 从 "**管理**" 页中，选择一种技术，然后选择 "eyeball" 作为隐藏的技术以将其取消隐藏。 对于此示例，请隐藏**Yammer**技术。 
+- 从 " **管理** " 页中，选择一种技术，然后选择 "eyeball" 作为隐藏的技术以将其取消隐藏。 对于此示例，请隐藏 **Yammer** 技术。 

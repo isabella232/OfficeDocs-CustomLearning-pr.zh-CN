@@ -1,11 +1,17 @@
 ---
-title: ''
-ms.openlocfilehash: e59f93b61e6b9b53f214dd8815892ba8b80ec668
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
-ms.translationtype: HT
+title: Office 365 生命周期中的日-Office 中的会议
+description: 在与 Office 365 的一天内准备好的快速步骤
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: fb2820a6492c3f7c107442e5aacbe5bf60adc7c8
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056083"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233634"
 ---
 # <a name="meeting-at-the-office"></a>办公室会议
 
@@ -63,4 +69,4 @@ OneNote 可实现实时协作和共同创建，因此成为头脑风暴和会议
 ![Planner 任务](media/ditl_task.png)
 
 ## <a name="end-a-meeting"></a>结束会议
-在日程中的所有内容都经过讨论后，可以随时结束会议。 向所有与会者分配并发送拟办事项。 如果是在 Microsoft Teams 中开展协作，可以轻松地在相应渠道中共享拟办事项。 也可以在会议期间在 Planner 中输入和分配拟办事项，这样可以快速跟踪完成情况（也可以[在 Microsoft Teams 中访问](https://support.office.com/zh-CN/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0)）。 
+在日程中的所有内容都经过讨论后，可以随时结束会议。 向所有与会者分配并发送拟办事项。 如果是在 Microsoft Teams 中开展协作，可以轻松地在相应渠道中共享拟办事项。 也可以在会议期间在 Planner 中输入和分配拟办事项，这样可以快速跟踪完成情况（也可以[在 Microsoft Teams 中访问](https://support.office.com/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0)）。 

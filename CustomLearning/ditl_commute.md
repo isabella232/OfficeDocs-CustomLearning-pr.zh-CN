@@ -1,11 +1,17 @@
 ---
-title: ''
-ms.openlocfilehash: 3b244c3598d8abe940350297e2cfb15738bfa23e
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
-ms.translationtype: HT
+title: Office 365 生命周期中的日-在你的路程上
+description: 在与 Office 365 的一天内准备好的快速步骤
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: 3224874ac3a9f4a7ce8bde213d11243a4eba184b
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056057"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233664"
 ---
 # <a name="during-your-commute"></a>通勤期间
 
@@ -33,7 +39,7 @@ ms.locfileid: "32056057"
 使用 Microsoft Teams 移动应用，可查看活动日历。  如果已使用 Microsoft Teams 安排会议，便会在移动应用中看到“加入”按钮。 你将通过移动网络连接到会议。  静音、扬声器和聊天等常规功能都可用。  “查看内容”可能会被禁用，具体视连接而定。 还可以从 Teams 中的联系人列表找到某人，并直接与其进行一对一通话。 
 
 ## <a name="connect-to-office-365-from-your-mobile-device"></a>从移动设备连接到 Office 365
-[Office 365 应用](https://support.office.com/en-us/article/set-up-office-apps-and-email-on-a-mobile-device-7dabb6cb-0046-40b6-81fe-767e0b1f014f?ui=en-US&rs=en-US&ad=US)适用于所有主要平台，可用于访问 SharePoint Online 网站或 OneDrive for Business 上的所有文件。 如果你的组织使用双因素身份验证，你可能需要使用电话或身份验证应用进行身份验证，这需要提前设置。  
+[Office 365 应用](https://support.office.com/article/set-up-office-apps-and-email-on-a-mobile-device-7dabb6cb-0046-40b6-81fe-767e0b1f014f?ui=en-US&rs=en-US&ad=US)适用于所有主要平台，可用于访问 SharePoint Online 网站或 OneDrive for Business 上的所有文件。 如果你的组织使用双因素身份验证，你可能需要使用电话或身份验证应用进行身份验证，这需要提前设置。  
 
 > [!NOTE]
 > 请注意，如果使用的是移动网络，那么在电话上使用联机功能可能会产生费用。 为了获得最佳体验，并确保不会产生任何额外费用，请尽可能使用 Wi-Fi。

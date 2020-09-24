@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 隐藏和显示播放列表
 ms.date: 02/15/2019
 description: 隐藏和显示播放列表
-ms.openlocfilehash: 88b042ce8f1f64d2df4ee7956113c722b971f0cb
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.openlocfilehash: 36151a997e4090b4d2130981ace5fd8871e8792f
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "34272665"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233284"
 ---
 # <a name="hide-and-show-playlists"></a>隐藏和显示播放列表
 
@@ -17,18 +17,18 @@ ms.locfileid: "34272665"
 
 ## <a name="hide-a-playlist"></a>隐藏播放列表
 
-1. 从 "学习路径"**主页**中，单击 " **Office 365" 培训**磁贴。
-2. 从 "学习路径" web 部件中，选择 "**系统**" 菜单，然后选择 "**管理播放列表**"。 现在，您应该打开两个选项卡：一个使用 "**学习路径管理**" 页面;和一个使用**Office 365 培训**页面的。 
-3. 从 "**自定义学习管理**" 页的 "**类别**" 下，选择一个子类别，然后选择 "eyeball" 作为播放列表以将其隐藏。 对于此示例，请单击 "**第一天**" 子类别，然后隐藏**六个简单步骤**的播放列表。  
+1. 从 "学习路径" **主页** 中，单击 " **Office 365" 培训** 磁贴。
+2. 从 "学习路径" web 部件中，选择 " **系统** " 菜单，然后选择 " **管理播放列表**"。 现在，您应该打开两个选项卡：一个使用 " **学习路径管理** " 页面;和一个使用 **Office 365 培训** 页面的。 
+3. 从 " **自定义学习管理** " 页的 " **类别**" 下，选择一个子类别，然后选择 "eyeball" 作为播放列表以将其隐藏。 对于此示例，请单击 " **第一天** " 子类别，然后隐藏 **六个简单步骤** 的播放列表。  
 
-![cg-hideplaylist](media/cg-hideplaylist.png)
+![cg-hideplaylist.png](media/cg-hideplaylist.png)
 
 ### <a name="verify-the-playlist-is-hidden"></a>验证是否隐藏了播放列表
-- 若要验证是否隐藏了播放列表，请在加载 " **Office 365 入门**" 页上选择 "浏览器" 选项卡，然后刷新页面。 您现在应该会看到 "**第一天**" 子类别和**六个简单步骤**处于隐藏状态。 在这种情况下，子类别中只有一个播放列表且隐藏了一个播放列表，因此学习路径也会隐藏子类别，而不是显示空子类别。 
+- 若要验证是否隐藏了播放列表，请在加载 " **Office 365 入门** " 页上选择 "浏览器" 选项卡，然后刷新页面。 您现在应该会看到 " **第一天** " 子类别和 **六个简单步骤** 处于隐藏状态。 在这种情况下，子类别中只有一个播放列表且隐藏了一个播放列表，因此学习路径也会隐藏子类别，而不是显示空子类别。 
 
-![cg-hideplaylistrefresh](media/cg-hideplaylistrefresh.png)
+![cg-hideplaylistrefresh.png](media/cg-hideplaylistrefresh.png)
 
 ## <a name="unhide-a-playlist"></a>取消隐藏播放列表
 
-- 从 "**自定义学习管理**" 页的 "**类别**" 下，选择一个子类别，选择一个播放列表，然后选择隐藏的播放列表的 eyeball 以将其取消隐藏。 对于此示例，请隐藏 "**第一天**" 子类别下的**六个简单步骤**播放列表。  
+- 从 " **自定义学习管理** " 页的 " **类别**" 下，选择一个子类别，选择一个播放列表，然后选择隐藏的播放列表的 eyeball 以将其取消隐藏。 对于此示例，请隐藏 "**第一天**" 子类别下的**六个简单步骤**播放列表。  
 
