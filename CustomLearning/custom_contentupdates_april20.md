@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 学习路径内容更新
+title: 学习通道内容更新4月
 ms.date: 3/30/2020
 description: 学习2020年4月内容更新的路径
 ms.service: sharepoint online
-ms.openlocfilehash: 9a53c095b7fa2de1aa0628475b684048b07bd8f9
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: fa49140e731318ab07a9442cea40b0e3878eec12
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234792"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261674"
 ---
-# <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 学习通道内容更新
+# <a name="microsoft-365-learning-pathways-content-updates-for-april"></a>Microsoft 365 学习通道内容更新年4月
 学习途径努力遵守季度内容更新周期。 下面列出了2020年4月的内容更新。
 
 ## <a name="april-2020-content-updates"></a>2020年4月内容更新
@@ -29,7 +29,7 @@ Office 365 已 rebranded 为 Microsoft 365。 名称更改在整个 Microsoft 36
 #### <a name="work-remotely-2-new-playlists11-new-assets"></a>远程工作 (2 个新的播放列表/11 个新资产) 
 添加了一个新的远程工作子类别，以学习可提供以下播放列表和资产功能的路径： 
 
-![cg-contentupdate-apr2020-01.png](media/cg-contentupdate-apr2020-01.png)
+![学习路径远程播放列表](media/cg-contentupdate-apr2020-01.png)
 
 ##### <a name="work-remotely-5-new-assets"></a>远程工作 (5 个新资产) 
 - 使用 Office 365 远程工作

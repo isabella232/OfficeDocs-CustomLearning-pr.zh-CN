@@ -2,23 +2,21 @@
 author: pkrebs
 ms.author: pkrebs
 title: Microsoft 365 学习路径概述
-ms.date: 7/6/2020
+ms.date: 9/24/2020
 description: 了解 Microsoft 365 的学习途径如何加快组织中的 Microsoft 365 服务的使用和采用。 学习途径包括自定义 SharePoint Online web 部件和可轻松预配到 Microsoft 365 租户的新式 SharePoint Online 通信培训网站。
 ms.service: sharepoint online
-ms.openlocfilehash: c2448fae5e01dc673f41b5fa0d7076528d9a75c5
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 4a4e7f8bfcb6cf8288605154a4d71fde2db024f8
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233484"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261654"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 学习路径 
 Microsoft 365 学习途径是一个可自定义的点播学习解决方案，旨在提高组织中 Microsoft 365 服务的使用和采用。    
 
 > [!IMPORTANT]
-> 为响应客户反馈，现在学习途径提供了对九种语言的多语言支持。 有关如何对学习路径启用多语言支持的信息和说明，请阅读下列主题： 
->- [学习路径的多语言支持概述](custom_overview_ml.md) 
->- [学习路径的设置选项](custom_setupoptions.md)  
+> 学习途径努力遵守季度内容更新周期。 从9/24/2020，我们更新了九月内容更新的学习路径内容。 若要了解九月2020内容更新的详细信息，请参阅 [内容更新](custom_contentupdates.md)。 若要了解如何应用内容更新以及如何管理内容更新，请参阅 [管理内容更新](custom_contentupdatesmanage.md)。  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>来自 Microsoft 的按需自定义培训
 
@@ -34,7 +32,7 @@ Microsoft 365 学习途径提供了：
 ## <a name="sharepoint-look-book-service"></a>SharePoint 搜索簿服务
 可以通过 SharePoint 的 "查阅书籍" 服务设置学习路径。 预配 Microsoft 365 的学习途径后，组织将获取一个 SharePoint Online 通信网站，该网站旨在作为现成培训门户，以及与 "培训内容" 联机目录相关的学习路径 Web 部件。 
 
-![cg-provision.png](media/cg-provision.png)
+![SharePoint "查看书籍设置" 页](media/cg-provision.png)
 
 ## <a name="4-easy-steps"></a>4个简单步骤
 让我们开始为你的环境创建学习路径体验。

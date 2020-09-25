@@ -4,15 +4,15 @@ ms.author: pkrebs
 title: 学习2020年9月内容更新的途径
 ms.date: 9/21/2020
 description: 学习2020年9月内容更新的途径
-ms.service: sharepoint online
-ms.openlocfilehash: d8f651515d22568f4ad0701d28f4c10a1104628a
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 34f02a5edd691590d96058312213bc85083b2d56
+ms.sourcegitcommit: 769aad80e9bb63304550e416d438e809a7d78ab3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234783"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48268504"
 ---
-# <a name="september-2020-content-updates"></a>2020年9月内容更新
+# <a name="learning-pathways-september-2020-content-updates"></a>学习2020年9月内容更新的途径
 学习途径努力遵守季度内容更新周期。 若要了解有关如何应用内容更新以及如何管理内容更新的详细信息，请参阅 [Manage Content updates](custom_contentupdatesmanage.md)。 下面列出了9月2020日的 Microsoft 365 学习通道内容更新。 
 
 ## <a name="security"></a>安全性
