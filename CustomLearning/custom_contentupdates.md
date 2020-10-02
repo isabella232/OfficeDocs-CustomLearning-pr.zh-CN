@@ -4,19 +4,22 @@ ms.author: pkrebs
 title: 学习路径内容更新
 ms.date: 3/30/2020
 description: 学习路径内容更新
-ms.service: sharepoint online
-ms.openlocfilehash: 84565d0d65c4667cf0837634fde67fc0d5c96d40
-ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
+ms.service: o365-solutions
+ms.openlocfilehash: 6610eecf67f36b130aaf45e227f5aa85d20f44d8
+ms.sourcegitcommit: 60554c63c0dd833b27e11b0b28c08aee69d16e26
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261685"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "48336400"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 学习通道内容更新
 学习途径努力遵守季度内容更新周期。 下面列出了9月2020的内容更新。
 
 ## <a name="september-2020-content-updates"></a>2020年9月内容更新
 学习途径努力遵守季度内容更新周期。 若要了解有关如何应用内容更新以及如何管理内容更新的详细信息，请参阅 [Manage Content updates](custom_contentupdatesmanage.md)。 
+
+> [!IMPORTANT]
+> 9月内容更新已发布英语版。 简体中文的内容更新 (简化的) 、法语、德语、意大利语、日语、葡萄牙语 (巴西) 、俄语和西班牙语即将推出。  
 
 ### <a name="security"></a>安全性
 添加了一个新的安全子类别，带有播放列表和资产，可帮助用户更安全地在 office 和家庭中工作。 
@@ -111,7 +114,7 @@ ms.locfileid: "48261685"
 #### <a name="work-with-posts-and-messages-playlist"></a>"使用文章和邮件" 播放列表
 - 创建文章并设置其格式
 
-### <a name="planner"></a>规划器 
+### <a name="planner"></a>Planner 
 "关注资源" 已添加到 "Products\Planner" 中的 "使用 Planner" 播放列表。
 #### <a name="use-planner-playlist"></a>使用 Planner 播放列表
 - 完成 vs Planner
@@ -291,7 +294,7 @@ Office for web 为用户要在 web 上创建、共享和协作使用 Office 的�
 - 将您的 iPhone 或 iPad 添加到 "简介" 和 "OneDrive" 播放列表
 - 启用 "OneDrive 备份" 已添加到 "使用 OneDrive 管理你的文件" 播放列表
 
-### <a name="planner"></a>规划器
+### <a name="planner"></a>Planner
 以下播放列表和资产已添加到目录中。  
 - Planner 快速入门 (6 资产) 
 - 使用规划器 (8 资产) 
