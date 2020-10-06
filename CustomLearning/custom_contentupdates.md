@@ -5,12 +5,12 @@ title: 学习路径内容更新
 ms.date: 3/30/2020
 description: 学习路径内容更新
 ms.service: o365-solutions
-ms.openlocfilehash: 6610eecf67f36b130aaf45e227f5aa85d20f44d8
-ms.sourcegitcommit: 60554c63c0dd833b27e11b0b28c08aee69d16e26
+ms.openlocfilehash: 5111cb5a61f369be93adeae0198b52f53a267150
+ms.sourcegitcommit: 6a496a594cfbbeb9a53630cad0fce003c8b02501
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "48336400"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48361092"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 学习通道内容更新
 学习途径努力遵守季度内容更新周期。 下面列出了9月2020的内容更新。
@@ -19,7 +19,7 @@ ms.locfileid: "48336400"
 学习途径努力遵守季度内容更新周期。 若要了解有关如何应用内容更新以及如何管理内容更新的详细信息，请参阅 [Manage Content updates](custom_contentupdatesmanage.md)。 
 
 > [!IMPORTANT]
-> 9月内容更新已发布英语版。 简体中文的内容更新 (简化的) 、法语、德语、意大利语、日语、葡萄牙语 (巴西) 、俄语和西班牙语即将推出。  
+> 九月份的内容更新已发布，用于英语、中文 (简化的) 、法语、德语、意大利语、日语、葡萄牙语 (巴西) 、俄语和西班牙语。  
 
 ### <a name="security"></a>安全性
 添加了一个新的安全子类别，带有播放列表和资产，可帮助用户更安全地在 office 和家庭中工作。 
