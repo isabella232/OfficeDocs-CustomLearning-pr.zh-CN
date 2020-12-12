@@ -14,6 +14,7 @@
 ## [翻译学习路径自定义播放列表](custom_translate_pl_ml.md)
 ## [翻译网站名称、导航和页脚](custom_sitenamenav_ml.md)
 # [管理员成功中心](custom_successcenter.md)
+## [将 Teams 顾问与学习路径配合使用来帮助部署 Microsoft Teams](custom_teamsadvisor.md)
 ## 规划学习内容 
 ### [规划学习内容](custom_plancontent.md)
 ### [用于支持远程员工的资源](custom_plancontent_remoteresources.md)
