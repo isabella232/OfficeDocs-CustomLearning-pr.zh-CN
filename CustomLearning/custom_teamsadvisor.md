@@ -1,20 +1,20 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 将顾问用于具有学习路线图的团队，以帮助推广 Microsoft 团队
+title: 将 Teams 顾问与学习路径配合使用来帮助部署 Microsoft Teams
 ms.date: 12/9/2020
-description: 将顾问用于具有学习路线图的团队，以帮助推广 Microsoft 团队
+description: 将 Teams 顾问与学习路径配合使用来帮助部署 Microsoft Teams
 ms.service: o365-solutions
-ms.openlocfilehash: f50779b593c48d944ccb2577ec6342f9f621abf3
-ms.sourcegitcommit: 896b2635713967987bb705c861e11b5568fd72ca
+ms.openlocfilehash: a5ab35c00827712bd72a5e04c2cf9f4c109f3d91
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49616797"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162809"
 ---
-# <a name="use-advisor-for-teams-with-learning-pathways-to-help-roll-out-microsoft-teams"></a>将顾问用于具有学习路线图的团队，以帮助推广 Microsoft 团队
-现在，学习途径与团队的顾问集成。 团队的顾问可通过提供可自定义的学习解决方案为用户提供更快的快速功能，使您能够通过 Microsoft 团队首展和学习途径完成首次英里数的准备工作。 团队的顾问可评估组织的 Microsoft 365 环境，并确定在成功推出团队之前需要更新或修改的最常见配置。 然后，团队的顾问将在团队) 中创建部署团队 (，并将每个工作负荷的频道用于您要推出的工作负荷。部署团队中的每个工作负载都具有全面的 Planner 计划，其中包括每个工作负载的所有首次任务，包括用于创建学习计划的任务，以及使用学习路径推动采用。
+# <a name="use-advisor-for-teams-with-learning-pathways-to-help-roll-out-microsoft-teams"></a>将 Teams 顾问与学习路径配合使用来帮助部署 Microsoft Teams
+现在，学习路径已与 Advisor for Teams 集成。 Advisor for Teams 将指导你完成 Microsoft Teams 推出，学习路径通过提供可自定义的学习解决方案快速让用户快速入门，帮助完成最后一米的部署。 Advisor for Teams 评估组织的 Microsoft 365 环境，并确定在成功部署 Teams 之前需要更新或修改的最常见配置。 然后，Advisor for Teams 在 Teams (创建一) 团队团队，并针对你要推出的每个工作负载提供频道。部署团队的每个工作负载都附带了全面的 Planner 计划，其中包括每个工作负载的所有推出任务，包括用于创建学习计划的任务，以及通过学习路径推动采用的任务。
 
-- 有关使用团队顾问的详细信息，请参阅 [Use advisor For 团队向团队推出](https://docs.microsoft.com/microsoftteams/use-advisor-teams-roll-out)
-- 有关使用具有学习路径的团队顾问的详细信息，请参阅 [创建学习计划](https://docs.microsoft.com/microsoftteams/use-advisor-teams-roll-out#create-a-learning-plan)
-- 若要详细了解如何规划、自定义、推动采用并衡量学习路径部署的影响，请参阅 [学习路径管理员成功中心](custom_successcenter.md)
+- 有关使用 Teams 顾问的信息，请参阅使用 [Advisor for Teams 推出 Teams](/microsoftteams/use-advisor-teams-roll-out)
+- 有关将 Teams 顾问与学习路径一同使用的信息，请参阅 [创建学习计划](/microsoftteams/use-advisor-teams-roll-out#create-a-learning-plan)
+- 若要详细了解如何规划、自定义、推动采用和衡量学习路径部署的影响，请参阅学习路径 [管理成功中心](custom_successcenter.md)
