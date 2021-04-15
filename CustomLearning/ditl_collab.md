@@ -1,23 +1,25 @@
 ---
-title: Office 365 生命周期中的日-与同事协作
-description: 在与 Office 365 的一天内准备好的快速步骤
+title: Office 365 中的一天 - 与同事协作
+description: 使用 Office 365 准备一天
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 029901ea81be9b649ee9e928591b929f8e1f462e
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+manager: alexb
+audience: itpro
+ms.service: sharepoint-online
+ms.openlocfilehash: 8c32e727b09eb7ed7b82e12821c95f18092ea91f
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233714"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749360"
 ---
 # <a name="collaborating-with-colleagues"></a>与同事协作
 
 ![“协作”视觉图像](media/ditl_collab.png)
 
-现在是下午 2:00，是时候与同事协作了。 Office 365 提供了一流的协作机会，可便于团队以多种方式协作。 
+现在是下午 2:00，是时候与同事协作了。 Office 365 提供了一流的协作机会，使团队可以多种方式协同工作。 
 
 ## <a name="tools"></a>工具
 - Microsoft Teams
@@ -33,7 +35,7 @@ ms.locfileid: "48233714"
 
 ## <a name="create-or-join-a-microsoft-team-for-collaboration"></a>创建或加入 Microsoft 团队进行协作
 
-在 Microsoft Teams 和渠道中，可以通过共享文件、跟踪团队拟办事项等方式进行协作。 每个 Microsoft Teams 都集成到 SharePoint 网站、OneNote 笔记本和其他资产。 这项 Office 365 服务最适合经常共同完成共享项目或结果的人。 
+在 Microsoft Teams 和渠道中，可以通过共享文件、跟踪团队拟办事项等方式进行协作。 每个 Microsoft Teams 都集成到 SharePoint 网站、OneNote 笔记本和其他资产中。 这项 Office 365 服务最适合经常共同完成共享项目或结果的人。 
 
 ## <a name="share-files-from-your-onedrive"></a>共享 OneDrive 文件
 可以使用浏览器或 Office 365 桌面应用程序（如 Word 或 Excel），与任何人共享已在 OneDrive for Business 中保存的文件。 可以使用个人的姓名、别名或公司电子邮件地址与他们共享。 

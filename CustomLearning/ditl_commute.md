@@ -1,17 +1,19 @@
 ---
-title: Office 365 生命周期中的日-在你的路程上
-description: 在与 Office 365 的一天内准备好的快速步骤
+title: Office 365 中的一天 - 上下班时间
+description: 使用 Office 365 准备一天中的步骤。
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
+audience: itpro
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 3224874ac3a9f4a7ce8bde213d11243a4eba184b
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 65495b941f4c39c45d5e7818d0f1e54c6c10a217
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233664"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749340"
 ---
 # <a name="during-your-commute"></a>通勤期间
 
@@ -20,7 +22,7 @@ ms.locfileid: "48233664"
 早上，你通勤去上班，但不必将所有工作都抛诸脑后。 使用 Office 365，可以将你的工作转移到移动设备上，并继续手头的工作。  借助我们的移动体验，你可以在通勤期间安全、高效地工作。  
 
 > [!IMPORTANT]
-> 如果你开车去上班，请优先考虑你的安全，并遵守所有规定不得开车分神的驾驶法规。 靠边停车参加会议，开车时不要发短信或看短信，确保你的注意力集中在真正重要的事情上，也就是**你的安全**！
+> 如果你开车去上班，请优先考虑你的安全，并遵守所有规定不得开车分神的驾驶法规。 靠边停车参加会议，开车时不要发短信或看短信，确保你的注意力集中在真正重要的事情上，也就是 **你的安全**！
 
 
 ## <a name="tools"></a>工具

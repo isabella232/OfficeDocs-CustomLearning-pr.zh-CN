@@ -3,14 +3,17 @@ author: pkrebs
 ms.author: pkrebs
 title: 手动安装学习路径
 ms.date: 02/18/2019
+manager: bpardi
 description: 手动安装学习路径
-ms.service: sharepoint online
-ms.openlocfilehash: 992fe28f1ca2bdd09c5d29a4a5342b06ff093105
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+audience: itpro
+ms.service: o365-administration
+ms.topic: article
+ms.openlocfilehash: 212ee8a1517cf79538d4a2d076f60f9382eeaf74
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162839"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749310"
 ---
 # <a name="manually-installing-and-configuring-custom-learning-for-office-365"></a>手动安装和配置 Office 365 的自定义学习
 
@@ -26,7 +29,7 @@ Microsoft 自定义学习Web 部件 [使用 SharePoint 框架](/sharepoint/dev/s
 
 ## <a name="prerequisites"></a>先决条件
 
-你必须已设置和配置租户范围的应用程序目录。 请参阅 [设置 Office 365 租户并按照](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) 创建应用程序目录网站部分操作。 如果租户范围的应用程序目录已预配，则需要访问具有将程序包上载到该帐户权限的帐户才能完成此设置过程。 通常，这是具有 SharePoint 管理员角色的帐户。 如果具有该角色的帐户不起作用，请转到 SharePoint 管理中心并查找应用程序目录网站集的网站集管理员，并作为网站集管理员之一登录，或者向网站集管理员添加失败的 SharePoint 管理员帐户。 你还需要访问作为 SharePoint 租户管理员的帐户。
+你必须已设置和配置租户范围的应用程序目录。 请参阅 [设置 Office 365 租户](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) 并按照创建应用程序目录网站部分操作。 如果租户范围的应用程序目录已预配，则需要访问具有将程序包上载到该帐户权限的帐户才能完成此设置过程。 通常，此帐户具有 SharePoint 管理员角色。 如果具有该角色的帐户不起作用，请转到 SharePoint 管理中心并查找应用程序目录网站集的网站集管理员，并作为网站集管理员之一登录，或者向网站集管理员添加失败的 SharePoint 管理员帐户。 你还需要访问作为 SharePoint 租户管理员的帐户。
 
 ## <a name="upload-the-web-part-to-the-tenant-app-catalog"></a>将 Web 部件上载到租户应用程序目录
 
@@ -44,7 +47,7 @@ Microsoft 自定义学习Web 部件 [使用 SharePoint 框架](/sharepoint/dev/s
 
 ## <a name="execute-powershell-configuration-script"></a>执行 PowerShell 配置脚本
 
-包含一个 PowerShell 脚本，您需要执行该脚本来创建解决方案使用的三 `CustomLearningConfiguration.ps1` 个租户属性。 [](/sharepoint/dev/spfx/tenant-properties) 此外，该脚本在 [网站页面库中](/sharepoint/dev/spfx/web-parts/single-part-app-pages) 创建两个单部件应用程序页面，以在已知位置托管管理员和用户 Web 部件。
+包含一个 PowerShell 脚本，您需要执行该脚本来创建解决方案使用的三 `CustomLearningConfiguration.ps1` 个租户属性。 [](/sharepoint/dev/spfx/tenant-properties) 此外，该脚本在网站页面库中[](/sharepoint/dev/spfx/web-parts/single-part-app-pages)创建两个单部件应用程序页面，以在已知位置托管管理员和用户 Web 部件。
 
 ### <a name="disabling-telemetry-collection"></a>禁用遥测集合
 

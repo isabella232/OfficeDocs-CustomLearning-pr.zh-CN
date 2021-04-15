@@ -1,17 +1,19 @@
 ---
-title: Office 365 生命周期中的日-Office 中的会议
-description: 在与 Office 365 的一天内准备好的快速步骤
+title: Office 365 中的一天 - Office 会议
+description: 一些提示可帮助你准备好在 Office 365 中工作
 author: karuanag
 ms.author: karuanag
+manager: alexb
+audience: itpro
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: fb2820a6492c3f7c107442e5aacbe5bf60adc7c8
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 426e675aa73d91ed82c09a7fca4dcc0053f4c821
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233634"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749370"
 ---
 # <a name="meeting-at-the-office"></a>办公室会议
 
