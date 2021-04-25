@@ -5,12 +5,15 @@ title: 将 Teams 顾问与学习路径配合使用来帮助部署 Microsoft Team
 ms.date: 12/9/2020
 description: 将 Teams 顾问与学习路径配合使用来帮助部署 Microsoft Teams
 ms.service: o365-solutions
-ms.openlocfilehash: a5ab35c00827712bd72a5e04c2cf9f4c109f3d91
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 3da1b386f92b8c7ed3402fdc37266a8b3e81e05a
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162809"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999278"
 ---
 # <a name="use-advisor-for-teams-with-learning-pathways-to-help-roll-out-microsoft-teams"></a>将 Teams 顾问与学习路径配合使用来帮助部署 Microsoft Teams
 现在，学习路径已与 Advisor for Teams 集成。 Advisor for Teams 将指导你完成 Microsoft Teams 推出，学习路径通过提供可自定义的学习解决方案快速让用户快速入门，帮助完成最后一米的部署。 Advisor for Teams 评估组织的 Microsoft 365 环境，并确定在成功部署 Teams 之前需要更新或修改的最常见配置。 然后，Advisor for Teams 在 Teams (创建一) 团队团队，并针对你要推出的每个工作负载提供频道。部署团队的每个工作负载都附带了全面的 Planner 计划，其中包括每个工作负载的所有推出任务，包括用于创建学习计划的任务，以及通过学习路径推动采用的任务。

@@ -5,13 +5,16 @@ title: 预配新的学习路径多语言解决方案
 ms.date: 02/10/2019
 description: 通过 SharePoint 预配服务预配 Microsoft 365 学习路径网站
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
-ms.openlocfilehash: 19de14ba0785fa394dfe65e50ba8c4f27864cccf
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 40371138db2ec01e0e4a6558175f68cfa06fba51
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162999"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999378"
 ---
 # <a name="provision-a-new-learning-pathways-multilingual-solution"></a>预配新的学习路径多语言解决方案
 没有在租户中设置学习路径的组织可以使用 SharePoint 预配服务添加多语言学习路径解决方案。 使用此选项，SharePoint 模板的学习路径将翻译为 9 种语言，并且可通过最少的修改来使用。 

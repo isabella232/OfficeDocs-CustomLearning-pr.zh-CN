@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 衡量 Microsoft 365 学习路径的影响
 ms.date: 02/10/2019
 description: 如何衡量 Microsoft 365 学习路径的影响
-ms.service: sharepoint online
-ms.openlocfilehash: 3f803959a7fe14c2c67bb232a5f9ade31218ab11
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+ms.openlocfilehash: 4ba5981902367ef9c94c28c49442af588dcf368e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163039"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999528"
 ---
 # <a name="measuring-impact-of-microsoft-365-learning-pathways"></a>衡量 Microsoft 365 学习路径的影响
 
@@ -32,6 +32,6 @@ ms.locfileid: "51163039"
 2. 解释 SharePoint 网站使用率报告详细信息。 对"网站 URL"字段进行排序，以便更轻松地识别 Microsoft 365 学习路径网站。 
 3. 利用报告导出功能进行更高级的数据分析，或者如果您的组织的网站超过 2，000 个。 
 
-## <a name="feedback"></a>反馈
+## <a name="reporting"></a>报告
 
 截至目前，报告仅限于 SharePoint 网站级别。 将投票投到 [我们的用户语音](https://go.microsoft.com/fwlink/?linkid=2109552) 论坛，以帮助确定增强的报告功能请求的优先级。

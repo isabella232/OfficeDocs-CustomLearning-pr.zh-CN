@@ -1,17 +1,17 @@
 ---
-title: Office 365 的生命周期中的一天-早上咖啡
-description: 在与 Office 365 的一天内准备好的快速步骤
+title: Office 365 中的一天 - 上午咖啡
+description: 使用 Office 365 准备一天的快速步骤
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 5da7b3eb0e7b66c81c0bf3586509719c912ab609
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: f0249a5f86e3ba99d1e53e7e9dc51d8cb5007c11
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233694"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000098"
 ---
 # <a name="during-morning-coffee"></a>上午咖啡期间
 

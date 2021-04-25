@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: 设置自定义学习网站
 ms.date: 02/10/2019
 description: 通过 SharePoint 预配引擎预配 Office 365 自定义学习网站
-ms.service: sharepoint online
-ms.openlocfilehash: be45ade7588f08801062710d310ca967ddd23926
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: f930eba5815366bcefd2730c88a3c2df3f246dd4
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162919"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000318"
 ---
 # <a name="provision-custom-learning"></a>预配自定义学习
 
@@ -27,26 +30,22 @@ ms.locfileid: "51162919"
 ### <a name="to-provision-custom-learning"></a>设置自定义学习
 
 1. 转到 http://provisioning.sharepointpnp.com **，然后** 从主页的右上角登录。  使用计划安装网站模板的目标租户的凭据登录。
-
-![pnphome.png](media/inst_signin.png)
+![设置服务主页。](media/inst_signin.png)
 
 2. 清除"**代表你的组织同意"，然后选择**"接受 **"。**
-
-![属于 ](media/inst_perms.png)
+![许可屏幕](media/inst_perms.png)
 
 3. 从 **解决方案库中选择"自定义学习 office 365"。**
+![选择 Office 365 自定义学习的屏幕。](media/inst_select.png)
 
-![属于 ](media/inst_select.png)
-
-4. 从解决方案主页选择" **添加到租户"**
-
-![inst_select.png](media/inst_add.png)
+4. 在解决方案主页中，选择"**添加到租户** 
+ ![ 屏幕"，选择"添加到租户"。](media/inst_add.png)
 
 5. 根据需要填写预配信息页面上的字段。 至少输入要获取预配过程通知的电子邮件地址，以及要预配到的网站的目标 URL。  
-> [!NOTE]
-> 使网站的目标 URL 对员工友好，例如"/sites/MyTraining"或"/teams/LearnOffice365"。
+   > [!NOTE]
+   > 使网站的目标 URL 对员工友好，例如"/sites/MyTraining"或"/teams/LearnOffice365"。
 
-![inst_options.png](media/inst_options.png)
+   ![提供预配详细信息的屏幕。](media/inst_options.png)
 
 6. 准备好 **将** 自定义学习安装到租户环境中时，请选择"预配"。  预配流程最多需要 15 分钟。 网站可供访问时，系统将通过电子邮件（你在“预配”页面上输入的通知电子邮件地址）通知你。
 
@@ -66,6 +65,3 @@ ms.locfileid: "51162919"
 4. 单击 **"**  >  **向此组添加新用户"，** 添加您希望成为所有者的用户，然后单击"共享 **"。**
 
 8. 单击 **页面** 右上角的"关注"选项以关注网站。  
-
-### <a name="next-steps"></a>后续步骤
-- 浏览 [Web 部件](sitecontent.md) 中包含的默认内容。

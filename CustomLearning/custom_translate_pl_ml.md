@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: 翻译学习路径自定义播放列表
 ms.date: 07/06/2020
 description: 翻译学习路径自定义播放列表
-ms.service: sharepoint online
-ms.openlocfilehash: c5c4c3b34a721295bdcd2e89bad865bc6760d058
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
+ms.openlocfilehash: 2b36479facd2a119753f193b2c4bf90e0ad21b68
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162829"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000348"
 ---
 # <a name="translate-learning-pathways-custom-playlists"></a>翻译学习路径自定义播放列表
 借助学习路径，你使用自定义播放列表的方式取决于你设置学习路径的方式。  
@@ -35,7 +38,7 @@ ms.locfileid: "51162829"
 6. 单击默认语言右侧语言的语言 (（本例中为英语) 查看复制的播放列表详细信息。 新语言的详细信息反映了原始复制的播放列表，需要翻译。
 7. 创建注释以通知翻译者要翻译的播放列表详细信息。  
 
-![custom_update_ml_pldetail.png](media/custom_update_ml_pldetail.png)
+![示例意大利语页面。](media/custom_update_ml_pldetail.png)
 
 > [!IMPORTANT]
 > 转换器通知未内置于自定义播放列表中。 需要手动通知翻译人员。 翻译人员将默认语言详细信息的副本手动翻译为指定的 () 翻译。 你需要通知翻译人员播放列表详细信息所需的翻译。 建议你完成所有播放列表更改，包括添加、编辑或删除播放列表资产，然后通知翻译人员有关播放列表详细信息和资产所需的翻译。
@@ -48,9 +51,9 @@ Microsoft 提供的播放列表中任何资产均不可编辑，并且不需要�
 
 **创建资产**
 1. 对于"五个简单的步骤"播放列表，在 **"资产"下**，选择 **"+ 新** 资产"，然后填写资产的详细信息。 
-- 对于 **"标题**"，输入"欢迎使用 Contoso 的 Microsoft 365"。 
-- 对于 **"技术**"，选择 **"Microsoft 365"。**
-![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+   - 对于 **"标题**"，输入"欢迎使用 Contoso 的 Microsoft 365"。 
+   - 对于 **"技术**"，选择 **"Microsoft 365"。**
+![输入资产详细信息的表单。](media/custom_ml_pl_createasset.png)
 2. 选择 **"创建资产**"，然后选择"**保存资产"。**
 
 **打开资产**
@@ -59,15 +62,15 @@ Microsoft 提供的播放列表中任何资产均不可编辑，并且不需要�
 3. 单击"**翻译"。**
 4. 选择 **"** 创建"作为 (语言) 的语言。 对于此示例，我们将选择意大利语。
 5. 选择"**查看"。** 现在，应该会看到一个与以下示例类似的页面，具体取决于支持的语言。
-![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+!["播放列表资产示例"页。](media/custom_ml_pl_createasset.png)
 6. 单击“**发布**”。
 7. 对于创建的翻译页面，从浏览器复制 URL 并返回到学习路径管理页面。
 
 **为创建的翻译资产添加语言** 
-1. 返回到"学习路径管理"页，然后为打开的"五 (") 选择"编辑"图标和铅笔图标。 
+1. 返回到"学习路径管理&quot;页，然后为打开的&quot;五 (") 选择"编辑"图标和铅笔图标。 
 2. 单击 **"添加语言**"，然后选择一种语言。 本示例中，我们选择了意大利语。 
 3. 输入你创建的已翻译页面的 URL。 应该会看到一个与以下示例类似的页面。 
-![custom_ml_pl_translateasseturl.png](media/custom_ml_pl_translateasseturl.png)
+![输入特定语言页面的 URL 的表单](media/custom_ml_pl_translateasseturl.png)
 4. 单击 **"保存资产"。**
 
 ## <a name="add-languages-for-existing-custom-playlists-and-assets"></a>为现有自定义播放列表和资产添加语言
@@ -80,13 +83,13 @@ Microsoft 提供的播放列表中任何资产均不可编辑，并且不需要�
 ### <a name="to-add-languages-for-an-existing-playlist"></a>为现有播放列表添加语言
 1.  从"学习路径主页 **"** 菜单中，单击"**学习路径管理"。** 
 2.  选择自定义播放列表。 自定义播放列表由带选中标记的人图标标识，如以下示例所示。
-![custom_ml_pl_customselect.png](media/custom_ml_pl_customselect.png) 
+![示例自定义播放列表。](media/custom_ml_pl_customselect.png) 
 3. 选择 **"编辑详细信息"。** 可能需要向下滚动才能找到"编辑 **详细信息"** 按钮。   
 4. 选择 **"添加语言** "，然后选择一种语言。  
 5. 选择 **"保存详细信息"。**
  可用的语言将取决于为网站选择的支持的语言。 若要添加其他语言，您需要向网站添加其他支持的语言。   
 5. 单击默认语言右侧语言的语言 (（本例中为英语) 查看复制的播放列表详细信息。 新语言的详细信息反映了原始复制的播放列表，需要翻译。
-![custom_ml_pl_editdetailit.png](media/custom_ml_pl_editdetailit.png) 
+![意大利语的示例详细信息页面。](media/custom_ml_pl_editdetailit.png) 
 7. 创建注释以通知翻译者要翻译的播放列表详细信息。  
 
 **打开资产**
@@ -95,7 +98,7 @@ Microsoft 提供的播放列表中任何资产均不可编辑，并且不需要�
 3. 单击"**翻译"。**
 4. 选择 **"** 创建"作为 (语言) 的语言。 对于此示例，我们将选择意大利语。
 5. 选择"**查看"。** 现在，应该会看到一个与以下示例类似的页面，具体取决于支持的语言。
-![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+![选择"查看"时显示的示例页面。](media/custom_ml_pl_createasset.png)
 6. 单击“**发布**”。
 7. 对于创建的翻译页面，从浏览器复制 URL 并返回到学习路径管理页面。
 

@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 学习路径 内容更新 4 月
 ms.date: 3/30/2020
 description: 学习路径 2020 年 4 月内容更新
-ms.service: sharepoint online
-ms.openlocfilehash: 9cae2f1f3fe96a5e6496739ca194202a45286c2e
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+ms.openlocfilehash: a8b6cf64a93e7d10aa0fa8602ba8b7f52ded1f67
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163059"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999128"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates-for-april"></a>4 月 Microsoft 365 学习路径内容更新
 学习路径努力遵守每季度内容更新周期。 下面列出了 2020 年 4 月的内容更新。
@@ -33,7 +33,7 @@ Office 365 已重新品牌为 Microsoft 365。 名称更改将反映在 Microsof
 
 ##### <a name="work-remotely-5-new-assets"></a>远程工作 (5 个新的资产) 
 - 远程使用 Office 365
-- 开始 Office.com
+- 在 Office.com 上开始操作
 - 沟通或会面
 - 存储你的工作文件
 - 高级替代项
@@ -187,7 +187,7 @@ Office 网页应用提供了一组播放列表，用于用户想要创建、共�
 - 将内容添加到 Sway (11 资源) 
 - 自定义 Sway (5 个) 
 
-### <a name="access"></a>Access
+### <a name="access"></a>访问
 - 访问快速入门 (4 个) 
 - Access 3 (资源简介) 
 - 创建包含 2 个 (Access 数据库) 

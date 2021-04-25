@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: 用于支持远程员工的资源
 ms.date: 3/31/2020
 description: 用于支持远程员工的资源
-ms.service: sharepoint online
-ms.openlocfilehash: b32defa9e60066db33d6d978f1894cea00da446c
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: bc9490be06945a5945c1e0569abd94ecde17f30f
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163009"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999408"
 ---
 # <a name="resources-for-supporting-your-remote-workforce"></a>用于支持远程员工的资源
 为应对 Covid-19 爆发，2020 年 4 月的内容更新提供了侧重于在组织中启用远程工作的学习播放列表和资源。 我们添加了一组新的工作远程播放列表，显著更新了 Microsoft Teams 内容，特别是针对 Teams 会议，并添加了一组新的 Office 以用于 Web 播放列表。 

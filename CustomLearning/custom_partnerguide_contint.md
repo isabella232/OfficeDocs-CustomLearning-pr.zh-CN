@@ -4,18 +4,21 @@ ms.author: pkrebs
 title: 合作伙伴集成模型
 ms.date: 3/9/2019
 description: 合作伙伴集成模型
-ms.service: sharepoint online
-ms.openlocfilehash: f3b5c5ddc8de29d2805c86a24b1d9bef0c8cacfa
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 826b8a463fde50188abbc80e295924b120104cf6
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162929"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999518"
 ---
 # <a name="partner-integration-models"></a>合作伙伴集成模型
 虽然无法直接从 SharePoint Online 预配服务"开箱即用"补充 Microsoft 365 学习路径内容，但合作伙伴可以利用多种集成模型来创建一致的增值服务产品。 以上合作伙伴集成模型按复杂性和投资级别的升序呈现。 因此，我们的指南是基于你的业务模型构建你的专长并培养到更高级的级别。
 
-![cg-part-intmodel.png](media/cg-part-intmodel.png) 
+![流程图显示启用者、集成商和重新分发者的角色。](media/cg-part-intmodel.png)
 
 ## <a name="how-should-i-get-started"></a>如何开始使用？ 
 To get started， here are some best practices to follow.     
@@ -89,15 +92,15 @@ playlists.js- 播放列表清单是一组对象，用于描述播放列表的元
 |              名称        |                     说明                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
 |Id                            |表示播放列表的 GUID                                                             |  
-|Title                         |播放列表的显示名称                                                               |
+|标题                         |播放列表的显示名称                                                               |
 |图像                         |相对于 URL (CDN) 图像以可视化播放列表                              |                      
 |LevelId                       |关联级别                                                                           |
 |AudienceId                   |关联的访问群体                                                                        |
 |TechnologyId                 |关联技术                                                                      |
 |SubjectId                    |类别/子类别的显示名称                                                  |
-|Source                        |从源数组中，除了用户添加的自定义数据外，未在 UX 中专门使用的数据被标记为"租户"，并且 UX 管理区域不允许编辑任何未标记为"租户"的项。                                              |
+|源                        |从源数组中，除了用户添加的自定义数据外，未在 UX 中专门使用的数据被标记为"租户"，并且 UX 管理区域不允许编辑任何未标记为"租户"的项。                                              |
 |CatId                         |表示应显示播放列表的容器的 Category 或 SubCategory ID。 当前，清单不支持选择 Category 或 SubCategory 作为容器（如果它还具有 SubCategory 子级）。        |
-|说明                   |针对 UX 中每个播放列表显示的描述                                           |
+|Description                   |针对 UX 中每个播放列表显示的描述                                           |
 |StatusTagId                   |关联的状态标记                                                                      |
 |StatusNote                    |有关向管理员显示的内容的注释                                            |
 |*Assets[]*                        |此播放列表中资产的 GUID 数组，按显示顺序显示。        |         
@@ -108,12 +111,12 @@ playlists.js- 播放列表清单是一组对象，用于描述播放列表的元
 |              名称        |                     说明                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
 |Id                            |表示播放列表的 GUID                                                             |  
-|Title                         |播放列表的显示名称                                                               |
-|说明                   |---                                                                                           |                      
+|标题                         |播放列表的显示名称                                                               |
+|Description                   |---                                                                                           |                      
 |URL                           |要应用于 iFrame 的资产的源 URL                                  |
 |TechnologyId                  |关联技术                                                                      |
 |SubjectId                     |关联主题                                                                         |
-|Source                        |类别/子类别的显示名称                                                  |
+|源                        |类别/子类别的显示名称                                                  |
 |StatusTagId                   |关联的状态标记                                                                      |
 |StatusNote                    |有关向管理员显示的内容的注释。                                           |
 
@@ -133,7 +136,7 @@ Microsoft 将 GitHub 页面用作内容交付网络 (CDN) 清单文件和图像�
 
 如果你选择使用自己的内容包扩展学习路径解决方案，则保持与 Microsoft 相同的版本控制结构非常重要。 CDN 终结点不应包含版本文件夹，因为 Web 部件支持的清单版本已放入其中，并自动追加到 CDN URL。 我们显然将给你一些时间，每次我们修订清单文件时创建清单文件的新实例。
 
-![cg-part-json-folder.png](media/cg-part-json-folder.png) 
+![屏幕截图显示了示例结构。](media/cg-part-json-folder.png) 
 
 有关将 GitHub 页面用作 CDN 源的详细信息，请参阅以下帮助文档： [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) 。
 
@@ -158,11 +161,11 @@ Microsoft 的解决方案公开有关资产的信息，因为对于谁有权访�
 2. 在" **管理"** 页中，单击 **...在页面** 右上角添加内容包。
 3. 单击"自定义内容包"，然后输入内容包的名称，然后指定 JSON 文件所在的 CDN。
 
-![cg-part-addconpack.png](media/cg-part-addconpack.png)
+   ![输入名称和路径的屏幕。](media/cg-part-addconpack.png)
 
-4. 单击“**保存**”。 自定义内容包中的内容现在应显示在"管理"页中。 下面是一个示例。 
+4. 单击“保存”。 自定义内容包中的内容现在应显示在"管理"页中。 下面是一个示例。 
 
-![cg-part-addconpackex.png](media/cg-part-addconpackex.png)
+   ![管理页示例。](media/cg-part-addconpackex.png)
 
 ### <a name="filter-to-the-content-pack-in-the-web-part"></a>筛选到 Web 部件中的内容包
 借助学习路径，你可以将学习路径 Web 部件添加到页面，筛选 Web 部件以指向自定义内容包源，然后将 Web 部件筛选为你需要的类别、子类别、播放列表和资产。 
@@ -175,4 +178,4 @@ Microsoft 的解决方案公开有关资产的信息，因为对于谁有权访�
 6. 单击 Web 部件，然后单击"编辑 **"** 图标。
 7. 在 **"选择学习源** "框中，选择自定义内容包，然后将 Web 部件筛选为您想要的内容。 下面提供了从自定义内容包筛选到播放列表的 Web 部件示例。
 
-![cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)
+   ![从自定义内容包中筛选到播放列表的示例 Web 部件屏幕截图。](media/cg-part-conpackfilter.png)

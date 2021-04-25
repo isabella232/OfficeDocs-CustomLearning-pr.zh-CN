@@ -4,18 +4,21 @@ ms.author: pkrebs
 title: 合作伙伴加入指南
 ms.date: 3/9/2019
 description: Microsoft 365 学习路径的合作伙伴载入指南
-ms.service: sharepoint online
-ms.openlocfilehash: d2023c308872bc665322ed3eaf470cca2b9b500a
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
+ms.openlocfilehash: f19e413d533b8bfcef7e5b7489a51806eb8fbdcc
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163029"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999418"
 ---
 # <a name="partner-onboarding-guide"></a>合作伙伴加入指南
 按照下面列出的三个步骤开始使用学习路径。 通过这三个步骤，您可以构建极具吸引力的演示，以吸引客户进行演示。 
 
-![cg-partner-getfam.png](media/cg-partner-getfam.png)
+![图表说明了五个步骤的载入过程。](media/cg-partner-getfam.png)
 
 ## <a name="1-create-a-microsoft-365-demonstration-environment"></a>1. 创建 Microsoft 365 演示环境
 您可以使用 demos.microsoft.com 创建演示环境，您可以在其中预配服务、验证服务，并使用它来为客户提供学习路径。 所有合作伙伴都有权访问 https://demos.microsoft.com 这些目的。 如果你是演示 demos.microsoft.com 入门指南，可以使用本指南。

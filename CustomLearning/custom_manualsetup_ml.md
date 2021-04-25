@@ -5,13 +5,13 @@ title: ml 的学习路径手动设置
 ms.date: 02/10/2019
 description: 学习路径手动设置
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
-ms.openlocfilehash: efa812a52418751b934fdcdf70c1377744f1a66d
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+ms.openlocfilehash: 6a12334647dac66c2af18fb141ab94a993c1183d
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162949"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999588"
 ---
 # <a name="learning-pathways-manual-setup-for-multilingual"></a>多语言的学习路径手动设置
 
@@ -55,7 +55,7 @@ Microsoft 365 学习路径为需要以下方案之一支持的组织提供手动
 如果您不希望为您的网站提供多语言支持，请确保其已关闭。
 1.  从 SharePoint 通信网站中，选择"**设置**  >  **""网站信息**  >  **""查看所有网站设置**  >  **""语言设置"。** 
 2.  将 **"启用要翻译为多种语言的页面** 和新闻"开关设置为 **"关闭"。**
-3.  单击“**保存**”。 
+3.  单击“保存”。 
 4.  继续执行步骤 2。
 
 ## <a name="option-2---you-want-multilingual-support-and-youre-ok-with-the-default-language"></a>选项 2 - 需要多语言支持，可以使用默认语言

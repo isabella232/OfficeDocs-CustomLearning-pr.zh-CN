@@ -1,16 +1,19 @@
 ---
 author: pkrebs
 ms.author: pkrebs
+manager: bpardi
 title: 学习路径内容更新
 ms.date: 3/30/2020
+audience: Admin
+ms.topic: article
 description: 学习路径内容更新
 ms.service: o365-solutions
-ms.openlocfilehash: 092520d6c56f9d9d96f4d4de8ff5d2dbc898e1f2
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.openlocfilehash: 6ec05d670dd9ccd925e07f71e3a8e5b99bc4621e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163079"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000108"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 学习路径内容更新
 学习路径努力遵守每季度内容更新周期。 若要了解有关如何应用内容更新以及如何管理内容更新的信息，请参阅管理 [内容更新](custom_contentupdatesmanage.md)。 
@@ -132,7 +135,7 @@ Excel 简介播放列表具有以下新资产。
 - XLOOKUP 函数
 - MATCH 函数
 
-### <a name="sharepoint"></a>SharePoint
+### <a name="sharepoint"></a>Microsoft Office SharePoint Online
 所有 SharePoint 播放列表和资产已更新。 更新后的播放列表包括：
 - SharePoint Online Quick Start
 - SharePoint Online 简介
@@ -284,7 +287,7 @@ Office 365 已重新品牌为 Microsoft 365。 名称更改将反映在 Microsof
 
 ##### <a name="work-remotely-five-new-assets"></a>远程工作 (五个新的资产) 
 - 远程使用 Office 365
-- 开始 Office.com
+- 在 Office.com 上开始操作
 - 沟通或会面
 - 存储你的工作文件
 - 高级替代项
@@ -434,7 +437,7 @@ Office 网页应用提供了一组播放列表，用于用户想要创建、共�
 - 将内容添加到 Sway (11 资源) 
 - 自定义 Sway (五个) 
 
-### <a name="access"></a>Access
+### <a name="access"></a>访问
 - 访问四个 (快速入门) 
 - Access 的三 (简介) 
 - 创建两个资源 (Access) 
