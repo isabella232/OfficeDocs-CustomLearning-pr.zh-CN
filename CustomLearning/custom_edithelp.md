@@ -3,29 +3,31 @@ author: pkrebs
 ms.author: pkrebs
 title: 自定义学习路径网站
 ms.date: 02/15/2019
-description: 了解 Microsoft 365 学习路径中提供的各种自定义项
+description: 了解通过学习路径Microsoft 365各种自定义
 ms.service: sharepoint-online
-ms.openlocfilehash: 44f11d02d86e8d3f8d3e32d5c3207fca384e9e2e
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: b892605f5200983c74132f73fe48e2746d2e6b08
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999808"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310626"
 ---
 # <a name="customize-the-site"></a>自定义网站
 
-Microsoft 365 学习路径网站基于 SharePoint 通信模板，因此可以很轻松地修改网站以满足组织的需要。 您可以更改页面上的网站名称、徽标、菜单项和内容。 
+学习Microsoft 365路径网站基于一个SharePoint模板，因此很容易修改网站以满足组织的需求。 您可以更改页面上的网站名称、徽标、菜单项和内容。 
 
 > [!TIP]
 > 收集员工的反馈并定期更新网站。 例如，当有新事件可用时，你可以更新培训事件日历。 在启动新服务时，可以取消隐藏内容并构建目标培训播放列表，这些播放列表旨在启动新服务。 
 
 ## <a name="customize-the-site-and-web-pages"></a>自定义网站和网页
 
-学习路径网站可完全自定义。 如果您不熟悉如何自定义 SharePoint 网站或网页，我们建议您查看本文中的自定义 [SharePoint](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) 网站 support.office.com。 
+学习路径网站可完全自定义。 如果您不熟悉如何自定义网站或SharePoint，我们建议您查看 SharePoint[上的自定义](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b)网站 support.office.com。 
 
 ### <a name="customize-ask-questions-and-get-help"></a>自定义"询问问题"并获取帮助
 
-作为学习路径网站的管理员，您需要执行的工作之一是更改"获取帮助和支持"页上的链接，指向您组织的资源。  
+作为学习路径网站的管理员，您需要执行的工作之一是更改 **"获取帮助** 和支持"页上的链接，以指向您组织的资源。 
 
 1.  从学习路径主页中，单击 **"提问"并获取帮助** 菜单项。
 2.  Click the **Edit** button.

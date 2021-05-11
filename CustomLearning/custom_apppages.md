@@ -3,18 +3,20 @@ author: pkrebs
 ms.author: pkrebs
 title: 开始使用 SharePoint 应用程序页面
 ms.date: 02/15/2019
-description: 了解 Microsoft 365 学习路径中的 SharePoint 应用程序页面的功能
+description: 了解学习路径中SharePoint应用程序Microsoft 365的功能
 ms.service: sharepoint-online
-ms.openlocfilehash: 85e28c2f8c280cc1f6f612cc85aeab41d5bc9a84
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: 45ec1edd0d59c21c3820e627a660e55a45b7838a
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999218"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310426"
 ---
 # <a name="get-to-know-the-sharepoint-application-pages"></a>开始使用 SharePoint 应用程序页面
 
-学习路径提供您作为管理员应了解的两个 SharePoint 应用程序页面。 这两个页面不可编辑，不应删除。 
+学习路径提供了两SharePoint管理员应了解的两个应用程序页面。 这两个页面不可编辑，不应删除。 
 
 - CustomLearningAdmin.aspx
 - CustomLearningViewer.aspx
@@ -25,7 +27,7 @@ CustomLearningAdmin.aspx 页提供了用于学习路径的管理功能，包括�
 
 ### <a name="view-customlearningadminaspx"></a>查看 CustomLearningAdmin.aspx
 
-1. 单击"SharePoint **设置"** 图标，然后单击"**网站内容网站**  >  **页面"。** 
+1. 单击 **"SharePoint设置"** 图标，然后单击"网站 **内容** 网站  >  **页面"。** 
 2. 单击 **CustomLearningAdmin.aspx**。 
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
@@ -35,7 +37,7 @@ CustomLearningViewer.aspx 页提供了一个查看器，用于显示 Web 部件�
 
 ### <a name="view-customlearningvieweraspx"></a>查看 CustomLearningViewer.aspx
 
-1. 单击"SharePoint **设置"** 图标，然后单击"**网站内容网站**  >  **页面"。** 
+1. 单击 **"SharePoint设置"** 图标，然后单击"网站 **内容** 网站  >  **页面"。** 
 2. 单击 **CustomLearningViewer.aspx**。 
 
 ![cg-viewerapppage.png](media/cg-viewerapppage.png)

@@ -5,18 +5,20 @@ title: 创建新的子类别
 ms.date: 02/17/2019
 description: 创建具有学习路径的新子类别
 ms.service: sharepoint-online
-ms.openlocfilehash: cf50403eee4fac0494298a84354eb142e7957790
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: 4cf22317096bba2f4eacb64ce7ca838219d6b390
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999078"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310416"
 ---
 # <a name="create-a-subcategory"></a>创建子类别 
 在某些情况下，您需要创建新的子类别。 例如，如果"第一天"子类别对组织不起作用，你可以创建新的子类别，然后向该子类别添加播放列表以满足组织的需求。 
 
-1. 从 Microsoft 365 学习路径 **主页** 中，单击 **"Microsoft 365** 培训"，单击 Web 部件中的"系统"菜单，然后单击"管理 **播放列表"。** 
-2. 选择 **类别**。 在此例中，选择"**开始使用"。**  
+1. 从"Microsoft 365学习路径"主页中，单击"Microsoft 365培训"，单击 Web 部件中的"系统"菜单，然后单击"管理 **播放列表"。**  
+2. 选择 **类别**。 在此例中，选择 **"入门"。**  
 3. 向下滚动页面， 
 3. 单击" **添加新子类别 +"** 图标。  
 
