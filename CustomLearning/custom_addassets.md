@@ -5,12 +5,14 @@ title: 将资产添加到播放列表
 ms.date: 02/17/2019
 description: 将新的和现有的资产添加到学习路径播放列表
 ms.service: sharepoint-online
-ms.openlocfilehash: abd4500faccf8d4e8008f72dc800855035d8a2c9
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: 409a1dab13d00c3592f565675475cf2446da9908
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999828"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334546"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>将资产添加到自定义播放列表
 
@@ -36,14 +38,14 @@ ms.locfileid: "51999828"
 2. 若要向播放列表添加新资产，请单击"**新建资产"。** 
 3. 输入标题。 在此示例中，输入"将资产添加到播放列表"，然后单击"**创建资产页面"。**
 
-![cg-addassetcreatenewpage.png](media/cg-addassetcreatenewpage.png)
+   ![窗口高高显示"创建资产页"按钮。](media/cg-addassetcreatenewpage.png)
 
 4. 单击 **"打开页面"。**
 5. 单击" **编辑"** 图标，然后单击" **标题"区域中的** "编辑 Web 部件"。
 6. 在 **"布局"** 下，单击"**普通"。** 
 7. 添加新的一列部分，然后将一些示例文本添加到页面，如下所示。 
 
-![cg-addassetcreatenewpageedit.png](media/cg-addassetcreatenewpageedit.png)
+   !["添加资源"对话框。](media/cg-addassetcreatenewpageedit.png)
 
 7. 单击“**发布**”。
 8. 返回到" **自定义学习管理"** 页。 
@@ -56,11 +58,11 @@ ms.locfileid: "51999828"
 2. 若要向播放列表添加新资产，请单击"**新建资产"。** 
 3. 输入标题。 在此例中，输入"自定义播放列表简介"，然后单击"**输入 URL"。** 
 
-![cg-newplaylistasseturl.png](media/cg-newplaylistasseturl.png)
+   ![包含要添加的新标题的播放列表资产对话框。](media/cg-newplaylistasseturl.png)
 
 4. 输入在上一个为自定义播放列表创建 SharePoint 页面部分中创建的 [SharePoint ](custom_createnewpage.md) 页面的 URL，然后填写其余字段，如下图所示。
 
-![cg-newplaylistassetdetails.png](media/cg-newplaylistassetdetails.png)
+   ![用于输入播放列表简介信息的表单。](media/cg-newplaylistassetdetails.png)
 
 5. 单击 **"保存资产"。** 
 
@@ -70,12 +72,12 @@ ms.locfileid: "51999828"
 
 - 在 **"搜索** "框中，输入搜索短语，然后从搜索结果中选择资源。 在此例中，输入"什么是 Excel？" 将 Excel 简介主题添加到播放列表。
 
-![cg-existplaylistassetsearch.png](media/cg-existplaylistassetsearch.png)
+!["新建资产"对话框。](media/cg-existplaylistassetsearch.png)
 
 ## <a name="edit-move-and-delete-assets"></a>编辑、移动和删除资源
 你可以编辑你创建的自定义资产，但不能编辑来自 Microsoft 的资产。 但是，你可以从播放列表中删除所有资产并更改订单资产。 
 
-![cg-playlistassetedit.png](media/cg-playlistassetedit.png)
+![包含用于删除或编辑项的选项的播放列表资产对话框。](media/cg-playlistassetedit.png)
 
 ### <a name="edit-an-asset"></a>编辑资产
 - 单击资产的"编辑"按钮，修改资产，然后单击"保存资产"。 
@@ -94,4 +96,4 @@ ms.locfileid: "51999828"
 3. 刷新页面，然后单击"开始使用 **"下的**"第 **一天"。**
 4. 单击 **"学习路径初学者工具包** "查看操作中的第一个播放列表。 
 
-![cg-addassetcheckwork.png](media/cg-addassetcheckwork.png)
+![示例简介页。](media/cg-addassetcheckwork.png)

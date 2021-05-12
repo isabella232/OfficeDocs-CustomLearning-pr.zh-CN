@@ -3,14 +3,16 @@ author: pkrebs
 ms.author: pkrebs
 title: 学习路径管理
 ms.date: 02/15/2019
+manager: bpardi
+ms.topic: how-to
 description: 如何从 Web 部件或菜单访问"自定义学习管理"页
 ms.service: sharepoint-online
-ms.openlocfilehash: b1cb8bf14d8b0daf884419fcbe30976ad821a89a
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 73ee8f07cd135ec575a50b82cd8d5650fd3c5a91
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999838"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334496"
 ---
 # <a name="access-the-learning-pathways-administration-page"></a>访问"学习路径管理"页
 
@@ -23,13 +25,13 @@ ms.locfileid: "51999838"
 从 Web 部件打开"管理"页是首选方法，因为它在新浏览器选项卡中打开页面。使用此方法，可以轻松在选项卡式页面之间来回翻转，以检查或修改您的工作。  
 
 1. 从 Microsoft 365 学习路径 **主页中** ，单击 **Office 365 培训** 磁贴。
-2. 单击 **Web 部件** 中的"管理"图标，如以下示例所示  
+2. 单击 **Web 部件** 中的"管理"图标，如以下示例所示。
 
-![cg-adminaccbtn.png](media/cg-adminaccbtn.png)
+![手形指针图标指向 Microsoft 365 培训窗口中的管理图标。](media/cg-adminaccbtn.png)
 
 ## <a name="access-from-the-home-menu-item"></a>从"开始"菜单项访问
 管理员可以从"SharePoint 主页"菜单项访问"管理"页，而不是导航到包含 Web 部件的页面。 
 
 - 在 Microsoft 365 学习路径主页中，单击"主页 **"菜单，** 然后单击 **"Microsoft 学习管理"。**
 
-![cg-adminaccmenu.png](media/cg-adminaccmenu.png)
+![管理选项中的手形指针图标点。](media/cg-adminaccmenu.png)

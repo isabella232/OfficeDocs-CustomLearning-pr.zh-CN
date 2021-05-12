@@ -1,19 +1,20 @@
 ---
-title: 冠军计划最佳做法
-description: 通过我们的冠军计划最佳做法推动采用 Office 365
+title: 冠军计划最佳做法：建立用户采用冠军
+description: 我们的冠军计划最佳做法有助于推动 Office 365 的采用。
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 2eab242302ed952141a256f3c9c1e6265044bf8f
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 691b6535be07028bb02d6340cdfddeba841274a2
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999928"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334586"
 ---
-# <a name="establish-champions-for-user-adoption"></a>建立用户采用冠军 
+# <a name="champion-program-best-practices-establish-champions-for-user-adoption"></a>冠军计划最佳做法：建立用户采用冠军
 
 组织变更管理是更改一组目标人员行为的艺术。 有许多科学与研究支持此做法。 在这些文章中，我们将帮助你推动采用关键服务，这将在公司中产生业务成果。  遵循我们的最佳实践将缩短从 Office 365 获取可衡量价值的时间。  
 
@@ -24,7 +25,7 @@ ms.locfileid: "51999928"
 
 ## <a name="who-are-champions-and-what-makes-them-tick"></a>谁是冠军，是什么让他们做答？
 
-冠军不仅关心他们执行哪些工作，还很高兴分享他们的知识和帮助同事了解更有效的解决方案。 冠军是一个失败者，并且经常对现有工具感到沮丧。 他们将帮助你赢得水力挑战！  
+冠军不仅关心他们执行哪些工作，还很高兴分享他们的知识和帮助同事了解更有效的解决方案。 冠军是一个失败者，并且经常对现有工具感到沮丧。 他们将帮助你赢得水光挑战！  
 
 我们认为以有意义的方式奖励冠军非常重要。 建议包括：
 
@@ -44,7 +45,7 @@ ms.locfileid: "51999928"
 
 冠军将有助于减少核心项目团队的资源压力，并帮助推动整个社区的参与。 他们还将：
 
-1. 创造一种积极性，促进改进的工作方式的采用
+1. 创建一个发展采用改进的几种工作方式的"基础井井"积极性
 1. 在团队中建立影响圈
 1. 在团队中引入新的工作方式
 1. 确定业务挑战和可能的解决方案

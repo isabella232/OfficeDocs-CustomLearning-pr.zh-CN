@@ -1,27 +1,28 @@
 ---
 title: 冠军计划最佳做法 - 服务采用专家
-description: 通过我们的冠军计划最佳做法推动采用 Office 365
+description: 使用冠军计划最佳做法推动 Office 365 采用。
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: de32dc1303006f94f75886df24ab21a54bca4c2b
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 172a2833ded215384f38bd788589ddc0331da613
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52000018"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334626"
 ---
 # <a name="validate-your-skills---become-a-service-adoption-specialist"></a>验证你的技能 - 成为服务采用专家
 
 ![服务采用专家课程](media/champs_sascourse.png)
 
-如果服务采用是角色的一部分，或者你想要深入学习有关本主题的正式培训，你可以注册由 Microsoft 在我们的合作伙伴网站上提供的联机课程，EdX.org。 
+如果服务采用是你角色的一部分，或者你想要深入学习本主题的正式培训，你可以注册由 Microsoft 在我们的合作伙伴网站上提供的联机课程，EdX.org。 
 
 本 [服务采用专家在线课程](/learn/paths/m365-service-adoption/)**可免费审核**。  如果你想要接收完成 EdX 证书，需要支付 99.00 美元的费用。  本课程由 Microsoft Teams 工程团队的 [Karuana Gatimu](https://linkedin.com/in/karuanagatimu) 创作，并来自多个 Microsoft MVP 和 Microsoft IT 专家的输入。  其中包含的最佳实践从整个行业观察中收集，并补充了正式的组织变更管理教育。  
 
-此课程包含实践指导、工具和其他内容，可让你验证这一重要业务功能中的许可证。  
+此课程包含实践指导、工具和附加内容，可让你验证此重要业务能力的技能。  
 
 有关发布此 [课程](https://aka.ms/AdoptionCertAnnouncement) 的公告，请了解更多信息。 
 

@@ -1,17 +1,18 @@
 ---
 title: 冠军计划最佳做法 - 实际指南
-description: 通过我们的冠军计划最佳做法推动采用 Office 365
+description: 你的欧洲冠军计划Microsoft 365指南。
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
+manager: alexb
 ms.service: sharepoint-online
-ms.openlocfilehash: cb36c3685d0e561441970ca0bcf09ccedab3df39
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: c96d9d875ace3f8da147a44a8562556d8557bede
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999878"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334576"
 ---
 # <a name="real-world-guidance-for-your-champions-program"></a>冠军计划的实际指南
 
