@@ -1,6 +1,19 @@
 ---
-author： pkrebs ms.author： pkrebs title： Learning pathways Feature Updates ms.date： 4/13/2021 description： Learning pathways Feature Updates ms.service： sharepoint-online manager： bpardi ms.topic： article
-
+author: pkrebs
+ms.author: pkrebs
+title: 学习路径功能更新
+ms.date: 4/13/2021
+description: 学习路径功能更新
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: ee166cd113acd969efcf0fdec6626a1d6b00ec29
+ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52575957"
+---
 # <a name="learning-pathways-version-40-feature-updates"></a>学习路径版本 4.0 功能更新
 以下内容包括学习路径版本 4.0 的功能更新。  
 
