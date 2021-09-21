@@ -1,18 +1,18 @@
 ---
 title: 冠军计划最佳做法 - Microsoft 365最终用户采用指南
-description: 通过我们的Office 365计划最佳做法和最终用户采用指南推动Microsoft 365采用。
+description: 通过支持Office 365计划最佳做法推动企业采用
 author: karuanag
 ms.author: karuanag
 manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 6e62361e9aa4328e06844747f1bbbcab5cca1596
-ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
+ms.openlocfilehash: 8553c5c97c42d8709f8da87efed8bb4ec2fc418a
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52334596"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59460910"
 ---
 # <a name="microsoft-365-end-user-adoption-guide"></a>Microsoft 365最终用户采用指南
 

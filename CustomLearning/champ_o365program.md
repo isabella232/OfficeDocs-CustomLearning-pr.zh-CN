@@ -1,24 +1,24 @@
 ---
-title: 冠军计划最佳做法 - 加入 Office 365 冠军计划
-description: Microsoft 365 的冠军计划最佳做法。
+title: 冠军计划最佳做法 - 加入Office 365冠军计划
+description: 通过支持Office 365计划最佳做法推动企业采用
 author: karuanag
 ms.author: karuanag
 manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: efe0d9305c87141a6550dc5a3c785a5d38beef39
-ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
+ms.openlocfilehash: 2fcf5844e4db5c312bba545baa4fc22deb27d370
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52334486"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59460890"
 ---
-# <a name="office-365-champions-program"></a>Office 365 冠军计划 
+# <a name="office-365-champions-program"></a>Office 365冠军计划 
 
 ![成为一名冠军](media/makeadifference.png)
 
-Microsoft 提供了免费的 Office 365 冠军计划，以支持全球的冠军角色。  此计划提供在线社区、每月社区通话和内容，促进 Office 365 中各种服务的采用。
+Microsoft 提供了免费Office 365冠军计划，以支持全球的冠军角色。  此计划提供在线社区、每月社区通话和内容，促进跨 Office 365。
 
 此计划对所有人开放。  我们建议，在组织中运行冠军计划的人至少成为成员，以访问可在自己的计划内利用的冠军培训材料。 
 

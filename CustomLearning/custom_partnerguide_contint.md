@@ -8,40 +8,40 @@ ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
 audience: admin
-ms.openlocfilehash: a91cdf4ee6aa3bbc22033dd484605ea5405b3c4c
-ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
+ms.openlocfilehash: f57e7e2bbab49fc05daef27a0364281f7158cb0e
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52575987"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59461181"
 ---
 # <a name="partner-integration-models"></a>合作伙伴集成模型
-虽然无法直接从 SharePoint Online 预配服务"开箱即用"补充 Microsoft 365 学习路径内容，但合作伙伴可以利用多种集成模型来创建一致的增值服务产品。 以上合作伙伴集成模型按复杂性和投资级别的升序呈现。 因此，我们的指南是基于你的业务模型构建你的专长并培养到更高级的级别。
+虽然无法直接从 SharePoint Online Provisioning 服务"开箱即用"补充 Microsoft 365 学习路径内容，但合作伙伴可以利用多种集成模型来创建一致的增值服务产品。 以上合作伙伴集成模型按复杂性和投资级别的升序呈现。 因此，我们的指南是基于你的业务模型构建你的专长并培养到更高级的级别。
 
-![Flow显示启用者、集成商和重新分析者的角色。](media/cg-part-intmodel.png)
+![集成模型](media/cg-part-intmodel.png) 
 
 ## <a name="how-should-i-get-started"></a>如何开始使用？ 
 To get started， here are some best practices to follow.     
 
 ### <a name="1-begin-with-building-expertise-as-an-enabler"></a>1. 首先构建作为启用者的专业知识。 
-通过启用他们学习路径培训门户并执行有针对性的 Microsoft 内容库，你可以帮助一定比例的客户。 有关设置学习路径的说明，请参阅 [预配新的学习路径解决方案](/office365/customlearning/custom_provision)。  
+通过启用他们学习路径培训门户并执行有针对性的 Microsoft 内容管理，你可以帮助一定比例的客户群体。 有关设置学习路径的说明，请参阅 [预配新的学习路径解决方案](/office365/customlearning/custom_provision)。  
 
 ### <a name="2-then-extend-your-services-as-an-integrator"></a>2. 然后将服务扩展为集成商
-执行投资分析的自动化返回 - 具体取决于内容和/或服务集成需求的数量。 例如，如果你可以快速手动创建指向付费内容的目标自定义播放列表 () 或引用你的服务，那么根据我们的内容集成指南，承担开发和运营成本可能没有意义。
+执行投资分析的自动化返回 - 具体取决于内容和/或服务集成需求的数量。 例如，如果你可以快速手动创建指向付费内容或引用服务的目标自定义播放列表 () ，那么根据我们的内容集成指南，承担开发和运营成本可能没有意义。
 
 ### <a name="3-when-the-return-on-investment-makes-sense--consider-redistribution"></a>3. 当投资回报有意义时 – 考虑重新分发 
-当投资回报有意义时 – 考虑重新分发 (或与合作伙伴合作，) 重新打包的解决方案。 这些基于 SharePoint 模式和做法框架，该框架提供用于提取自定义网站然后部署到客户环境的解决方案 
+当投资回报有意义时 – 考虑重新分发 (或与合作伙伴合作构建重新打包) 解决方案。 这些基于 SharePoint 模式和做法框架，该框架提供用于提取自定义网站然后部署到客户环境的解决方案 
 
 ## <a name="partner-provided-content-integration-guidelines"></a>合作伙伴提供的内容集成指南
-学习Microsoft 365路径的内容由一组 JSON 文件驱动，这些文件充当学习包的内容清单。 有三个文件：打开metadata.js打开playlists.js打开，assets.js打开。 这些文件需要结构化以匹配 Web 部件识别的模型，然后从内容交付网络 (CDN) 以允许 Web 部件加载它们。 Microsoft 将提供这些文件的起始模板，以便你入门。  
+学习Microsoft 365路径的内容由一组 JSON 文件驱动，这些文件充当学习包的内容清单。 有三个文件：metadata.json、playlists.json 和 assets.json。 这些文件需要结构化以匹配 Web 部件识别的模型，然后从内容交付网络 (CDN) 以允许 Web 部件加载它们。 Microsoft 将提供这些文件的起始模板，以便你入门。  
 
-**免责声明：JSON** 文件结构可能会根据即将推出的解决方案工作发生变化。 学习Microsoft 365 EAP 早期采用者计划 (EAP) 将告知他们此特性即将发生的任何变化。 以及任何客户向后兼容性和/或转换指南。 
+**免责声明：JSON** 文件结构可能会根据即将推出的解决方案工作发生变化。 学习Microsoft 365早期采用者计划 (EAP) 将告知他们此特性的任何即将发生的更改。 以及任何客户向后兼容性和/或转换指南。 
 
 ### <a name="download-the-microsoft-365-learning-pathways-solution"></a>下载Microsoft 365路径解决方案
 你可以从Microsoft 365下载学习路径解决方案以及 J GitHub SON 文件 https://github.com/pnp/custom-learning-office-365 ：。 请注意，目前，Microsoft 不会GitHub拉取请求。 但是，您可以使用GitHub文件作为起点来创建自己的自定义内容包。 
 
-### <a name="metadatajson-structure"></a>Metadata.js结构
-你可以将此文件视为菜单和结构的一部分。 它包含所有导航结构以及选取其他两个文件中数据的列表。 
+### <a name="metadatajson-structure"></a>Metadata.json 结构
+你可以将此文件视为菜单和结构的一部分。 它包含所有导航结构，以及选取其他两个文件中数据的列表。 
 
 
 |              名称        |                     说明                                                               | 
@@ -56,14 +56,14 @@ To get started， here are some best practices to follow.
 |&nbsp;&nbsp;Id                |表示类别/子类别的 GUID                                                 |
 |&nbsp;&nbsp;名称              |类别/子类别的显示名称                                                  |
 |&nbsp;&nbsp;图像             |应显示在 UX 中的图像的 URL (相对于 CDN 基本)             |
-|&nbsp;&nbsp;TechnologyId      |此内容的技术的 GUID 与可选 (- 空字符串)             |
+|&nbsp;&nbsp;TechnologyId      |此内容的技术 GUID 与可选 (- 空字符串)             |
 |&nbsp;&nbsp;SubjectId         |此内容的主题的 GUID 与可选 (- 空字符串)                |
 |&nbsp;&nbsp;Source            |从源数组中，除了用户添加的自定义数据外，未在 UX 中专门使用的数据被标记为"租户"，并且 UX 管理区域不允许编辑任何未标记为"租户"的项。                           |
 |&nbsp;&nbsp;*子类别[ ]*|Sub-Categories级别 2 以下的导航级别。 该结构与刚刚嵌套的 Category 相同。          |
 |**访问群体 [ ]**             |当与类别/子类别关联的播放列表标记了各种受众时，将可以使用选择器来显示可用受众。 |         
 |&nbsp;&nbsp;Id                |访问群体 GUID                                                                       |  
 |&nbsp;&nbsp;名称              |访问群体显示名称                                                               |       
-|**Sources [ ]**               |使用源标记内容的字符串数组，除了用户添加的自定义数据外，未在 UX 中专门使用，这些字符串被标记为"租户"，并且 UX 管理区域不允许编辑任何未标记为"租户"的内容。                                                   |  
+|**Sources [ ]**               |使用源标记内容的字符串数组（不是在用户添加的自定义数据外专门用于 UX 中）被标记为"租户"，并且 UX 管理区域不允许编辑任何未标记为"租户"的内容。                                                   |  
 |**Levels [ ]**               |当与类别/子类别关联的播放列表具有各种级别的标记时，将显示可用级别的选择器。             |  
 |&nbsp;&nbsp;Id                |级别的 GUID                                                                          |  
 |&nbsp;&nbsp;名称              |Level 的显示名称                                                                  | 
@@ -71,7 +71,7 @@ To get started， here are some best practices to follow.
 |&nbsp;&nbsp;Id                |StatugTag 的 GUID                                                                      |  
 |&nbsp;&nbsp;名称              |StatusTag 的显示名称                                                              | 
 |**遥测 [ ]**            |                                                                                           |  
-|&nbsp;&nbsp;AppInsightsKey    |已设置为跟踪查看器 Web 部件加载的应用见解密钥的 GUID。 管理员可以关闭整个租户的跟踪，但发送的信息是具有租户 ID 的匿名用户。有关详细信息，请参阅本部分 https://github.com/pnp/custom-learning-office-365#disabling-telemetry-collection               |  
+|&nbsp;&nbsp;AppInsightsKey    |已设置以跟踪查看器 Web 部件加载的应用见解密钥的 GUID。 管理员可以关闭整个租户的跟踪，但发送的信息是具有租户 ID 的匿名用户。有关详细信息，请参阅本部分 https://github.com/pnp/custom-learning-office-365#disabling-telemetry-collection               |  
 |**版本**                   |解决方案使用版本信息向管理员指示 Web 部件已更新，还允许 Web 部件自行将自定义内容更新到清单的最新版本（如果进行了重大更改）。         | 
 |&nbsp;&nbsp;清单          |清单的版本                                               |
 |&nbsp;&nbsp;ManifestMinWebPart|与清单版本一起工作的 Web 部件的最低版本             |
@@ -79,15 +79,15 @@ To get started， here are some best practices to follow.
 |&nbsp;&nbsp;RepoURL           |更新 Web 部件说明的存储库 URL。                    |
 |**内容包**             |目前不支持适用于其他CDN的内容包。 内容包允许 Microsoft 建议其他 Microsoft 创建的解决方案，这些解决方案可通过预配服务进行设置，该预配服务利用 M365LP 提供内容，并且它们本身是自定义 CDN。       | 
 |&nbsp;&nbsp;Id                |内容包/包的 GUID CDN                                                              |
-|&nbsp;&nbsp;名称              |显示名称CDN                                                                   |
+|&nbsp;&nbsp;名称              |视图的显示CDN                                                                   |
 |&nbsp;&nbsp;说明       |要显示在 UI 中用于添加内容包的说明                               |
 |&nbsp;&nbsp;图像             |要显示在 UI 中以添加内容包的图像                                     |
 |&nbsp;&nbsp;ProvisionURL      |用于创建内容包的网站集的预配服务包的 URL  |
 |&nbsp;&nbsp;CDNbase           |内容包清单的基 URL                                       |
-|AssetOrigins                  |在稍后介绍的 on 文件上assets.jsURL 源的数组。 如果源 URL 支持，则向用户发送一条help_getClientHeight。 data 属性中"help_getClientHeight={height of content}"的响应 (例如"help_getClientHeight=5769") 将允许 iFrame 调整为框架内容的适当高度。         |
+|AssetOrigins                  |在稍后介绍的 assets.json 文件中利用的 URL 源数组。 如果源 URL 支持，则向用户发送一条help_getClientHeight。 data 属性中"help_getClientHeight={height of content}"的响应 (例如"help_getClientHeight=5769") 将允许 iFrame 调整为框架内容的适当高度。         |
 
-### <a name="playlistsjson-structure"></a>Playlists.js结构
-playlists.js- 播放列表清单是一组对象，用于描述播放列表的元数据和播放列表中包含的资产。
+### <a name="playlistsjson-structure"></a>Playlists.json 结构
+playlists.json – 播放列表清单是一组对象，用于描述播放列表的元数据和播放列表中包含的资产。
 
 |              名称        |                     说明                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
@@ -105,8 +105,8 @@ playlists.js- 播放列表清单是一组对象，用于描述播放列表的元
 |StatusNote                    |有关向管理员显示的内容的注释                                            |
 |*Assets[]*                        |此播放列表中资产的 GUID 数组，按显示顺序显示。        |         
 
-### <a name="assetjson-structure"></a>Asset.js结构
-playlists.js- 播放列表清单是一组对象，用于描述播放列表的元数据和播放列表中包含的资产。
+### <a name="assetjson-structure"></a>Asset.json 结构
+playlists.json – 播放列表清单是一组对象，用于描述播放列表的元数据和播放列表中包含的资产。
 
 |              名称        |                     说明                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
@@ -125,7 +125,7 @@ playlists.js- 播放列表清单是一组对象，用于描述播放列表的元
 
 ## <a name="content-pack-guidelines"></a>内容包指南
 内容包功能可解锁以下方案：
-- 合作伙伴能够重新分发针对客户环境定制的增值自定义学习内容
+- 合作伙伴重新分发专为客户环境定制的增值自定义学习内容的能力
 - 具有强大培训团队和 IT 支持的组织构建面向自身内部系统和治理的自定义学习内容的能力
 - Microsoft 在未来提供客户可以选择加入的其他学习路径的能力
 
@@ -136,11 +136,11 @@ Microsoft 利用GitHub页面作为内容分发网络 (CDN) 清单文件和图像
 
 如果你选择使用自己的内容包扩展学习路径解决方案，则保持与 Microsoft 相同的版本控制结构非常重要。 你的 CDN 终结点不应包含版本文件夹，因为 Web 部件支持的清单版本已放入其中，并自动追加到 CDN url。 我们显然将给你一些时间，每次我们修订清单文件时创建清单文件的新实例。
 
-![屏幕截图显示了示例结构。](media/cg-part-json-folder.png) 
+![json 文件夹](media/cg-part-json-folder.png) 
 
 有关将页面用作GitHub源CDN请参阅以下帮助文档： [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) 。
 
-Microsoft 的解决方案公开有关资产的信息，因为对于谁有权访问这些文件没有任何安全性。 我们认为，应该为消费者提供一个免费的内容层，也就是说，如果你需要支付部分或所有内容费用，则需要在解决方案的技术限制内以不同方式实现此要求，并且使用 GitHub 页面不是一项要求。 如果你CDN我们列出的版本编号结构，则任何希望使用的提供程序都正常。 如前所述，Web 部件支持的清单结构版本将融入代码中，并自动追加到 CDN URL。 
+Microsoft 的解决方案公开有关资产的信息，因为对于谁有权访问这些文件没有任何安全性。 我们认为，应为消费者提供一个免费的内容层，也就是说，如果你需要支付部分或所有内容费用，则需要在解决方案的技术限制内以不同方式实现此要求，并且使用 GitHub 页面不是要求。 如果你CDN我们列出的版本编号结构，则任何希望使用的提供程序都正常。 如前所述，Web 部件支持的清单结构版本将融入代码中，并自动追加到 CDN URL。 
 
 ### <a name="content-pack-integration-guidance"></a>内容包集成指南 
 管理员和查看器 Web 部件已扩展，以允许使用者在租户中配置其他 CDN 终结点，然后允许查看器 Web 部件选择CDN应源显示的数据。 
@@ -151,21 +151,21 @@ Microsoft 的解决方案公开有关资产的信息，因为对于谁有权访�
 
 > **重要** 在添加自定义内容包之前，你必须已Microsoft 365 3.0 或更高版本的学习路径。 有关设置学习路径Microsoft 365，请参阅预配Microsoft 365[路径](./custom_provision.md)。
 
-### <a name="content-whitelisting"></a>内容白名单
-作为合作伙伴，你有责任帮助消费者确保你的内容已列入其环境中白名单。 我们建议你在你的环境中创建一个测试方案，以验证你的内容是否可位于其防火墙SharePoint的 iFrame 中。 按照[创建自定义播放列表SharePoint页面](./custom_createnewpage.md)的说明确认这是这种情况。
+### <a name="content-reliability"></a>内容可靠性
+作为合作伙伴，你有责任帮助消费者确保内容在你的环境中可靠呈现。 我们建议你在你的环境中创建一个测试方案，以验证你的内容是否可位于其防火墙SharePoint的 iFrame 中。 按照[创建自定义播放列表SharePoint页面](custom_createnewpage.md)的说明确认这是这种情况。
 
-### <a name="add-a-content-pack-to-learning-pathways"></a>将内容包添加到学习路径
+### <a name="add-a-content-pack-to-learning-pathways"></a>将内容包添加到Learning路径
 创建修改 JSON 并定义你的CDN后，你可以添加联系人包以学习路径。 
 
-1. 从学习路径网站 **主页中**，指向"主页 **"，然后单击**"**学习路径管理"。** 
+1. 从学习路径网站 **主页中**，指向"主页"，然后单击 **"Learning路径管理"。**  
 2. 在" **管理"** 页中，单击 **...在页面** 右上角添加内容包。
 3. 单击"自定义内容包"，然后输入内容包的名称，然后CDN JSON 文件所在的位置。
 
-   ![输入名称和路径的屏幕。](media/cg-part-addconpack.png)
+![添加内容包](media/cg-part-addconpack.png)
 
 4. 单击“**保存**”。 自定义内容包中的内容现在应显示在"管理"页中。 下面是一个示例。 
 
-   ![管理页示例。](media/cg-part-addconpackex.png)
+![添加内容包示例](media/cg-part-addconpackex.png)
 
 ### <a name="filter-to-the-content-pack-in-the-web-part"></a>筛选到 Web 部件中的内容包
 借助学习路径，你可以将学习路径 Web 部件添加到页面，筛选 Web 部件以指向自定义内容包源，然后将 Web 部件筛选为你需要的类别、子类别、播放列表和资产。 
@@ -176,6 +176,10 @@ Microsoft 的解决方案公开有关资产的信息，因为对于谁有权访�
 4. 单击 **页面左侧的" +** 添加新节"。
 5. 单击 **+** 新部分的顶部中间，然后添加Microsoft 365 **路径** Web 部件。
 6. 单击 Web 部件，然后单击"编辑 **"** 图标。
-7. 在 **"选择学习源** "框中，选择自定义内容包，然后将 Web 部件筛选为您想要的内容。 下面提供了从自定义内容包筛选到播放列表的 Web 部件示例。
+7. 在 **"选择Learning源**"框中，选择您的自定义内容包，然后将 Web 部件筛选为您想要的内容。 下面提供了从自定义内容包筛选到播放列表的 Web 部件示例。
 
-   ![从自定义内容包中筛选到播放列表的示例 Web 部件屏幕截图。](media/cg-part-conpackfilter.png)
+![内容包筛选器](media/cg-part-conpackfilter.png)  
+
+
+
+

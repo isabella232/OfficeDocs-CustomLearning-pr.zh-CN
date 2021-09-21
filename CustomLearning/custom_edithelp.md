@@ -7,14 +7,14 @@ description: 了解通过学习路径Microsoft 365各种自定义
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: b892605f5200983c74132f73fe48e2746d2e6b08
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: a9d95faa6eb0cd3f7bf002d707aba1e83b9a7656
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310626"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59461090"
 ---
-# <a name="customize-the-site"></a>自定义网站
+# <a name="customize-the-learning-pathways-site"></a>自定义学习路径网站
 
 学习Microsoft 365路径网站基于一个SharePoint模板，因此很容易修改网站以满足组织的需求。 您可以更改页面上的网站名称、徽标、菜单项和内容。 
 
@@ -23,7 +23,7 @@ ms.locfileid: "52310626"
 
 ## <a name="customize-the-site-and-web-pages"></a>自定义网站和网页
 
-学习路径网站可完全自定义。 如果您不熟悉如何自定义网站或SharePoint，我们建议您查看 SharePoint[上的自定义](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b)网站 support.office.com。 
+学习路径网站可完全自定义。 如果您不熟悉如何自定义网站或SharePoint，我们建议您查看 support.office.com 上的自定义 SharePoint[网站](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b)文章。 
 
 ### <a name="customize-ask-questions-and-get-help"></a>自定义"询问问题"并获取帮助
 
@@ -33,7 +33,7 @@ ms.locfileid: "52310626"
 2.  Click the **Edit** button.
 3.  将鼠标悬停在"帮助"选项图像上，然后单击"**编辑 Web 部件"。**
 
-![cg-edithelp.png](media/cg-edithelp.png)
+![编辑帮助内容](media/cg-edithelp.png)
 
 4.  在 **"链接** "框中，输入内部资源的 URL。 
 5.  对其他两个未链接的图像重复步骤 3 和步骤 4。
