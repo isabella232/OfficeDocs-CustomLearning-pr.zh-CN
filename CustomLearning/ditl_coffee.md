@@ -1,18 +1,18 @@
 ---
 title: 与她一起Office 365一天 - 上午咖啡
-description: 为日常准备的快速步骤与Office 365
+description: 准备一天中与会议一起执行Office 365
 author: karuanag
 ms.author: karuanag
 manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 3ca4bda9117df25080c97d35ffb73ee4c13c86db
-ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
+ms.openlocfilehash: 7b2a2b0afd242a62cbd064fa4cd1dfdcacdd2aad
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52575937"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485553"
 ---
 # <a name="during-morning-coffee"></a>上午咖啡期间
 
