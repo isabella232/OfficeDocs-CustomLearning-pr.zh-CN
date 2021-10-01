@@ -7,12 +7,12 @@ ms.date: 02/10/2019
 description: 有关学习路径的Microsoft 365常见问题信息
 ms.service: sharepoint-online
 ms.topic: article
-ms.openlocfilehash: 30d626416992ef5930563b9001ef1c8b773b949c
-ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
+ms.openlocfilehash: 82a7e777490e13fde6fef5add40beee417050027
+ms.sourcegitcommit: d05381fc4a58cf2949773d73877bacc5ef3a7ca6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "59485523"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60048719"
 ---
 # <a name="frequently-asked-questions"></a>常见问题解答
 
@@ -20,15 +20,14 @@ ms.locfileid: "59485523"
 
 - 启用了 SharePoint Online 和通信网站。
 - 要预配学习路径Microsoft 365必须是要安装的目标租户的租户管理员。
-- 租户"应用程序目录"必须在管理中心的"应用程序"选项SharePoint可用。
-- 如果创建了新的应用程序目录，则完全设置应用程序目录需要 30 分钟或更多的等待时间。 尝试在创建Microsoft 365应用程序目录后直接预配学习路径将导致学习路径解决方案设置错误。
+- 租户"应用程序目录"必须在管理中心的"应用程序"SharePoint可用。
+- 如果创建了新的应用程序目录，则完全设置应用程序目录需要 30 分钟或更多的等待时间。 尝试在创建Microsoft 365应用程序目录后直接预配学习路径将导致学习路径解决方案的预配错误。
 - 要预配学习路径Microsoft 365必须是目标租户中应用程序目录的网站集管理员才能安装。
 
 ## <a name="why-is-microsoft-asking-for-tenant-permissions-when-installing-microsoft-365-learning-pathways"></a>为什么 Microsoft 在安装学习路径时Microsoft 365租户权限？
 
 SharePoint Online Provisioning Service 使用权限预配 Learning 路径 SharePoint 网站、创建网站页面，以及在其租户中安装 Microsoft 365 学习路径应用程序。 这是请求权限的唯一原因。 如果没有请求的权限，SharePoint服务将无法执行自动安装学习路径网站模板和 Web 部件的命令。
-
-如果对此级别的访问权限仍有顾虑，可以授予权限并部署感兴趣的任何网站模板，然后立即删除 Azure 应用商店中向应用授予 [的权限](https://myapps.microsoft.com)。
+![权限请求的屏幕截图](media/faqs-permissions-request-screenshot.png "权限请求") 如果对此级别的访问权限仍有顾虑，可以授予权限并部署感兴趣的任何网站模板，然后立即删除 Azure 应用商店中向应用授予 [的权限](https://myapps.microsoft.com)。
 
 ## <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>在租户环境中安装网站需要多久？
 
@@ -36,7 +35,7 @@ SharePoint Online Provisioning Service 使用权限预配 Learning 路径 ShareP
 
 ## <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Microsoft 365学习路径是开放源代码解决方案吗？
 
-Microsoft 365学习路径是 OSS (解决方案中的 (软件，因此，OS) S 具有一组优点和注意事项：
+Microsoft 365学习路径是 OSS (解决方案) 开源软件，因此，OSS 具有一组优点和注意事项：
 
 ### <a name="benefits"></a>优点 
 
@@ -46,10 +45,10 @@ Microsoft 365学习路径是 OSS (解决方案中的 (软件，因此，OS) S �
 
 ### <a name="implications"></a>含义
 
-- **OSS 不是商业提供的产品：** 商业产品包括更新和修补，包括在基于费用的支持合同内。 虽然 Microsoft 目前提供文档、更新和修补Microsoft 365学习路径，但它基于我们对改进此特定业务方案的承诺。 尽管我们的计划将继续投资学习路径，但请注意，我们的服务管理团队将来可能会更改策略。 对学习Microsoft 365的任何未来更改都将在生效之前告知。
-- **作为 OSS，Microsoft 365 GitHub** 上的联机问题列表支持学习路径：Microsoft 365任何现有 Microsoft 支持合同都未涵盖这些学习路径。 提交的问题由Microsoft 365服务所有者和社区进行会审。 问题解决服务级别与付费 Microsoft 支持合同不在同一级别。  
+- **OSS 不是商业提供的产品：** 商业产品包括更新和修补，包括在基于费用的支持合同内。 虽然 Microsoft 目前提供文档、更新和修补Microsoft 365学习路径，但它基于我们对改进此特定业务方案的承诺。 尽管我们的计划将继续投资学习路径，但请注意，我们的服务管理团队将来可能会更改策略。 在生效之前Microsoft 365对学习路径的任何未来更改都会得到传达。
+- **作为 OSS，Microsoft 365 GitHub** 上的联机问题列表支持这些学习路径：Microsoft 365任何现有 Microsoft 支持合同都未涵盖这些学习路径。 提交的问题由服务Microsoft 365和社区按学习路径分类。 问题解决服务级别与付费 Microsoft 支持合同不在同一级别。  
 
-### <a name="can-we-make-the-microsoft-365-learning-pathways-a-sub-site-of-our-primary-sharepoint-site-collection"></a>我们能否将Microsoft 365路径作为我们主要网站集的子SharePoint路径？
+### <a name="can-we-make-the-microsoft-365-learning-pathways-a-sub-site-of-our-primary-sharepoint-site-collection"></a>我们能否将Microsoft 365路径作为主网站集的子SharePoint网站？
 
 不需要。 该网站基于通信网站模板，该模板始终是根网站集。
 

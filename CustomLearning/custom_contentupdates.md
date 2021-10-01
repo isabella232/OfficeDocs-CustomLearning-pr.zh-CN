@@ -2,21 +2,212 @@
 author: pkrebs
 ms.author: pkrebs
 manager: bpardi
-title: 学习路径内容更新
+title: Learning路径内容更新
 ms.date: 5/19/2021
 ms.topic: article
-description: 学习路径内容更新
+description: Learning路径内容更新
 ms.service: o365-solutions
 audience: itpro
-ms.openlocfilehash: 84d166c96ac24a04e24fe4a9b88f2942cc7752c8
-ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
+ms.openlocfilehash: adb3c7d6f8faa7562a085e1bb21ec70cb2c4fffd
+ms.sourcegitcommit: d05381fc4a58cf2949773d73877bacc5ef3a7ca6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52575977"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60048655"
 ---
-# <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365学习路径内容更新
-学习路径努力遵守每季度内容更新周期。 若要了解有关如何应用内容更新以及如何管理内容更新的信息，请参阅管理 [内容更新](custom_contentupdatesmanage.md)。  
+# <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Learning路径内容更新
+Learning路径努力遵守季度内容更新周期。 若要了解有关如何应用内容更新以及如何管理内容更新的信息，请参阅管理 [内容更新](custom_contentupdatesmanage.md)。  
+
+## <a name="september-2021-content-updates"></a>2021 年 9 月内容更新
+下面列出了 2021 年 9 月的内容更新。
+
+### <a name="microsoft-edge"></a>Microsoft Edge
+已Microsoft Edge三个新播放列表添加一个子类别。
+
+#### <a name="get-started-new"></a>新 (入门) 
+- 了解新Microsoft Edge () 
+- 将网站添加到我的收藏夹Microsoft Edge (新) 
+- 在新建网站中查找设置/Microsoft Edge (/) 
+- 将默认搜索引擎更改为 (新) 
+- Microsoft Edge (中的辅助功能) 
+- 登录以跨设备Microsoft Edge新 (同步) 
+
+#### <a name="personalize-new"></a>个性化 (新) 
+- 更改浏览器主页以 (浏览器) 
+- 在新建服务中查找、添加Microsoft Edge (扩展) 
+- 在新建主题中Microsoft Edge (深色) 
+- 使用Microsoft Edge语言的语言 (新) 
+- 增加默认文本大小（以Microsoft Edge (格式) 
+
+#### <a name="privacy-new"></a>隐私 (新) 
+- 配置隐私设置，以便它们适合你 (新) 
+- 了解跟踪防护 (新) 
+- 浏览 InPrivate (新) 
+- 查看和删除新Microsoft Edge (中的浏览器) 
+- 阻止新建Microsoft Edge (弹出窗口) 
+- 删除新Microsoft Edge (中的) 
+
+### <a name="collaboration-new"></a>协作 (新增) 
+协作子类别已添加一个新的播放列表。
+
+#### <a name="collaboration-new"></a>协作 (新增) 
+- 新 (入门) 
+- 共享 (新) 
+- 共同创作 (新) 
+- 新 (批注) 
+- 与 (一) 
+- 移动 (新增) 
+
+### <a name="teams"></a>Teams
+以下播放列表和资产已在学习路径Microsoft Teams中进行了更新。
+
+#### <a name="intro-to-microsoft-teams-updated"></a>更新Microsoft Teams (简介) 
+- 欢迎使用Microsoft Teams (视频) 
+
+#### <a name="manage-team-schedules-with-shifts-updated"></a>使用更新的班次 (管理团队) 
+- 什么是 Shifts？  (更新的视频) 
+- 创建班次计划 (更新的视频) 
+- 管理和查看班次计划 (更新的视频) 
+- 已停用 (经理的) 
+- 已停用一线 (轮班) 
+
+#### <a name="set-up-and-customize-your-team-updated"></a>设置和自定义已更新 (的团队) 
+- 使用团队模板创建新视频 (团队) 
+
+#### <a name="create-and-manage-bookings-updated"></a>创建和管理已更新 (预订) 
+- 什么是 Bookings？  (视频) 
+- 创建新视频 (Bookings 日历) 
+- 添加员工并查看 Bookings 日历 (视频) 
+- 创建新视频 (约会) 
+- 使用新视频 (预订约会) 
+- 作为与会者加入 Bookings 约会 (视频) 
+
+#### <a name="create-approvals"></a>创建审批
+- 使用包含新视频/新资产 (模板创建审批) 
+- 发现审批中的模板 (新视频/新资产) 
+- 创建新视频/新资产 (组织范围的模板) 
+
+#### <a name="start-chats-and-make-calls-updated"></a>启动聊天并 (聊天) 
+- 通过更新 (视频进行) 
+- 有关新Teams/ (的呼叫概述) 
+- 使用技巧新Teams/ (资源库的呼叫) 
+
+#### <a name="collaborate-in-teams-and-channels-updated"></a>在团队和频道中协作 (更新) 
+- 创建新视频 (/新资产库的频道) 
+- 在停用的文件 (一) 
+
+#### <a name="manage-meetings-updated"></a>管理更新 (会议) 
+- 在会议过程中显示屏幕 (更新的视频) 
+- 立即开会 (视频/新资产) 
+- 安排网络研讨会 (视频/新资产) 
+- 在停用的频道 (开会) 
+- 在停用Teams (会议期间) 
+
+#### <a name="upload-and-find-files-updated"></a>Upload并查找更新 (的文件) 
+- 查找并筛选已 (的文件) 
+
+#### <a name="start-chats-and-make-calls-updated"></a>启动聊天并 (聊天) 
+- 启动和固定聊天 (更新的视频) 
+
+#### <a name="work-with-posts-and-messages-updated"></a>使用更新后的帖子 (消息) 
+- 创建帖子并设置其 (更新的视频) 
+- 通过已停用@mentions (吸引) 
+
+#### <a name="explore-apps-and-tools-updated"></a>浏览更新的应用 (工具) 
+- 查找和使用应用 (更新的视频) 
+- 将文件转换为已停用 (选项卡) 
+- 使用已停用Teams (中的任务) 
+
+#### <a name="create-approvals"></a>创建审批
+- 发现审批和新视频 (中的) 
+
+#### <a name="walkie-talkie-retired"></a>Walkie Talkie (停用) 
+- Walkie Talkie (停用) 
+- 在停用的应用中Teams (任务) 
+- 已停用 (经理) 
+- 已停用的一线 (的任务) 
+- 通信和表扬 (停用) 
+
+### <a name="outlook"></a>Outlook
+以下播放列表和资产已在学习路径Outlook更新。
+
+#### <a name="create-and-send-email-updated"></a>创建并发送电子邮件 (更新) 
+- 创建、发送和回复电子邮件 (更新的视频) 
+- 发送和接收更新的视频 (附件) 
+
+#### <a name="manage-email-updated"></a>管理电子邮件 (更新) 
+- 清理收件箱 (更新的视频) 
+- 设置外出的自动答复 (更新)  (视频) 
+- 忽略更新的视频 (电子邮件) 
+
+#### <a name="organize-your-inbox-updated"></a>组织已更新 (收件箱) 
+- 通过使用文件夹组织电子邮件 (更新的视频) 
+
+### <a name="word"></a>Word
+以下播放列表和资产已在 Word 中更新为学习路径。
+
+#### <a name="lay-out-pages-updated"></a>已更新页面 (布局) 
+- 插入更新的视频 (目录) 
+- 在更新的视频 (插入页码) 
+- 更改更新 (视频的边距) 
+
+#### <a name="improve-accessibility-and-ease-of-use-updated"></a>通过更新版本， (辅助功能) 
+- Learning更新了 Word (中的) 
+
+### <a name="excel"></a>Excel
+以下播放列表和资产已在学习路径Excel更新。
+
+#### <a name="intro-to-excel-updated"></a>更新Excel (简介) 
+- 创建新的工作簿 (更新的视频) 
+
+#### <a name="share-and-coauthor-updated"></a>共享和共同作者 (更新) 
+- 与其他人共享Excel工作簿 (更新的视频) 
+- 保存或转换为 PDF (新的视频) 
+
+#### <a name="charts-updated"></a>已更新 (图表) 
+- 向图表添加趋势线或移动平均线 (更新的视频) 
+
+#### <a name="rows--columns-updated"></a>行&更新 (列) 
+- 选择更新的视频Excel (中的单元格) 
+
+#### <a name="formatting"></a>格式设置
+- 在更新的视频Excel (中添加水印) 
+
+### <a name="powerpoint"></a>PowerPoint
+以下播放列表和资产已在学习路径PowerPoint更新。
+
+#### <a name="intro-to-powerpoint"></a>PowerPoint
+- 添加已更新 (文本并设置) 
+
+#### <a name="share--co-author-updated"></a>共享&共同创作 (更新) 
+- 将PowerPoint保存为 PDF 文件 (更新的视频) 
+- 将演示文稿另存为视频 (更新的视频) 
+
+#### <a name="animation-video--audio-updated"></a>已更新&动画 (视频) 
+- 使用更新的视频 (动画显示文本或) 
+
+#### <a name="slide-and-layout-updated"></a>幻灯片和版式 (更新) 
+- 应用幻灯片版式 (更新的视频) 
+
+#### <a name="present-slide-shows-updated"></a>演示幻灯片放映 (更新) 
+- 将演讲者备注添加到幻灯片 (更新的视频) 
+
+#### <a name="pictures-and-graphics-updated"></a>图片和图形 (更新) 
+- 在更新的视频PowerPoint (中插入) 
+
+### <a name="microsoft-365-basics"></a>Microsoft 365 (基础知识) 
+以下播放列表和资产已在学习路径Microsoft 365 (基础知识) 更新。
+
+#### <a name="get-started-with-microsoft-365-updated"></a>已更新Microsoft 365 (入门) 
+- 从 Office.com 开始 (更新的视频) 
+- 登录 (视频) 
+- 将文件保存到已停用 (云) 
+
+#### <a name="create-and-save-updated"></a>创建并保存 (更新) 
+- 将文件保存到已停用 (云) 
+- 使用桌面应用更新 (视频) 
+- 在 Web 上 (新视频) 
+- 按需同步已停用OneDrive (文件) 
 
 ## <a name="may-2021-content-updates"></a>2021 年 5 月内容更新
 下面列出了 2021 年 5 月的内容更新。    
@@ -24,14 +215,14 @@ ms.locfileid: "52575977"
 ### <a name="yammer"></a>Yammer
 Yammer内容已更新。
 
-#### <a name="yammer-quick-start-updated"></a>Yammer快速启动 (更新) 
+#### <a name="yammer-quick-start-updated"></a>Yammer快速入门 (更新) 
 - 登录 - 使用新视频更新
 - 发现社区 - 使用新标题更新
 - 加入对话 – 更新的内容
 - 协作 – 已停用
 - 设置移动应用 - 无更改
 
-#### <a name="roll-out-a-successful-yammer-network-updated"></a>在更新后Yammer (成功) 
+#### <a name="roll-out-a-successful-yammer-network-updated"></a>在更新后，Yammer (成功) 
 - 什么是Yammer？ - 使用新视频更新
 - 规划策略 – 更新的内容
 - 个性化设置Yammer网络 – 使用新视频更新
@@ -60,15 +251,15 @@ Yammer内容已更新。
 - 规划并尊重边界 - 新资产
 - 在"新建Microsoft Teams中设置状态
 - 管理 Teams 中的通知 - 新资产
-- 在新建资产中Windows焦点助手
+- 在"新资产"中Windows焦点助手
 
-#### <a name="stay-productive-new"></a>通过全新 (保持) 
+#### <a name="stay-productive-new"></a>通过全新的 (保持) 
 - 混合工作场所中的个人工作效率 - 新资产
 - 混合工作场所中的团队工作效率 - 新资产
 
-#### <a name="stay-connected-new"></a>与 (保持联系) 
+#### <a name="stay-connected-new"></a>保持与 (连接) 
 - 在混合工作场所保持连接 - 新资产
-- 在 Teams 中开始对话 - 新资产
+- 开始对话Teams - 新资产
 - 创建与团队的通信合同 - 新资产
 
 ### <a name="microsoft-teams-updated"></a>Microsoft Teams (更新) 
@@ -92,11 +283,11 @@ Yammer内容已更新。
 - 创建审批\创建电子签名审批请求 - 新视频
 
 #### <a name="excel"></a>Excel
-- Excel简介\使用 Excel 作为计算器 (减法) 视频
-- Excel简介\使用 Excel 作为计算器 (乘以) 更新的视频
-- Excel简介\使用 Excel 作为计算器 (划分) - 更新的视频
-- 工作表Excel\移动或复制工作表或工作表数据简介 - 更新的视频
-- 工作表单元格Excel填充数据简介 - 更新后的视频
+- Excel简介\使用 Excel 作为计算器 (减法) - 更新的视频
+- Excel简介\使用 Excel 作为计算器 (乘以) - 更新的视频
+- Excel\use Excel as your calculator (divide) 简介 - 更新的视频
+- 工作表Excel移动或复制工作表或工作表数据简介 - 更新的视频
+- 工作表单元格Excel填充数据简介 - 更新的视频
 - 格式\对齐或旋转单元格中的文本 - 新视频
 - Charts\Create a chart from start to finish - updated video
 - 行和列\隐藏或显示行或列 - 更新的视频
@@ -152,13 +343,13 @@ Yammer内容已更新。
 #### <a name="create-inclusive-meeting-environments"></a>创建非独占会议环境
 - 创建非独占会议环境
 - 使会议和相关内容可供所有用户访问
-- 限制会议中被干扰
+- 限制会议干扰
 - 跨时区建立理解
 
 #### <a name="asynchronous-collaboration-and-co-authoring"></a>异步协作和共同创作
 - 使用异步协作减少或替换会议
 - 协作和共同创作共享内容
-- 在企业中协作的最佳实践Microsoft 365
+- 在企业中协作的Microsoft 365
 - 共同创作Microsoft 365文件
 - 文档协作和共同创作
 - 与 SharePoint、Teams 和 OneDrive
@@ -179,7 +370,7 @@ Microsoft Teams更新了以下内容。
 管理会议播放列表具有以下新资产。
 - 使用技巧会议Teams会议
 
-#### <a name="teams-on-the-go-playlist"></a>Teams上播放播放列表
+#### <a name="teams-on-the-go-playlist"></a>Teams转到播放列表
 已Teams新资源更新了"开始"播放列表上的游戏。
 - 在离开时启动频道
 - 在外创建频道
@@ -196,7 +387,7 @@ Microsoft Teams更新了以下内容。
 #### <a name="walkie-talkie-tasks-and-praise"></a>Walkie Talkie、Tasks 和 表扬
 Walkie Talkie、 Tasks， and 表扬 playlist has been added with the following assets.
 - 对讲机
-- 使用任务应用程序中Teams
+- 在任务应用中使用Teams
 - 经理任务
 - 一线工作人员的任务
 - 通信和表扬
@@ -234,7 +425,7 @@ Walkie Talkie、 Tasks， and 表扬 playlist has been added with the following 
 ### <a name="excel"></a>Excel
 Excel学习路径中的内容已更新为以下内容。
 
-#### <a name="intro-to-excel"></a>Excel
+#### <a name="intro-to-excel"></a>简介Excel
 播放列表简介Excel具有以下新资产。
 - 创建下拉列表
 
@@ -245,7 +436,7 @@ Excel学习路径中的内容已更新为以下内容。
 - 查看和插入组织数据数据类型
 
 #### <a name="formulas-and-functions"></a>公式和函数
-两个新的资源已添加到"公式和函数"播放列表中。
+两个新的资产已添加到"公式和函数"播放列表中。
 - XLOOKUP 函数
 - MATCH 函数
 
@@ -255,133 +446,3 @@ Excel学习路径中的内容已更新为以下内容。
 - SharePoint Online 简介
 - 创建网站、帖子和列表
 - 与用户共享SharePoint
-
-## <a name="september-2020-content-updates"></a>2020 年 9 月内容更新
-下面列出了 2020 年 9 月的内容更新。 
-
-### <a name="security"></a>安全性
-添加了一个新的安全子类别以及播放列表和资产，以帮助用户在办公室和家更安全地工作。 
-
-![学习路径安全播放列表](media/cg-security-playlist.png)
-
-#### <a name="five-simple-steps-playlist"></a>"五个简单的步骤"播放列表
-- 保护自己免受网络钓鱼攻击
-- 避免技术支持欺诈
-- 更安全地在家工作
-- 使电脑保持最新状态
-- 保持安全Windows保护
-
-#### <a name="security-at-home-playlist"></a>"家庭安全"播放列表
-- 使用技巧确保数据安全
-- 确保你的计算机在家安全
-- 通过联机方式帮助保护Windows 安全中心   
-
-#### <a name="security-at-work-playlist"></a>"工作安全性"播放列表
-- 确保计算机在工作时安全
-- 什么是多重身份验证？
-- 安全中的防火墙Windows保护
-- 使用防篡改保护阻止安全设置的更改
-
-### <a name="get-started-with-teams-playlist"></a>"开始Teams"播放列表
-新的"入门/Teams"播放列表已添加到"入门/第一天"子类别，以帮助用户启动并运行Teams。 播放列表包括：
-- 欢迎使用 Microsoft Teams  
-- 建立并运行你的团队
-- 在频道中工作  
-- Upload和共享文件 
-- 开始和固定聊天  
-- 加入Teams会议 
-- 管理会议 
- 
-### <a name="microsoft-365-basics"></a>Microsoft 365基础知识
-在"产品"类别中，"Office 365 Basics"子类别已更新为"Microsoft 365 Basics"类别。 如果已添加到自定义播放列表，则"Office 365基本"类别中的已停用资产仍然可用。
-
-#### <a name="get-started-playlist"></a>"入门"播放列表
-- 什么是 Microsoft 365？
-- 登录
-- Office.com
-
-#### <a name="create-and-save-playlist"></a>"创建并保存"播放列表
-- 使用桌面应用
-- 使用 Office.com 应用
-- 将文件保存到云
-- 按需同步文件与OneDrive
-
-#### <a name="share-and-collaborate-playlist"></a>"共享和协作"播放列表
-- 在文件中共享Microsoft 365
-- 共同创作者
-- 使用@mentions
-- 跟进
-
-#### <a name="work-with-microsoft-teams-playlist"></a>"使用Microsoft Teams"播放列表
-- 欢迎使用 Microsoft Teams
-- 团队和频道概述
-- 创建帖子并设置其格式
-- 开始和固定聊天
-- 拨打电话
-- 加入Teams会议
-- 使用技巧更好的会议
-
-#### <a name="get-the-most-out-of-windows-playlist"></a>"获取最大Windows"播放列表
-- 通过搜索查找文档、应用等
-- Microsoft Edge
-- Microsoft 必应搜索
-
-#### <a name="work-from-anywhere-playlist"></a>"随时随地工作"播放列表
-- OneDrive移动应用
-- Outlook移动应用
-
-#### <a name="cool-microsoft-365-features-playlist"></a>"冷Microsoft 365功能"播放列表
-- PowerPoint 设计器
-- 在 Excel 中的想法
-- Word 中的编辑器
-- 使内容可访问
-
-### <a name="create-a-chart-playlist-in-access"></a>Access 中的"创建图表"播放列表
-"创建图表播放列表"已添加到"Products\Access"子类别。  
-- 创建柱形图
-- 创建条形图
-- 创建线形图
-- 创建饼图
-- 创建组合图
-
-### <a name="teams-updates"></a>Teams更新
-"Product\Microsoft Teams"子类别已更新为以下资源。 
-
-#### <a name="manage-meetings-playlist"></a>"管理会议"播放列表
-- 加入Teams会议
-#### <a name="work-with-posts-and-messages-playlist"></a>"使用帖子和消息"播放列表
-- 创建帖子并设置其格式
-
-### <a name="planner"></a>Planner 
-以下资源已添加到"Products\Planner"中的"使用 Planner"播放列表。
-#### <a name="use-planner-playlist"></a>使用 Planner 播放列表
-- 微软待办与 Planner
-- 在"工具"中查看微软待办
-- 使用任务应用程序中Teams
-
-### <a name="word"></a>Word
-以下资源已在"与 Word 共享和共同创作"播放列表中进行了更新。
-
-#### <a name="share-and-co-author-with-word-playlist"></a>"使用 Word 共享和共同创作"播放列表
-- "使用实时共同创作协作处理 Word 文档"资源已更新。 
-
-### <a name="office-for-the-web"></a>Office 网页版
-以下资源已在"适用于 Web Office Word for web"播放列表中进行了更新。
-
-#### <a name="office-for-the-web-word-for-the-web-playlist"></a>"Office网页：Word for the web"播放列表
-- 转录录制内容
-
-### <a name="powerpoint-new-updated"></a>PowerPoint (，已更新) 
-以下资产已更新或添加到 Products\PowerPoint播放列表。 
-
-#### <a name="text--tables-with-powerpoint-playlist"></a>"Text & tables with PowerPoint"playlist
-- 将手写墨迹更改为形状、文本或数学PowerPoint (新的) 
-
-#### <a name="present-slideshows-playlist"></a>演示幻灯片播放列表
-- 录制更新 (演示文稿) 
-
-### <a name="office-quick-start-guides-updated"></a>Office快速入门指南 (更新) 
-所有Office产品Office快速入门指南。 
-
-若要详细了解如何自定义学习路径，请参阅 [自定义学习路径](custom_overview.md)。 
-
